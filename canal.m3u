@@ -1,0 +1,121 @@
+[
+    {
+        "channel_name": "CANAL_ACTION",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ACTION/output2/index.mpd",
+        "key": "ec9d9e621f216266695a30f08b93900f",
+        "kid": "22bc8b4fee6544f3867d093a16ad05a7",
+        "country": "MM"
+    },
+    {
+        "channel_name": "CANAL_CHATATE",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd",
+        "key": "ef7876fe520d4bef9bff0d0e840a7736",
+        "kid": "2cf23379b3da4347895742cd0592e376",
+        "country": "MM"
+    },
+    {
+        "channel_name": "CANAL_KYILITE",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_KYILITE/clear/index.mpd",
+        "key": "ff94b76e4c1f73eeae28a0fab6e47d8e",
+        "kid": "a8fad6d5f32844bbaef02889651a72a3",
+        "country": "MM"
+    },
+    {
+        "channel_name": "CANAL_MAEMADI",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd",
+        "key": "c54f813eff5ff437ae23c6eb0daa80fb",
+        "kid": "f6f62937490b418487461688af7003f0",
+        "country": "MM"
+    },
+    {
+        "channel_name": "CANAL_PUTUTUE",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_PUTUTUE/output2/index.mpd",
+        "key": "66034fda5c6df674454e224c5343c8c0",
+        "kid": "cdbc59b889e647bd83f7b96689c59e29",
+        "country": "MM"
+    },
+    {
+        "channel_name": "CANAL_SPORTS 1",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd",
+        "key": "33f3772c6d7c5737e4925b42171300ac",
+        "kid": "b0955e6505d341159f22cdfce6bd0511",
+        "country": "MM"
+    },
+    {
+        "channel_name": "CANAL_SPORTS 2",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd",
+        "key": "577fc30892aad29ef37139cf3210a267",
+        "kid": "4b08a329872444a79640d30bc8e5d88a",
+        "country": "MM"
+    },
+    {
+        "channel_name": "WSports",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd",
+        "key": "2397d34d036fedd415c6f46a9b657bde",
+        "kid": "bf9be8615d3f410db7744d0a628c0f16",
+        "country": "MM"
+    },
+    {
+        "channel_name": "WSports",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd",
+        "key": "2397d34d036fedd415c6f46a9b657bde",
+        "kid": "bf9be8615d3f410db7744d0a628c0f16",
+        "country": "MM"
+    },
+    {
+        "channel_name": "YTV",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd",
+        "key": "38c27f941b00f015210813b8392ac505",
+        "kid": "c1e79f41754e43699341208b2d46829e",
+        "country": "MM"
+    },
+    {
+        "channel_name": "YTV",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd",
+        "key": "38c27f941b00f015210813b8392ac505",
+        "kid": "c1e79f41754e43699341208b2d46829e",
+        "country": "MM"
+    },
+    {
+        "channel_name": "ZeeAnmol",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/ZeeAnmol/output2/index.mpd",
+        "key": "bf51a8b36bd42c6ac2331135d570e301",
+        "kid": "32dd586d93a24d4c8f8c0844998b859a",
+        "country": "MM"
+    },
+    {
+        "channel_name": "ZeeAnmol",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/ZeeAnmol/output2/index.mpd",
+        "key": "bf51a8b36bd42c6ac2331135d570e301",
+        "kid": "32dd586d93a24d4c8f8c0844998b859a",
+        "country": "MM"
+    },
+    {
+        "channel_name": "ZEE_CINEMA",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/ZEE_CINEMA/output2/index.mpd",
+        "key": "181b7974f942d70924889b6bf845c97d",
+        "kid": "663bc77b284945de98c13dbb439fcda1",
+        "country": "MM"
+    },
+    {
+        "channel_name": "ZEE_CINEMA",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/ZEE_CINEMA/output2/index.mpd",
+        "key": "181b7974f942d70924889b6bf845c97d",
+        "kid": "663bc77b284945de98c13dbb439fcda1",
+        "country": "MM"
+    },
+    {
+        "channel_name": "Zing",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/Zing/output2/index.mpd",
+        "key": "e8418684be93fbdda3ba70072bafe6dd",
+        "kid": "559ab96776a344f3b864be28ca85a9cb",
+        "country": "MM"
+    },
+    {
+        "channel_name": "Zing",
+        "mpd_url": "https://ott2.canalplus-myanmar.com/bpk-tv/Zing/output2/index.mpd",
+        "key": "e8418684be93fbdda3ba70072bafe6dd",
+        "kid": "559ab96776a344f3b864be28ca85a9cb",
+        "country": "MM"
+    }
+]	

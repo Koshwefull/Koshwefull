@@ -1435,10 +1435,6 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
 https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
 #EXTINF:-1,[MM] MRTV Hluttaw
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
-#EXTINF:-1,Aba Shwe Full
-http://adfoc.us/815413104990377
-#EXTINF:-1,Thank(ENT)
-https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
 
 #EXTINF:-1 tvg-id="5Plus.mm",5 Plus (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
@@ -1467,128 +1463,8 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="MRTVParliament.mm",MRTV Parliament (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,5_PLUS
-https://ott2.canalplus-myanmar.com/bpk-tv/5_PLUS/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,AFN
-https://ott2.canalplus-myanmar.com/bpk-tv/AFN/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ANIMAL_PLANET
-https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAL_PLANET/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ANIMAX
-https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAX/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,AXN
-https://ott2.canalplus-myanmar.com/bpk-tv/AXN/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,BOOMERANG
-https://ott2.canalplus-myanmar.com/bpk-tv/BOOMERANG/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,BOOMERANG
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/303873
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_ZATLENN
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ZATLENN/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_ACTION
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ACTION/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_ACTION
-http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVbXu59lwUqO6afQ3IxXMbcw/.m3u8
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_CHATATE
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_CHATATE
-http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVU10zDJp8A4twEXe2d43lL0/.m3u8
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_KYILITE
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_KYILITE/clear/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_MAEMADI
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_PUTUTUE
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_PUTUTUE/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_PUTUTUE
-http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVTaQyq6-7vQphl3U8yFrA4A/.m3u8
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_SPORTS 1
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_SPORTS 2
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_SUSANN
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SUSANN/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CARTOON_NETWORK
-https://ott2.canalplus-myanmar.com/bpk-tv/CARTOON_NETWORK/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CELESTIAL_CLASSIC_MOVIES
-https://ott2.canalplus-myanmar.com/bpk-tv/CELESTIAL_CLASSIC_MOVIES/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CHANNEL_K
-https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_K/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CHANNEL7_HD
-https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL7_HD/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CHANNEL_9
-https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_9/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Colors
-https://ott2.canalplus-myanmar.com/bpk-tv/Colors/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,COLORS_RISHTEY
-https://ott2.canalplus-myanmar.com/bpk-tv/COLORS_RISHTEY/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,DISCOVERY
-https://ott2.canalplus-myanmar.com/bpk-tv/DISCOVERY/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,DISCOVERY_ASIA
-https://ott2.canalplus-myanmar.com/bpk-tv/DISCOVERY_ASIA/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ENGLISH_CLUB_TV
-https://ott2.canalplus-myanmar.com/bpk-tv/ENGLISH_CLUB_TV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,FIGHT_BOX
-https://ott2.canalplus-myanmar.com/bpk-tv/FIGHT_BOX/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,FORTUNE_TV
-https://ott2.canalplus-myanmar.com/bpk-tv/FORTUNE_TV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,GAME_TOON
-https://ott2.canalplus-myanmar.com/bpk-tv/GAME_TOON/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,GLOBAL_TREKKER
-https://ott2.canalplus-myanmar.com/bpk-tv/GLOBAL_TREKKER/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,HITS
-https://ott2.canalplus-myanmar.com/bpk-tv/HITS/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,HITS_MOVIES
-https://ott2.canalplus-myanmar.com/bpk-tv/HITS_MOVIES/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,KBS_WORLD
-https://ott2.canalplus-myanmar.com/bpk-tv/KBS_WORLD/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,KIX_HD
-https://ott2.canalplus-myanmar.com/bpk-tv/KIX_HD/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,LOVE_NATURE
-https://ott2.canalplus-myanmar.com/bpk-tv/LOVE_NATURE/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MAHARBAWDI
-https://ott2.canalplus-myanmar.com/bpk-tv/MAHARBAWDI/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ManU_TV
-https://ott2.canalplus-myanmar.com/bpk-tv/ManU_TV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Mezzo
-https://ott2.canalplus-myanmar.com/bpk-tv/Mezzo/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MITV
-https://ott2.canalplus-myanmar.com/bpk-tv/MITV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MNTV
-https://ott2.canalplus-myanmar.com/bpk-tv/MNTV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MRTV_ENTERTAINMENT
-https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_ENTERTAINMENT/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MRTV_4_HD
-https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_4_HD/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MRTV_HD
-https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_HD/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MTVIndia
-https://ott2.canalplus-myanmar.com/bpk-tv/MTVIndia/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ROCK_ENT
-https://ott2.canalplus-myanmar.com/bpk-tv/ROCK_ENT/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Rock Action
-http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVTHedqG0Jd-GoNbn3G5S2t0/.m3u8
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,THRILL
-https://ott2.canalplus-myanmar.com/bpk-tv/THRILL/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,THUKHUMA_1
-https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,THUKHUMA_2
-https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_2/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,TraceUrban
-https://ott2.canalplus-myanmar.com/bpk-tv/TraceUrban/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,TVN
-https://ott2.canalplus-myanmar.com/bpk-tv/TVN/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Wataaa
-https://ott2.canalplus-myanmar.com/bpk-tv/Wataaa/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,WB_TV
-https://ott2.canalplus-myanmar.com/bpk-tv/WB_TV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,WSports
-https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,YTV
-https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ZeeAnmol
-https://ott2.canalplus-myanmar.com/bpk-tv/ZeeAnmol/output2/index.mpd
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ZEE_CINEMA
-https://ott2.canalplus-myanmar.com/bpk-tv/ZEE_CINEMA/output2/index.mpd
-
 #EXTINF:-1,Aba Shwe Full
 http://adfoc.us/815413104990377
 #EXTINF:-1,Thank(ENT)
 https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
+

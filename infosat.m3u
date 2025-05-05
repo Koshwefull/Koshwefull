@@ -98,52 +98,62 @@ http://watchindia.net:8880/40972/04523/288
 http://watchindia.net:8880/40972/04523/1290
 
 
-#EXTINF:-1,Star Sports Select 1 HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659509
-#EXTINF:-1,Star Sports Select 2 HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659510
-#EXTINF:-1,Sony Ten 1
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659499
-#EXTINF:-1,Sony Ten 2
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659500
-#EXTINF:-1,Sony Ten 3
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659501
-#EXTINF:-1,Sony Ten 4
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659487
-#EXTINF:-1,Sony Ten 5
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659486
-#EXTINF:-1,Sports 18
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659514
-#EXTINF:-1,Sports 18 Khel
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659521
-#EXTINF:-1,Star Sports 1 HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659506
-#EXTINF:-1,Star Sports 1 HD Hindi
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659507
-#EXTINF:-1,Star Sports 1 Tamil
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659498
-#EXTINF:-1,Star Sports 1 Telugu
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659512
-#EXTINF:-1,Star Sports 2 HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659508
-#EXTINF:-1,Star Utsav IN
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659520
-#EXTINF:-1,Star Bharat HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659502
-#EXTINF:-1,Star Gold
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659475
-#EXTINF:-1,Star Gold Select HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659503
-#EXTINF:-1,Star Jalsha
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659474
-#EXTINF:-1,Star Life
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659478
-#EXTINF:-1,Star Movies
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659476
-#EXTINF:-1,STAR Movies Select HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659504
-#EXTINF:-1,Star Plus HD
-http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659505
+
+#EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (1)
+http://watchindia.net:8880/40972/04523/2232
+#EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (2)
+http://watchindia.net:8880/40972/04523/2456
+#EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (3)
+http://watchindia.net:8880/40972/04523/2678
+#EXTINF:-1,tvg-id="ext" group-title="Sports",Star Sports 1 HD (Hindi)
+http://watchindia.net:8880/40972/04523/2673
+#EXTINF:-1,tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD (1)
+http://watchindia.net:8880/40972/04523/1069
+#EXTINF:-1,tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD (2)
+http://watchindia.net:8880/40972/04523/2163
+#EXTINF:-1, tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports Select 1 HD
+http://watchindia.net:8880/40972/04523/1070
+#EXTINF:-1, tvg-id="StarSportsSelectHD2.in" group-title="Sports",Star Sports Select 2 HD
+http://watchindia.net:8880/40972/04523/1071
+#EXTINF:-1, tvg-id="SkySpMainEv.uk" group-title="Sports",Sky Sports Main Event
+http://watchindia.net:8880/40972/04523/2091
+#EXTINF:-1, tvg-id="SkySpPL.uk" group-title="Sports",Sky Sports Premier League
+http://watchindia.net:8880/40972/04523/2092
+#EXTINF:-1,tvg-id="SkySpCricket.uk" group-title="Sports",Sky Sports Cricket
+http://watchindia.net:8880/40972/04523/2090
+#EXTINF:-1, tvg-id="SkySpF1.uk" group-title="Sports",Sky Sports F1
+http://watchindia.net:8880/40972/04523/2094
+#EXTINF:-1, tvg-id="ext" group-title="Sports",Sky Sports +
+http://watchindia.net:8880/40972/04523/2095
+#EXTINF:-1, tvg-id="SkySpTheOpen.uk" group-title="Sports",Sky Sports Golf
+http://watchindia.net:8880/40972/04523/2096
+#EXTINF:-1, tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD (1)
+http://watchindia.net:8880/40972/04523/1756
+#EXTINF:-1, tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD (2)
+http://watchindia.net:8880/40972/04523/2215
+#EXTINF:-1,tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/40972/04523/1757
+#EXTINF:-1,tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 HD
+http://watchindia.net:8880/40972/04523/1758
+#EXTINF:-1, tvg-id="ext" group-title="Sports",Sony Ten 4 HD
+http://watchindia.net:8880/40972/04523/2662
+#EXTINF:-1, tvg-id="ext" group-title="Sports",Sony Ten 5 HD
+http://watchindia.net:8880/40972/04523/2663
+#EXTINF:-1,tvg-id="ext" group-title="Sports",Sports 18 1 HD
+http://watchindia.net:8880/40972/04523/2423
+#EXTINF:-1, tvg-id="ext" group-title="Sports",TNT Sports 1
+http://watchindia.net:8880/40972/04523/2657
+#EXTINF:-1, tvg-id="FOXSports1.us" group-title="Sports",Fox Sports 1
+http://watchindia.net:8880/40972/04523/2421
+#EXTINF:-1,tvg-id="DDSports.in" group-title="Sports",DD Sports
+http://watchindia.net:8880/40972/04523/2380
+#EXTINF:-1, tvg-id="WillowCricket.us" group-title="Sports",Willow HD (1)
+http://watchindia.net:8880/40972/04523/1067
+#EXTINF:-1,tvg-id="WillowCricket.us" group-title="Sports",Willow HD (2)
+http://watchindia.net:8880/40972/04523/2145
+#EXTINF:-1,tvg-id="ext" group-title="Sports",Astro Cricket
+http://watchindia.net:8880/40972/04523/2174
+
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
@@ -1556,60 +1566,6 @@ http://watchindia.net:8880/40972/04523/1952
 #EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Punjabi",Zee Punjabi
 http://watchindia.net:8880/40972/04523/1951
 
-#EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (1)
-http://watchindia.net:8880/40972/04523/2232
-#EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (2)
-http://watchindia.net:8880/40972/04523/2456
-#EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (3)
-http://watchindia.net:8880/40972/04523/2678
-#EXTINF:-1,tvg-id="ext" group-title="Sports",Star Sports 1 HD (Hindi)
-http://watchindia.net:8880/40972/04523/2673
-#EXTINF:-1,tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD (1)
-http://watchindia.net:8880/40972/04523/1069
-#EXTINF:-1,tvg-id="StarSportsHD2.in" group-title="Sports",Star Sports 2 HD (2)
-http://watchindia.net:8880/40972/04523/2163
-#EXTINF:-1, tvg-id="StarSportsSelectHD1.in" group-title="Sports",Star Sports Select 1 HD
-http://watchindia.net:8880/40972/04523/1070
-#EXTINF:-1, tvg-id="StarSportsSelectHD2.in" group-title="Sports",Star Sports Select 2 HD
-http://watchindia.net:8880/40972/04523/1071
-#EXTINF:-1, tvg-id="SkySpMainEv.uk" group-title="Sports",Sky Sports Main Event
-http://watchindia.net:8880/40972/04523/2091
-#EXTINF:-1, tvg-id="SkySpPL.uk" group-title="Sports",Sky Sports Premier League
-http://watchindia.net:8880/40972/04523/2092
-#EXTINF:-1,tvg-id="SkySpCricket.uk" group-title="Sports",Sky Sports Cricket
-http://watchindia.net:8880/40972/04523/2090
-#EXTINF:-1, tvg-id="SkySpF1.uk" group-title="Sports",Sky Sports F1
-http://watchindia.net:8880/40972/04523/2094
-#EXTINF:-1, tvg-id="ext" group-title="Sports",Sky Sports +
-http://watchindia.net:8880/40972/04523/2095
-#EXTINF:-1, tvg-id="SkySpTheOpen.uk" group-title="Sports",Sky Sports Golf
-http://watchindia.net:8880/40972/04523/2096
-#EXTINF:-1, tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD (1)
-http://watchindia.net:8880/40972/04523/1756
-#EXTINF:-1, tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 HD (2)
-http://watchindia.net:8880/40972/04523/2215
-#EXTINF:-1,tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 HD
-http://watchindia.net:8880/40972/04523/1757
-#EXTINF:-1,tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 HD
-http://watchindia.net:8880/40972/04523/1758
-#EXTINF:-1, tvg-id="ext" group-title="Sports",Sony Ten 4 HD
-http://watchindia.net:8880/40972/04523/2662
-#EXTINF:-1, tvg-id="ext" group-title="Sports",Sony Ten 5 HD
-http://watchindia.net:8880/40972/04523/2663
-#EXTINF:-1,tvg-id="ext" group-title="Sports",Sports 18 1 HD
-http://watchindia.net:8880/40972/04523/2423
-#EXTINF:-1, tvg-id="ext" group-title="Sports",TNT Sports 1
-http://watchindia.net:8880/40972/04523/2657
-#EXTINF:-1, tvg-id="FOXSports1.us" group-title="Sports",Fox Sports 1
-http://watchindia.net:8880/40972/04523/2421
-#EXTINF:-1,tvg-id="DDSports.in" group-title="Sports",DD Sports
-http://watchindia.net:8880/40972/04523/2380
-#EXTINF:-1, tvg-id="WillowCricket.us" group-title="Sports",Willow HD (1)
-http://watchindia.net:8880/40972/04523/1067
-#EXTINF:-1,tvg-id="WillowCricket.us" group-title="Sports",Willow HD (2)
-http://watchindia.net:8880/40972/04523/2145
-#EXTINF:-1,tvg-id="ext" group-title="Sports",Astro Cricket
-http://watchindia.net:8880/40972/04523/2174
 
 #EXTINF:-1,Cine Sky 1
 http://bktv.xyz:8080/12982972860/a982972860a/40623

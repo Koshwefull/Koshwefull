@@ -1,7 +1,5 @@
 #EXTM3U
-
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
 
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)

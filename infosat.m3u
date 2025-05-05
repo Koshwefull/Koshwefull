@@ -1,5 +1,102 @@
 #EXTM3U
 
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
+
+#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)
+http://watchindia.net:8880/40972/04523/276
+#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
+http://watchindia.net:8880/40972/04523/2216
+#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet
+http://watchindia.net:8880/40972/04523/2321
+#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
+http://watchindia.net:8880/40972/04523/2216
+#EXTINF:-1 tvg-id="AsianetMovies.in" group-title="Malayalam",Asianet Movies (2)
+http://watchindia.net:8880/40972/04523/2217
+#EXTINF:-1 tvg-id="AsianetNews.in" group-title="Malayalam",Asianet News (1)
+http://watchindia.net:8880/40972/04523/268
+#EXTINF:-1 tvg-id="AsianetNews.in" group-title="Malayalam",Asianet News (2)
+http://watchindia.net:8880/40972/04523/2035
+#EXTINF:-1 tvg-id="AsianetPlus.in" group-title="Malayalam",Asianet Plus (1)
+http://watchindia.net:8880/40972/04523/277
+#EXTINF:-1 tvg-id="AsianetPlus.in" group-title="Malayalam",Asianet Plus (2)
+http://watchindia.net:8880/40972/04523/2240
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya TV HD
+http://watchindia.net:8880/40972/04523/279
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya Comedy
+http://watchindia.net:8880/40972/04523/299
+#EXTINF:0 tvg-id="KiranTv.in" group-title="Malayalam",Surya Movies
+http://watchindia.net:8880/40972/04523/298
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya Music
+http://watchindia.net:8880/40972/04523/285
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Malayalam",Mazhavil Manorama HD (1)
+http://watchindia.net:8880/40972/04523/280
+#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Malayalam",Mazhavil Manorama HD (2)
+http://watchindia.net:8880/40972/04523/2231
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Zee Keralam HD
+http://watchindia.net:8880/40972/04523/287
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Flowers TV (1)
+http://watchindia.net:8880/40972/04523/2
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Flowers TV (2)
+http://watchindia.net:8880/40972/04523/2291
+#EXTINF:0 tvg-id="news24" group-title="Malayalam",24 News (1)
+http://watchindia.net:8880/40972/04523/1064
+#EXTINF:0 tvg-id="news24" group-title="Malayalam",24 News (2)
+http://watchindia.net:8880/40972/04523/2082
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Amrita
+http://watchindia.net:8880/40972/04523/284
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",DD Malayalam
+http://watchindia.net:8880/40972/04523/303
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Garshom TV
+http://watchindia.net:8880/40972/04523/1291
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Goodness TV
+http://watchindia.net:8880/40972/04523/2234
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Harvest TV
+http://watchindia.net:8880/40972/04523/1303
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Jaihind
+http://watchindia.net:8880/40972/04523/293
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Janam TV
+http://watchindia.net:8880/40972/04523/309
+#EXTINF:0 tvg-id="JeevanTv.in" group-title="Malayalam",Jeevan TV
+http://watchindia.net:8880/40972/04523/300
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kairali News
+http://watchindia.net:8880/40972/04523/308
+#EXTINF:0 tvg-id="KairaliTv.in" group-title="Malayalam",Kairali TV
+http://watchindia.net:8880/40972/04523/307
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kairali We
+http://watchindia.net:8880/40972/04523/1761
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kappa TV
+http://watchindia.net:8880/40972/04523/1762
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kaumudy TV
+http://watchindia.net:8880/40972/04523/305
+#EXTINF:0 tvg-id="KochuTv.in" group-title="Malayalam",Kochu TV
+http://watchindia.net:8880/40972/04523/290
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Magnavision TV
+http://watchindia.net:8880/40972/04523/2233
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Manorama News
+http://watchindia.net:8880/40972/04523/281
+#EXTINF:0 tvg-id="MathrubhumiNews.in" group-title="Malayalam",Mathrubhumi News
+http://watchindia.net:8880/40972/04523/304
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Media One
+http://watchindia.net:8880/40972/04523/302
+#EXTINF:0 tvg-id="IBN7.in" group-title="Malayalam",News 18
+http://watchindia.net:8880/40972/04523/301
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Nick Malayalam
+http://watchindia.net:8880/40972/04523/2632
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Nickelodeon Sonic
+http://watchindia.net:8880/40972/04523/2631
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Raj Musix Malayalam
+http://watchindia.net:8880/40972/04523/286
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Reporter TV
+http://watchindia.net:8880/40972/04523/306
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Safari TV
+http://watchindia.net:8880/40972/04523/1301
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Shalom TV
+http://watchindia.net:8880/40972/04523/288
+#EXTINF:0 tvg-id="ext" group-title="Malayalam",Powervision TV
+http://watchindia.net:8880/40972/04523/1290
+
 
 #EXTINF:-1,Star Sports Select 1 HD
 http://jmrk.xyz:3050/harrissam029@gmail.com/RAzujkW794/659509
@@ -1010,98 +1107,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)
-http://watchindia.net:8880/40972/04523/276
-#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
-http://watchindia.net:8880/40972/04523/2216
-#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet
-http://watchindia.net:8880/40972/04523/2321
-#EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
-http://watchindia.net:8880/40972/04523/2216
-#EXTINF:-1 tvg-id="AsianetMovies.in" group-title="Malayalam",Asianet Movies (2)
-http://watchindia.net:8880/40972/04523/2217
-#EXTINF:-1 tvg-id="AsianetNews.in" group-title="Malayalam",Asianet News (1)
-http://watchindia.net:8880/40972/04523/268
-#EXTINF:-1 tvg-id="AsianetNews.in" group-title="Malayalam",Asianet News (2)
-http://watchindia.net:8880/40972/04523/2035
-#EXTINF:-1 tvg-id="AsianetPlus.in" group-title="Malayalam",Asianet Plus (1)
-http://watchindia.net:8880/40972/04523/277
-#EXTINF:-1 tvg-id="AsianetPlus.in" group-title="Malayalam",Asianet Plus (2)
-http://watchindia.net:8880/40972/04523/2240
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya TV HD
-http://watchindia.net:8880/40972/04523/279
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya Comedy
-http://watchindia.net:8880/40972/04523/299
-#EXTINF:0 tvg-id="KiranTv.in" group-title="Malayalam",Surya Movies
-http://watchindia.net:8880/40972/04523/298
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Surya Music
-http://watchindia.net:8880/40972/04523/285
-#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Malayalam",Mazhavil Manorama HD (1)
-http://watchindia.net:8880/40972/04523/280
-#EXTINF:0 tvg-id="MazhavilManorama.in" group-title="Malayalam",Mazhavil Manorama HD (2)
-http://watchindia.net:8880/40972/04523/2231
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Zee Keralam HD
-http://watchindia.net:8880/40972/04523/287
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Flowers TV (1)
-http://watchindia.net:8880/40972/04523/2
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Flowers TV (2)
-http://watchindia.net:8880/40972/04523/2291
-#EXTINF:0 tvg-id="news24" group-title="Malayalam",24 News (1)
-http://watchindia.net:8880/40972/04523/1064
-#EXTINF:0 tvg-id="news24" group-title="Malayalam",24 News (2)
-http://watchindia.net:8880/40972/04523/2082
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Amrita
-http://watchindia.net:8880/40972/04523/284
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",DD Malayalam
-http://watchindia.net:8880/40972/04523/303
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Garshom TV
-http://watchindia.net:8880/40972/04523/1291
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Goodness TV
-http://watchindia.net:8880/40972/04523/2234
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Harvest TV
-http://watchindia.net:8880/40972/04523/1303
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Jaihind
-http://watchindia.net:8880/40972/04523/293
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Janam TV
-http://watchindia.net:8880/40972/04523/309
-#EXTINF:0 tvg-id="JeevanTv.in" group-title="Malayalam",Jeevan TV
-http://watchindia.net:8880/40972/04523/300
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kairali News
-http://watchindia.net:8880/40972/04523/308
-#EXTINF:0 tvg-id="KairaliTv.in" group-title="Malayalam",Kairali TV
-http://watchindia.net:8880/40972/04523/307
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kairali We
-http://watchindia.net:8880/40972/04523/1761
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kappa TV
-http://watchindia.net:8880/40972/04523/1762
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Kaumudy TV
-http://watchindia.net:8880/40972/04523/305
-#EXTINF:0 tvg-id="KochuTv.in" group-title="Malayalam",Kochu TV
-http://watchindia.net:8880/40972/04523/290
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Magnavision TV
-http://watchindia.net:8880/40972/04523/2233
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Manorama News
-http://watchindia.net:8880/40972/04523/281
-#EXTINF:0 tvg-id="MathrubhumiNews.in" group-title="Malayalam",Mathrubhumi News
-http://watchindia.net:8880/40972/04523/304
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Media One
-http://watchindia.net:8880/40972/04523/302
-#EXTINF:0 tvg-id="IBN7.in" group-title="Malayalam",News 18
-http://watchindia.net:8880/40972/04523/301
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Nick Malayalam
-http://watchindia.net:8880/40972/04523/2632
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Nickelodeon Sonic
-http://watchindia.net:8880/40972/04523/2631
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Raj Musix Malayalam
-http://watchindia.net:8880/40972/04523/286
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Reporter TV
-http://watchindia.net:8880/40972/04523/306
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Safari TV
-http://watchindia.net:8880/40972/04523/1301
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Shalom TV
-http://watchindia.net:8880/40972/04523/288
-#EXTINF:0 tvg-id="ext" group-title="Malayalam",Powervision TV
-http://watchindia.net:8880/40972/04523/1290
+
 
 #EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (1)
 http://watchindia.net:8880/40972/04523/801

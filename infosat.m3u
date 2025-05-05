@@ -1857,3 +1857,353 @@ http://adfoc.us/815413104990377
 #EXTINF:-1,Thank(ENT)
 https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
 
+
+#EXTM3U
+
+
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,5_PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+https://ott2.canalplus-myanmar.com/bpk-tv/5_PLUS/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81edd45116b4ef792d2f134621bd8bf:f85326d47f8b7d329e600a6b8088ef3f
+https://ott2.canalplus-myanmar.com/bpk-tv/AFN/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ANIMAL_PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82bec06c949747c3a7163cc400a72cd8:4eed4cd59a1b7aef2f2d1a9ea29eecb5
+https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAL_PLANET/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c017e85b8c64f0bb87e45fd316148f0:16bfb4619b4332a4fd2fc67a1ce28675
+https://ott2.canalplus-myanmar.com/bpk-tv/ANIMAX/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c7a2baf065b48ccb3bad3c4e2a29cdf:44fdfd96a77531b38f8e3ac722ecf1b7
+https://ott2.canalplus-myanmar.com/bpk-tv/AXN/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38cf61a79d674cb78cab3da9f0d3c4aa:6be43b2908fc48631ca36bebffe3adb7
+https://ott2.canalplus-myanmar.com/bpk-tv/BOOMERANG/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,BOOMERANG
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/303873
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_ZATLENN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8fad6d5f32844bbaef02889651a72a3:ff94b76e4c1f73eeae28a0fab6e47d8e
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ZATLENN/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22bc8b4fee6544f3867d093a16ad05a7:ec9d9e621f216266695a30f08b93900f
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ACTION/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_ACTION
+http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVbXu59lwUqO6afQ3IxXMbcw/.m3u8
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_CHATATE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cf23379b3da4347895742cd0592e376:ef7876fe520d4bef9bff0d0e840a7736
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_CHATATE
+http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVU10zDJp8A4twEXe2d43lL0/.m3u8
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_KYILITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8fad6d5f32844bbaef02889651a72a3:ff94b76e4c1f73eeae28a0fab6e47d8e
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_KYILITE/clear/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_MAEMADI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6f62937490b418487461688af7003f0:c54f813eff5ff437ae23c6eb0daa80fb
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_PUTUTUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdbc59b889e647bd83f7b96689c59e29:66034fda5c6df674454e224c5343c8c0
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_PUTUTUE/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_PUTUTUE
+http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVTaQyq6-7vQphl3U8yFrA4A/.m3u8
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b08a329872444a79640d30bc8e5d88a:577fc30892aad29ef37139cf3210a267
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CANAL_SUSANN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ac26716ab1e473e88b3339a5e2e7244:e500f7fbafd481136abc6149358ceb00
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SUSANN/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CARTOON_NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=207ef98485ac4068bbbc0f5f5f6501ab:519902a6b43afbec6ba78671c172eac0
+https://ott2.canalplus-myanmar.com/bpk-tv/CARTOON_NETWORK/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CELESTIAL_CLASSIC_MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=485b3d84c94f490cbb7e160405d48756:2f1de8d84bab4d99672512029206eb34
+https://ott2.canalplus-myanmar.com/bpk-tv/CELESTIAL_CLASSIC_MOVIES/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CHANNEL_K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b37043b801d74c05a51199311c30d0f4:604538d3252a3f1e291c2dcdb635edb8
+https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_K/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CHANNEL7_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
+https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL7_HD/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,CHANNEL_9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3410378a394640eb86502983c88f1369:4d86374689bfe39f402b99e8999c3683
+https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_9/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Colors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c686a8dd814344a2b7dfa1280c0d10ab:345af5d0c09ab5eb511ebfa3736bc3c6
+https://ott2.canalplus-myanmar.com/bpk-tv/Colors/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,COLORS_RISHTEY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c663feaea874e7c8698ef73f8d099e9:e597f24a21c8dde3a21fdbc8dbff8722
+https://ott2.canalplus-myanmar.com/bpk-tv/COLORS_RISHTEY/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54e5216a20164e8091b0f8fba5a55971:30cf9fec26eba4305a4af2eb788eb92c
+https://ott2.canalplus-myanmar.com/bpk-tv/DISCOVERY/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,DISCOVERY_ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6172e5f1d2ae4ce4a396387adcdbd995:f33f26ef0cc4d2f34b02860d495e7b4c
+https://ott2.canalplus-myanmar.com/bpk-tv/DISCOVERY_ASIA/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ENGLISH_CLUB_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e7fc6ca459744eabdf874ee889137db:181a608511bb2c6c8993afaf9b45b15a
+https://ott2.canalplus-myanmar.com/bpk-tv/ENGLISH_CLUB_TV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,FIGHT_BOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6061ad390394de28ac3dfc669fa0e93:ecc2286acc604b0527512b6f1ecfa290
+https://ott2.canalplus-myanmar.com/bpk-tv/FIGHT_BOX/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,FORTUNE_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c3996906e448fd99bb5f18eccb3705:18c637fdc99bde1c8b917892c34fcae7
+https://ott2.canalplus-myanmar.com/bpk-tv/FORTUNE_TV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,GAME_TOON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335b963500b440c3bdadeabb9174aed9:fa8d13b340c3d21fd612bf55cd035236
+https://ott2.canalplus-myanmar.com/bpk-tv/GAME_TOON/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,GLOBAL_TREKKER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=463798189bf149098533dd255ca587da:f5a472a439f229dfb10fcf1abe189066
+https://ott2.canalplus-myanmar.com/bpk-tv/GLOBAL_TREKKER/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=750fe6f03db54b578da10037d6e80d07:39351696187510a19955da97477c148f
+https://ott2.canalplus-myanmar.com/bpk-tv/HITS/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,HITS_MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23de671871284ea182a59a5a432de719:213b8d0bcd301ff679a8fda36158e89b
+https://ott2.canalplus-myanmar.com/bpk-tv/HITS_MOVIES/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,KBS_WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d00c22ab5d16474ebd0c41869359be62:5ea00adc2c8ee8ec2120103b9da05be7
+https://ott2.canalplus-myanmar.com/bpk-tv/KBS_WORLD/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,KIX_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5def1246f27451784b22985b63c50bd:f17c1b4d9bbf911693444e9fb9038955
+https://ott2.canalplus-myanmar.com/bpk-tv/KIX_HD/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,LOVE_NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68bdf7fac91645e88768ccda3aedbe59:08cbd57137cd689c2fe802ca7c7935d6
+https://ott2.canalplus-myanmar.com/bpk-tv/LOVE_NATURE/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MAHARBAWDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3a66beda11144dcb3faf62f6d4f9da0:269fd62b6d32921e67920fd4ceff5595
+https://ott2.canalplus-myanmar.com/bpk-tv/MAHARBAWDI/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ManU_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e8d49f60e342808bc756e246de64fb:7ed5fc457bd396096f5661c8ff96f927
+https://ott2.canalplus-myanmar.com/bpk-tv/ManU_TV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da2942264c854ee4b6c43feb09a4a575:104addcbdae884ab23df2e6a46782ba2
+https://ott2.canalplus-myanmar.com/bpk-tv/Mezzo/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d274ff0fd13423fb27c1140deb46acf:1c3670e0f14f79be41acecd305db99a9
+https://ott2.canalplus-myanmar.com/bpk-tv/MITV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MNTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec1cd655ff41423fa49b0abaf840dd94:1013c6d9e08cb108e957311a2d990979
+https://ott2.canalplus-myanmar.com/bpk-tv/MNTV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MRTV_ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7ab0c4dd3fa4cc48a86d7db3d95caaf:5ae6455ef9f6b9ebc5eae086e1218949
+https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_ENTERTAINMENT/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MRTV_4_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7f7cbe12a54a27917f21f7310f63ae:101c5da36da54bc88122b932d946e9f7
+https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_4_HD/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MRTV_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=693bedac023546fb99674f4cf7d8e098:ade506604207bbe4a917eb9f5ce5b536
+https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_HD/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,MTVIndia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af98aca306d444af898ad6b246ce7aaf:484aa234058e1f8848abb857103e4e37
+https://ott2.canalplus-myanmar.com/bpk-tv/MTVIndia/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ROCK_ENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ea0295b485c4416897cabc7c807cb79:ed93ba877ee225dae8fa1fb9e602ab53
+https://ott2.canalplus-myanmar.com/bpk-tv/ROCK_ENT/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Rock Action
+http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVTHedqG0Jd-GoNbn3G5S2t0/.m3u8
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cb9b92ee5364a5e8960da6a41bd9c73:5d715a88043b65e01f78d81cf709e47c
+https://ott2.canalplus-myanmar.com/bpk-tv/THRILL/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,THUKHUMA_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0752eeedc9c04d278e6cf2d477f3a3ed:9769ab0b2b0b4f0e3ee7316ae78b1689
+https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,THUKHUMA_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=464fb15007cd4620b19ed473f679c2bf:72f0b1a3c2d6003173644940c6a83831
+https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_2/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,TraceUrban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44c73f3955814cab889d3a5592afc3d8:c5980271df20f12202ea199ec45700af
+https://ott2.canalplus-myanmar.com/bpk-tv/TraceUrban/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=166e3f35f2064c78b66d43c11d6f8faa:694d903da7566927cb046b9df2e39f36
+https://ott2.canalplus-myanmar.com/bpk-tv/TVN/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Wataaa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=863a53fae2004d4fb003d574dca1a39b:e8d6bf20e4aacca08f37f2422558ca05
+https://ott2.canalplus-myanmar.com/bpk-tv/Wataaa/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,WB_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7105350ed51417f94565a65b9bb3c24:7142055f9d69c2fdcf02d2d92294d7f8
+https://ott2.canalplus-myanmar.com/bpk-tv/WB_TV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,WSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf9be8615d3f410db7744d0a628c0f16:2397d34d036fedd415c6f46a9b657bde
+https://ott2.canalplus-myanmar.com/bpk-tv/WSports/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,YTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e79f41754e43699341208b2d46829e:38c27f941b00f015210813b8392ac505
+https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ZeeAnmol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32dd586d93a24d4c8f8c0844998b859a:bf51a8b36bd42c6ac2331135d570e301
+https://ott2.canalplus-myanmar.com/bpk-tv/ZeeAnmol/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,ZEE_CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=663bc77b284945de98c13dbb439fcda1:181b7974f942d70924889b6bf845c97d
+https://ott2.canalplus-myanmar.com/bpk-tv/ZEE_CINEMA/output2/index.mpd
+#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="C+" ,Zing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=559ab96776a344f3b864be28ca85a9cb:e8418684be93fbdda3ba70072bafe6dd
+https://ott2.canalplus-myanmar.com/bpk-tv/Zing/output2/index.mpd

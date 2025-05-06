@@ -196,11 +196,12 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Football",SONY TEN 4 HD
+http://watchindia.net:8880/40972/04523/2662
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Football",ONE Championship TV (PLUTO)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Football",ONE Championship TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Football",Fight Network (PLEX)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fightnetwork_logo_dark.png" group-title="Football",Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Football" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
@@ -227,7 +228,7 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 #EXTINF:-1 group-title="Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jk9QNq3vxTwghzf3MzL18JG0cV0ktsUcKQ&s", Astro Football
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=918983
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",ช่อง Astro Arena 2
+#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", Astro Arena 2
 http://50.7.234.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png", BeIN SPORTS 1
@@ -245,7 +246,7 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 #EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png", WWE
 http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Melody.png",ช่อง Melody
+#EXTINF:-1 group-title="Football" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Melody.png", Melody
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=571226
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/SINAR_FullColor_RGB_LightBg.png", SINAR

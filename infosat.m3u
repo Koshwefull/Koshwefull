@@ -2,6 +2,7 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
 
+////////////Malayalam/////////////
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)
 http://watchindia.net:8880/40972/04523/276
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
@@ -95,6 +96,8 @@ http://watchindia.net:8880/40972/04523/288
 #EXTINF:0 tvg-id="ext" group-title="Malayalam",Powervision TV
 http://watchindia.net:8880/40972/04523/1290
 
+/////////////SS SPORTS//////////////
+#EXTM3U
 
 #EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (1)
 http://watchindia.net:8880/40972/04523/2232
@@ -150,7 +153,7 @@ http://watchindia.net:8880/40972/04523/1067
 http://watchindia.net:8880/40972/04523/2145
 #EXTINF:-1,tvg-id="ext" group-title="Sports",Astro Cricket
 http://watchindia.net:8880/40972/04523/2174
-//////////////////////Hidni/////////////////////////
+//////////////Hidni/////////////////////////
 #EXTM3U
 
 #EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (1)
@@ -276,7 +279,7 @@ http://watchindia.net:8880/40972/04523/2359
 #EXTINF:0 tvg-id="zoom" group-title="Hindi",Zoom
 http://watchindia.net:8880/40972/04523/842
 
-//////////////Tamil///////////////////////////
+///////////Tamil///////////////////////////
 
 #EXTM3U
 
@@ -363,7 +366,7 @@ http://watchindia.net:8880/40972/04523/887
 #EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Thirai
 http://watchindia.net:8880/40972/04523/2142
 
-////////////////////////////Telugu///////////////////////
+////////////Telugu///////////////////////
 
 #EXTM3U
 
@@ -424,7 +427,7 @@ http://watchindia.net:8880/40972/04523/940
 #EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Music
 http://watchindia.net:8880/40972/04523/2192
 
-/////////////////////Kannada///////////////////////////
+/////////Kannada///////////////////////////
 
 #EXTM3U
 
@@ -462,12 +465,13 @@ http://watchindia.net:8880/40972/04523/1003
 http://watchindia.net:8880/40972/04523/1001
 
 
-/////////////////////Indo/////////////////////////
+///////////Indo/////////////////////////
 
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
+
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -482,28 +486,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=115
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
-
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.imgur.com/9889vKJ.jpeg" group-title="SPORTS CHANNEL",SOCCER CHANNEL
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SOCCER_CHANNEL.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjGVaiF.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=112&type=dash
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7GSTm4.jpeg" group-title="SPORTS CHANNEL", SPORTSTARS 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=113&type=dash
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8

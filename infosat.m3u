@@ -18,6 +18,9 @@ http://imediatv666.store:7777/Mads77/GTRQEDTCY/146616
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 7" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 7
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146617
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="rcti" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="INDONESIA CHANNEL",RCTI
+http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
+
 ########################################################
 
 #EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (1)

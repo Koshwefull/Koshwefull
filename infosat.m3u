@@ -20,6 +20,18 @@ http://imediatv666.store:7777/Mads77/GTRQEDTCY/146617
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="rcti" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="INDONESIA CHANNEL",RCTI
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
+#EXTINF:-1 xui-id="10266" tvg-id="" tvg-name="UFC FIGH PASS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8BopQ094YfcDsII1n-xpOg.png" group-title="INDONESIA CHANNEL",UFC FIGH PASS
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXgJkFO1_PfvZht20YUO-r0
+#EXTINF:-1 xui-id="286" tvg-id="" tvg-name="UNIFI UFC" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkELSirNmxKBdUgEH68Sv2WMaqvXVbopGXiC0-MbPG0TE.png" group-title="INDONESIA CHANNEL",UNIFI UFC
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXWr-01YOK3hbLAMr9NvWys
+#EXTINF:-1 xui-id="287" tvg-id="" tvg-name="RMC FIGHT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQhA5LJdYhDCaF1OsA8oLaGY5ScytVNrI67k3KIFEzkg.png" group-title="INDONESIA CHANNEL",RMC FIGHT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaEdlDEoWXkM7GD7RR-8y3M
+#EXTINF:-1 xui-id="9173" tvg-id="" tvg-name="FIGHT SPORTS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkyhVRloY-11dXRHPlEnKk499zTwYhVQBfiW8VqEq5w3I.png" group-title="INDONESIA CHANNEL",FIGHT SPORTS
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYo9SEe9BQ5LVlvd27gjMdY
+#EXTINF:-1 xui-id="9172" tvg-id="" tvg-name="BOXING TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYEhE4MpIPVqiFHVOQc3oxpCkdnxJ9wPxofMKLSEvUek.png" group-title="INDONESIA CHANNEL",BOXING TV
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeX804HAPTqOSNMItS-46eDY
+#EXTINF:-1 xui-id="289" tvg-id="" tvg-name="WWE" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkXOwGSKWBWIW4BkjCaWNUVA.png" group-title="INDONESIA CHANNEL",WWE
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUKIS_GYlaoimQtZ7Y4CxYE
 
 ########################################################
 
@@ -184,8 +196,7 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" group-title="Football",ONE Championship TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
-
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaEdlDEoWXkM7GD7RR-8y3M
 
 ////////////Malayalam/////////////
 

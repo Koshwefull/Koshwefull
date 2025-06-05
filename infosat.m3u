@@ -1038,7 +1038,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
-
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
 
@@ -1176,109 +1175,8 @@ http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/304833
 http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/301871
 #EXTINF:-1,True Sport 4
 http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/285569
-#EXTINF:-1,TV5
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/305380
 
-#EXTINF:-1,Galatasaray TV
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/618
-#EXTINF:-1,A Spor
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/529
-#EXTINF:-1,beIN Sports 1
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1735
-#EXTINF:-1,beIN Sports 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1737
-#EXTINF:-1,beIN Sports 3
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1739
-#EXTINF:-1,beIN Sports 4
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/7450
-#EXTINF:-1,beIN Sports 5
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/300982
-#EXTINF:-1,beIN Sports 4K
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/302332
-#EXTINF:-1,beIN Sports Haber
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/7448
-#EXTINF:-1,beIN Sports Max 1
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/8224
-#EXTINF:-1,beIN Sports Max 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/16878
-#EXTINF:-1,Eurosport 1
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1755
-#EXTINF:-1,Eurosport 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1756
-#EXTINF:-1,S Sport
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1753
-#EXTINF:-1,S Sport 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/10167
-#EXTINF:-1,Spor Smart
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1750
-#EXTINF:-1,Spor Smart 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/50121
-#EXTINF:-1,Sports TV
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/89846
-#EXTINF:-1,TAY TV
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/16887
-#EXTINF:-1,Tivibu Spor
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1746
-#EXTINF:-1,Tivibu Spor 1
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/299705
-#EXTINF:-1,Tivibu Spor 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1748
-#EXTINF:-1,Tivibu Spor 3
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1749
-#EXTINF:-1,Tivibu Spor 4
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/286778
-#EXTINF:-1,TJK TV
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/594
-#EXTINF:-1,TRT 3 Spor
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/299775
-#EXTINF:-1,TRT Spor
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/528
-#EXTINF:-1,TRT Spor Yildiz
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/32095
-#EXTINF:-1,LFC [vip]
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/304418
-#EXTINF:-1,MUTV [vip]
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/304421
-#EXTINF:-1,Premier Sports 1 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/304059
-#EXTINF:-1,Sky Sports Football 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303929
-#EXTINF:-1,Sky Sports Premier League 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303924
-#EXTINF:-1,LFC TV
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/4721
-#EXTINF:-1,MUTV
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1102
-#EXTINF:-1,Premier Sports 1
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/1097
-#EXTINF:-1,Premier Sports 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/4723
-#EXTINF:-1,Sky Sports Football
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/266
-#EXTINF:-1,Sky Sports Premier League
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/263
-#EXTINF:-1,Eurosport 1 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303861
-#EXTINF:-1,Eurosport 2
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303860
-#EXTINF:-1,Sky Sports Action / NFL 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303933
-#EXTINF:-1,Sky Sports Cricket 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303930
-#EXTINF:-1,Sky Sports F1
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303931
-#EXTINF:-1  ,Sky Sports Golf 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303928
-#EXTINF:-1,Sky Sports Main Events 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303927
-#EXTINF:-1,Sky Sports Mix 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303926
-#EXTINF:-1,Sky Sports News 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303925
-#EXTINF:-1,Sky Sports Racing 
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/303923
-#EXTINF:-1,Sky Sports Tennis
-http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/304728
+
 
 #EXTINF:-1,SPORTV  HD
 http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8

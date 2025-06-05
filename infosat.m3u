@@ -404,18 +404,7 @@ https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png", beIN Sports 3
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="Football",Portugal- SPORT TV 1 HD
-http://wanicelife.com:8880/6mc250009/28887461/3192
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="Football",Portugal- Sport TV 2
-http://wanicelife.com:8880/6mc250009/28887461/3191
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="Football",Portugal- Sport TV 3
-http://wanicelife.com:8880/6mc250009/28887461/3190
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="Football",Portugal- Sport TV 4
-http://wanicelife.com:8880/6mc250009/28887461/3189
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="Football",Portugal- Sport TV 5
-http://wanicelife.com:8880/6mc250009/28887461/3187
-#EXTINF:-1 tvg-id="Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Football",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="Football",XFC MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 
@@ -426,7 +415,7 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 http://watchindia.net:8880/40972/04523/801
 #EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (2)
 http://watchindia.net:8880/40972/04523/2264
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Rishtey HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Rishtey HDရ
 http://watchindia.net:8880/40972/04523/830
 #EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (1)
 http://watchindia.net:8880/40972/04523/1969
@@ -794,15 +783,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2 EN
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen2.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS CHANNEL", BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar1_2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8

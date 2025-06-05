@@ -3,6 +3,161 @@
 https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
 
 
+#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="ASTRO FOOTBALL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZBEBuVYFrkJiR5q1jHVGLd1R0tX48kjHAx4HF95l1yk.png" group-title="- MY | ASTRO SPORTS -",ASTRO FOOTBALL
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecEEINwYC6d8mAHUbo8ERL4
+#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="ASTRO GRANDSTAND" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3SfWQd7_feJ4afcaCZnst-eOd3rNlYwdCzYzLOAg0Ro.png" group-title="- MY | ASTRO SPORTS -",ASTRO GRANDSTAND
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZSXwEdtijKFNXWZBkXMbOA
+#EXTINF:-1 xui-id="6206" tvg-id="" tvg-name="ASTRO SPORTS +" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk51Cq_UpecR3yLC1aV7PZYYeLs12PwQRiRi_VdKWEFuQ.png" group-title="- MY | ASTRO SPORTS -",ASTRO SPORTS +
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebtKYznA_JqjAwVo_RfICrA
+#EXTINF:-1 xui-id="10901" tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkmL7cnb4Y9pGa_NvYCEIPB7NWpQgJAuY-r61kzip2Jdo.png" group-title="- MY | ASTRO SPORTS -",ASTRO BADMINTON 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeboQzZBL_r5mDJzEMANgyX4
+#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="ARENA BOLA 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQepEfQVJfYbzZCu3dxGngFmlZDtiARvDItxCCAWGG-w.png" group-title="- MY | ASTRO SPORTS -",ARENA BOLA 1
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeffsnM1rOgf_pBvoAj0iAeo
+#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="ARENA BOLA 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkX9kGyCusUV3KGXbqmzl7cHvysdLB47PotvpqDgnuADg.png" group-title="- MY | ASTRO SPORTS -",ARENA BOLA 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaZFA4G-KkfgITSMaYTcl-U
+#EXTINF:-1 xui-id="5470" tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZPhpG79ZtUDnyCtLyMCCKRkbresesuxjYVX_ASgMPYQ.png" group-title="- MY | ASTRO SPORTS -",ASTRO CRICKET
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeV4i76hbsd39K_-rm_3Esbc
+#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 1 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefOnwGJGcqsXEG7FXRksT_I
+#EXTINF:-1 xui-id="339" tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 2 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWed54FtI2OcLt4YJaqWhjwAo
+#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 3 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeShUw9oXoFmUNcN_wXJXVEU
+#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="- MY | ASTRO SPORTS -",SPO TV 1 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeMIm5vxGR1VM8KhsWo89hA
+#EXTINF:-1 xui-id="342" tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="- MY | ASTRO SPORTS -",SPO TV 2 MY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebDLlgLEzdYTIJxrW1aOZRk
+#EXTINF:-1 xui-id="3763" tvg-id="" tvg-name="ASTRO RUGBY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk2ubKacQgvtFbrl4ZaOEW5flumsLJ235uVhDnZ7pBz_E.png" group-title="- MY | ASTRO SPORTS -",ASTRO RUGBY
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee4ISUU0N8O78deyIOvh2ew
+#EXTINF:-1 xui-id="3764" tvg-id="" tvg-name="W-SPORTS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIAybu-ReezWii0LReFwRLQ.png" group-title="- MY | ASTRO SPORTS -",W-SPORTS
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaCaskHATEpmJILseMsP8QU
+#EXTINF:-1 xui-id="345" tvg-id="" tvg-name="SUKAN RTM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk_VnY9rl_lcOR1S6rLS2VQQ.png" group-title="- MY | ASTRO SPORTS -",SUKAN RTM
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeWGcQ6kcDX8uBzc4zxj2P8U
+#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="DAZN ELEVEN 1 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 1 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeR20DlTweCwlUX0gpTTZO_0
+#EXTINF:-1 xui-id="366" tvg-id="" tvg-name="DAZN ELEVEN 2 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 2 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeVvEZJ0lLVMB4N8lAHb_FnA
+#EXTINF:-1 xui-id="367" tvg-id="" tvg-name="DAZN ELEVEN 3 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 3 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSep31YeqsbxuKnAkoEpnP8
+#EXTINF:-1 xui-id="368" tvg-id="" tvg-name="DAZN ELEVEN 4 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 4 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWedxYWD_w0NjkdAZ5RECfetc
+#EXTINF:-1 xui-id="5422" tvg-id="" tvg-name="DAZN ELEVEN 5 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 5 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefUe2DlHcrP7JX7STbFgklc
+#EXTINF:-1 xui-id="5423" tvg-id="" tvg-name="DAZN ELEVEN 6 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 6 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUnF0Nl-v2r5sgeHXpR88UE
+#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="SPORTTV 1 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 1 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWedVQIvFVrlQN085QuPWmNmc
+#EXTINF:-1 xui-id="374" tvg-id="" tvg-name="SPORTTV 2 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 2 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeavbHbZGCxsffK1rLhv1Z5c
+#EXTINF:-1 xui-id="375" tvg-id="" tvg-name="SPORTTV 3 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 3 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWea3UAePnydkE4ElrpCgY6fo
+#EXTINF:-1 xui-id="376" tvg-id="" tvg-name="SPORTTV 4 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 4 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZ9lP6zZclL4lZWtLwx5mD8
+#EXTINF:-1 xui-id="5420" tvg-id="" tvg-name="SPORTTV 5 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 5 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTJqXjAb7mOGgYAorx1PUJw
+#EXTINF:-1 xui-id="5421" tvg-id="" tvg-name="SPORTTV 6 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 6 PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUzgDc77uSdOA07QTzVXPzk
+#EXTINF:-1 xui-id="5502" tvg-id="" tvg-name="SPORTTV+ PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV+ PT
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefUbEmTrLZdddIKCAjx57yA
+#EXTINF:-1 xui-id="8662" tvg-id="" tvg-name="ARENA 1 PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkH0FLd5zOPOdvaHoxpaloKrcD7YgOU3788Tpo4jFbUko.png" group-title="- HR | ARENA SPORTS -",ARENA 1 PREMIUM
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZ46-e9SBh9y6X-0Yb5Iphw
+#EXTINF:-1 xui-id="8663" tvg-id="" tvg-name="ARENA 2 PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkH0FLd5zOPOdvaHoxpaloKu4lhjdQNI-hWv41LVF-yfs.png" group-title="- HR | ARENA SPORTS -",ARENA 2 PREMIUM
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaE5M2w48NDwHEgXZ-_j5rY
+#EXTINF:-1 xui-id="8664" tvg-id="" tvg-name="ARENA 3 PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkH0FLd5zOPOdvaHoxpaloKjgNNTjEuJNaFdpQqu6qKDU.png" group-title="- HR | ARENA SPORTS -",ARENA 3 PREMIUM
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRtCWKQfxgOO3AvDmrF9RCw
+#EXTINF:-1 xui-id="8665" tvg-id="" tvg-name="ARENA SPORT 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsXk3G77G3zM4TMA88_8lc5c.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 1
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTc_K_RBq5GkzQrne91Z4XE
+#EXTINF:-1 xui-id="8666" tvg-id="" tvg-name="ARENA SPORT 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsWRN_tK9QZQy_S7iRtsyTgc.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeb6VwCFqfjo6K7-G-D3Thdo
+#EXTINF:-1 xui-id="8667" tvg-id="" tvg-name="ARENA SPORT 3" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsX7xDvMgD-MNtQ-xx6RlRFA.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 3
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeNk6qqWQtTePt19GOM_-DY
+#EXTINF:-1 xui-id="8668" tvg-id="" tvg-name="ARENA SPORT 4" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsaInUXavfjq3ArpNs4qWJ3Y.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 4
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefahesJKhctHMYJP2xurRnU
+#EXTINF:-1 xui-id="8669" tvg-id="" tvg-name="ARENA SPORT 5" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WscZQcS_jozT2U2im4w8mIRk.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 5
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWedgVzo5gf6lq_eoNFeKI8Xw
+#EXTINF:-1 xui-id="377" tvg-id="" tvg-name="beIN 1 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 1 AR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefxtByF7nkeTN4o7Hl_ByfU
+#EXTINF:-1 xui-id="378" tvg-id="" tvg-name="beIN 2 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 2 AR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeexTk7TmhxF9aNT9PVlK_kM
+#EXTINF:-1 xui-id="379" tvg-id="" tvg-name="beIN 3 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 3 AR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQDnsoyuNmE-z38cd8Z3UvU
+#EXTINF:-1 xui-id="380" tvg-id="" tvg-name="beIN 4 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 4 AR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebj-lgjIXnN3JXIluNWeIlE
+#EXTINF:-1 xui-id="381" tvg-id="" tvg-name="beIN 5 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 5 AR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeY-ABb-htXOyrZgHLBEwvmY
+#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="beIN 6 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 6 AR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeCqEwXUnP9UzK3uD41YyzI
+#EXTINF:-1 xui-id="6048" tvg-id="" tvg-name="beIN 1 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 1 FR HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSAd5bWdm8OQZ_EIv6iSK_w
+#EXTINF:-1 xui-id="6049" tvg-id="" tvg-name="beIN 2 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 2 FR HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSsQ-cpX-PzNc64gRlDWzPE
+#EXTINF:-1 xui-id="6050" tvg-id="" tvg-name="beIN 3 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 3 FR HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaRl4jK0GK6oAGyqA78whv0
+#EXTINF:-1 xui-id="6051" tvg-id="" tvg-name="beIN 4 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 4 FR HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecupU40whJTHhCWRZdT83LM
+#EXTINF:-1 xui-id="6052" tvg-id="" tvg-name="beIN 5 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 5 FR HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWean2uzqiu9z0OdeKkDf1_c4
+#EXTINF:-1 xui-id="6224" tvg-id="" tvg-name="beIN 1 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 1 TR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecqwe6VdvA1PQx8vzLEq_iw
+#EXTINF:-1 xui-id="6225" tvg-id="" tvg-name="beIN 2 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 2 TR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUtc9wNWlynI9U2vw4lppjU
+#EXTINF:-1 xui-id="6226" tvg-id="" tvg-name="beIN 3 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 3 TR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefoaoXzRN10J_67H4eMWZw0
+#EXTINF:-1 xui-id="6227" tvg-id="" tvg-name="beIN 4 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 4 TR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXkjm2zPNuRrrQXsdf2Bd4A
+#EXTINF:-1 xui-id="6228" tvg-id="" tvg-name="beIN MAX 1 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN MAX 1 TR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeR8cIDI35EFRh42kFYFzNKs
+#EXTINF:-1 xui-id="6229" tvg-id="" tvg-name="beIN MAX 2 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN MAX 2 TR
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTW9S9G1l5G4giEqiwA0_wA
+#EXTINF:-1 xui-id="369" tvg-id="" tvg-name="TNT 1 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 1 HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUJwbXJNyEm3mroEg239bmQ
+#EXTINF:-1 xui-id="370" tvg-id="" tvg-name="TNT 2 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 2 HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeezstxZE7gPEEo4S5veaq_M
+#EXTINF:-1 xui-id="371" tvg-id="" tvg-name="TNT 3 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 3 HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTeUxVG9ui3N5_Fc9xetkAQ
+#EXTINF:-1 xui-id="372" tvg-id="" tvg-name="TNT 4 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 4 HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecBV9YRutP6ewmUuyDs9Gb8
+#EXTINF:-1 xui-id="5491" tvg-id="" tvg-name="TNT 5 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 5 HD
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeakdNw9HPAJVkY8LSIVlRjM
+#EXTINF:-1 xui-id="10716" tvg-id="" tvg-name="Sky Sport 1 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 1 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeX7tSFuEKA10M0XKDcIbaAg
+#EXTINF:-1 xui-id="10717" tvg-id="" tvg-name="Sky Sport 2 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 2 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYqbCjl983-3KVvHtwbUlg8
+#EXTINF:-1 xui-id="10718" tvg-id="" tvg-name="Sky Sport 3 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 3 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecbZ7DhTXoubuYaoYCB8Y1w
+#EXTINF:-1 xui-id="10719" tvg-id="" tvg-name="Sky Sport 4 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 4 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRLuPlG1ozPurbd1_ImnCLo
+#EXTINF:-1 xui-id="10720" tvg-id="" tvg-name="Sky Sport 5 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 5 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXhBk7hTelYJ7SDXJ-PHI08
+#EXTINF:-1 xui-id="10721" tvg-id="" tvg-name="Sky Sport 6 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 6 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXujym-NPJfs8GuqR7sTrzg
+#EXTINF:-1 xui-id="10722" tvg-id="" tvg-name="Sky Sport 7 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 7 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaqlAiqK_3xesV7yRZqmL5I
+#EXTINF:-1 xui-id="10723" tvg-id="" tvg-name="Sky Sport 8 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 8 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeShdCV7oFLxGeVAfytvU1rc
+#EXTINF:-1 xui-id="10724" tvg-id="" tvg-name="Sky Sport 9 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 9 NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSoiWcmzUlNO4q79OZy0td0
+#EXTINF:-1 xui-id="10725" tvg-id="" tvg-name="Sky Sport Select NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport Select NZ
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRx7TgZm0IDhXUcF_h9IteY
+#EXTINF:-1 xui-id="360" tvg-id="" tvg-name="ZIGGO 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 1
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWed704KJWb0j-BRSzXcDLi0A
+#EXTINF:-1 xui-id="361" tvg-id="" tvg-name="ZIGGO 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 2
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUci9qGDmbB2wxeiphOjS_I
+#EXTINF:-1 xui-id="362" tvg-id="" tvg-name="ZIGGO 3" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 3
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee8Af09XoVNQvkUg1RZqyFs
+#EXTINF:-1 xui-id="363" tvg-id="" tvg-name="ZIGGO 4" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 4
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQVzJkKG7IwNJA585x8I1sg
+#EXTINF:-1 xui-id="6123" tvg-id="" tvg-name="ZIGGO 5" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 5
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaUCWeaMLylsl0UK3Xuy2Uw
+#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="ZIGGO 6" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 6
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeV6uCFQTDJ4RoeqOlLXbQWg
+#EXTINF:-1 xui-id="10246" tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="- UK | EUROSPORTS -",EUROSPORTS 1 UK
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYOWe52W4v6yomJzGtrz8EA
+#EXTINF:-1 xui-id="10247" tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="- UK | EUROSPORTS -",EUROSPORTS 2 UK
+http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQ1bw1Hyhw0VUfn4s7vRzF4
+
+#########$$$$###########################################################
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 1" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 1
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146611
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 2" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 2
@@ -2242,142 +2397,7 @@ http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee09wbMeyvdanIjsqF5NJ48
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebs_YPiQzVIqUodoWyT7C68
 #EXTINF:-1 xui-id="5512" tvg-id="" tvg-name="FOX 501 Cricket" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk5-Yi1FLv-399bfjeB6Ehh72gAtUSAodmrUqL_2X1Re8.png" group-title="✔️ LIVE CRICKET",FOX 501 Cricket
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeVv57GTEXRKhLsN2YFvluh8
-#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="ASTRO FOOTBALL" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZBEBuVYFrkJiR5q1jHVGLd1R0tX48kjHAx4HF95l1yk.png" group-title="- MY | ASTRO SPORTS -",ASTRO FOOTBALL
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecEEINwYC6d8mAHUbo8ERL4
-#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="ASTRO GRANDSTAND" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3SfWQd7_feJ4afcaCZnst-eOd3rNlYwdCzYzLOAg0Ro.png" group-title="- MY | ASTRO SPORTS -",ASTRO GRANDSTAND
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZSXwEdtijKFNXWZBkXMbOA
-#EXTINF:-1 xui-id="6206" tvg-id="" tvg-name="ASTRO SPORTS +" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk51Cq_UpecR3yLC1aV7PZYYeLs12PwQRiRi_VdKWEFuQ.png" group-title="- MY | ASTRO SPORTS -",ASTRO SPORTS +
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebtKYznA_JqjAwVo_RfICrA
-#EXTINF:-1 xui-id="10901" tvg-id="" tvg-name="ASTRO BADMINTON 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkmL7cnb4Y9pGa_NvYCEIPB7NWpQgJAuY-r61kzip2Jdo.png" group-title="- MY | ASTRO SPORTS -",ASTRO BADMINTON 2
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeboQzZBL_r5mDJzEMANgyX4
-#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="ARENA BOLA 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQepEfQVJfYbzZCu3dxGngFmlZDtiARvDItxCCAWGG-w.png" group-title="- MY | ASTRO SPORTS -",ARENA BOLA 1
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeffsnM1rOgf_pBvoAj0iAeo
-#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="ARENA BOLA 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkX9kGyCusUV3KGXbqmzl7cHvysdLB47PotvpqDgnuADg.png" group-title="- MY | ASTRO SPORTS -",ARENA BOLA 2
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaZFA4G-KkfgITSMaYTcl-U
-#EXTINF:-1 xui-id="5470" tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkZPhpG79ZtUDnyCtLyMCCKRkbresesuxjYVX_ASgMPYQ.png" group-title="- MY | ASTRO SPORTS -",ASTRO CRICKET
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeV4i76hbsd39K_-rm_3Esbc
-#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 1 MY
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefOnwGJGcqsXEG7FXRksT_I
-#EXTINF:-1 xui-id="339" tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 2 MY
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWed54FtI2OcLt4YJaqWhjwAo
-#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="- MY | ASTRO SPORTS -",beIN SPORTS 3 MY
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeShUw9oXoFmUNcN_wXJXVEU
-#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="- MY | ASTRO SPORTS -",SPO TV 1 MY
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeMIm5vxGR1VM8KhsWo89hA
-#EXTINF:-1 xui-id="342" tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="- MY | ASTRO SPORTS -",SPO TV 2 MY
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebDLlgLEzdYTIJxrW1aOZRk
-#EXTINF:-1 xui-id="3763" tvg-id="" tvg-name="ASTRO RUGBY" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk2ubKacQgvtFbrl4ZaOEW5flumsLJ235uVhDnZ7pBz_E.png" group-title="- MY | ASTRO SPORTS -",ASTRO RUGBY
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee4ISUU0N8O78deyIOvh2ew
-#EXTINF:-1 xui-id="3764" tvg-id="" tvg-name="W-SPORTS" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIAybu-ReezWii0LReFwRLQ.png" group-title="- MY | ASTRO SPORTS -",W-SPORTS
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaCaskHATEpmJILseMsP8QU
-#EXTINF:-1 xui-id="345" tvg-id="" tvg-name="SUKAN RTM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk_VnY9rl_lcOR1S6rLS2VQQ.png" group-title="- MY | ASTRO SPORTS -",SUKAN RTM
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeWGcQ6kcDX8uBzc4zxj2P8U
-#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="DAZN ELEVEN 1 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 1 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeR20DlTweCwlUX0gpTTZO_0
-#EXTINF:-1 xui-id="366" tvg-id="" tvg-name="DAZN ELEVEN 2 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 2 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeVvEZJ0lLVMB4N8lAHb_FnA
-#EXTINF:-1 xui-id="367" tvg-id="" tvg-name="DAZN ELEVEN 3 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 3 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSep31YeqsbxuKnAkoEpnP8
-#EXTINF:-1 xui-id="368" tvg-id="" tvg-name="DAZN ELEVEN 4 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 4 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWedxYWD_w0NjkdAZ5RECfetc
-#EXTINF:-1 xui-id="5422" tvg-id="" tvg-name="DAZN ELEVEN 5 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 5 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefUe2DlHcrP7JX7STbFgklc
-#EXTINF:-1 xui-id="5423" tvg-id="" tvg-name="DAZN ELEVEN 6 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkAtN38GJm3DhycOREdgkDlzIlpBcZGDO6H3zVv__VqFI.png" group-title="- PT | DAZN ELEVEN -",DAZN ELEVEN 6 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUnF0Nl-v2r5sgeHXpR88UE
-#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="SPORTTV 1 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 1 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWedVQIvFVrlQN085QuPWmNmc
-#EXTINF:-1 xui-id="374" tvg-id="" tvg-name="SPORTTV 2 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 2 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeavbHbZGCxsffK1rLhv1Z5c
-#EXTINF:-1 xui-id="375" tvg-id="" tvg-name="SPORTTV 3 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 3 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWea3UAePnydkE4ElrpCgY6fo
-#EXTINF:-1 xui-id="376" tvg-id="" tvg-name="SPORTTV 4 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 4 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZ9lP6zZclL4lZWtLwx5mD8
-#EXTINF:-1 xui-id="5420" tvg-id="" tvg-name="SPORTTV 5 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 5 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTJqXjAb7mOGgYAorx1PUJw
-#EXTINF:-1 xui-id="5421" tvg-id="" tvg-name="SPORTTV 6 PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV 6 PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUzgDc77uSdOA07QTzVXPzk
-#EXTINF:-1 xui-id="5502" tvg-id="" tvg-name="SPORTTV+ PT" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="- PT | SPORT TV -",SPORTTV+ PT
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefUbEmTrLZdddIKCAjx57yA
-#EXTINF:-1 xui-id="8662" tvg-id="" tvg-name="ARENA 1 PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkH0FLd5zOPOdvaHoxpaloKrcD7YgOU3788Tpo4jFbUko.png" group-title="- HR | ARENA SPORTS -",ARENA 1 PREMIUM
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeZ46-e9SBh9y6X-0Yb5Iphw
-#EXTINF:-1 xui-id="8663" tvg-id="" tvg-name="ARENA 2 PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkH0FLd5zOPOdvaHoxpaloKu4lhjdQNI-hWv41LVF-yfs.png" group-title="- HR | ARENA SPORTS -",ARENA 2 PREMIUM
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaE5M2w48NDwHEgXZ-_j5rY
-#EXTINF:-1 xui-id="8664" tvg-id="" tvg-name="ARENA 3 PREMIUM" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkH0FLd5zOPOdvaHoxpaloKjgNNTjEuJNaFdpQqu6qKDU.png" group-title="- HR | ARENA SPORTS -",ARENA 3 PREMIUM
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRtCWKQfxgOO3AvDmrF9RCw
-#EXTINF:-1 xui-id="8665" tvg-id="" tvg-name="ARENA SPORT 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsXk3G77G3zM4TMA88_8lc5c.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 1
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTc_K_RBq5GkzQrne91Z4XE
-#EXTINF:-1 xui-id="8666" tvg-id="" tvg-name="ARENA SPORT 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsWRN_tK9QZQy_S7iRtsyTgc.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 2
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeb6VwCFqfjo6K7-G-D3Thdo
-#EXTINF:-1 xui-id="8667" tvg-id="" tvg-name="ARENA SPORT 3" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsX7xDvMgD-MNtQ-xx6RlRFA.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 3
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeNk6qqWQtTePt19GOM_-DY
-#EXTINF:-1 xui-id="8668" tvg-id="" tvg-name="ARENA SPORT 4" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WsaInUXavfjq3ArpNs4qWJ3Y.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 4
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefahesJKhctHMYJP2xurRnU
-#EXTINF:-1 xui-id="8669" tvg-id="" tvg-name="ARENA SPORT 5" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkln9L7q65eGLesQm0Hg7WscZQcS_jozT2U2im4w8mIRk.png" group-title="- HR | ARENA SPORTS -",ARENA SPORT 5
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWedgVzo5gf6lq_eoNFeKI8Xw
-#EXTINF:-1 xui-id="377" tvg-id="" tvg-name="beIN 1 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 1 AR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefxtByF7nkeTN4o7Hl_ByfU
-#EXTINF:-1 xui-id="378" tvg-id="" tvg-name="beIN 2 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 2 AR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeexTk7TmhxF9aNT9PVlK_kM
-#EXTINF:-1 xui-id="379" tvg-id="" tvg-name="beIN 3 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 3 AR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQDnsoyuNmE-z38cd8Z3UvU
-#EXTINF:-1 xui-id="380" tvg-id="" tvg-name="beIN 4 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 4 AR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebj-lgjIXnN3JXIluNWeIlE
-#EXTINF:-1 xui-id="381" tvg-id="" tvg-name="beIN 5 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 5 AR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeY-ABb-htXOyrZgHLBEwvmY
-#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="beIN 6 AR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- AR | beIN SPORTS -",beIN 6 AR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeeCqEwXUnP9UzK3uD41YyzI
-#EXTINF:-1 xui-id="6048" tvg-id="" tvg-name="beIN 1 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 1 FR HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSAd5bWdm8OQZ_EIv6iSK_w
-#EXTINF:-1 xui-id="6049" tvg-id="" tvg-name="beIN 2 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 2 FR HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSsQ-cpX-PzNc64gRlDWzPE
-#EXTINF:-1 xui-id="6050" tvg-id="" tvg-name="beIN 3 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 3 FR HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaRl4jK0GK6oAGyqA78whv0
-#EXTINF:-1 xui-id="6051" tvg-id="" tvg-name="beIN 4 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 4 FR HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecupU40whJTHhCWRZdT83LM
-#EXTINF:-1 xui-id="6052" tvg-id="" tvg-name="beIN 5 FR HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- FR | beIN SPORTS -",beIN 5 FR HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWean2uzqiu9z0OdeKkDf1_c4
-#EXTINF:-1 xui-id="6224" tvg-id="" tvg-name="beIN 1 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 1 TR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecqwe6VdvA1PQx8vzLEq_iw
-#EXTINF:-1 xui-id="6225" tvg-id="" tvg-name="beIN 2 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 2 TR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUtc9wNWlynI9U2vw4lppjU
-#EXTINF:-1 xui-id="6226" tvg-id="" tvg-name="beIN 3 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 3 TR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWefoaoXzRN10J_67H4eMWZw0
-#EXTINF:-1 xui-id="6227" tvg-id="" tvg-name="beIN 4 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN 4 TR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXkjm2zPNuRrrQXsdf2Bd4A
-#EXTINF:-1 xui-id="6228" tvg-id="" tvg-name="beIN MAX 1 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN MAX 1 TR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeR8cIDI35EFRh42kFYFzNKs
-#EXTINF:-1 xui-id="6229" tvg-id="" tvg-name="beIN MAX 2 TR" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkrM3G8FrJ4zsfg9wHOGlbfFzxEbLf98vJHXdv6r8a67w.png" group-title="- TR | beIN SPORTS -",beIN MAX 2 TR
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTW9S9G1l5G4giEqiwA0_wA
-#EXTINF:-1 xui-id="369" tvg-id="" tvg-name="TNT 1 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 1 HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUJwbXJNyEm3mroEg239bmQ
-#EXTINF:-1 xui-id="370" tvg-id="" tvg-name="TNT 2 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 2 HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeezstxZE7gPEEo4S5veaq_M
-#EXTINF:-1 xui-id="371" tvg-id="" tvg-name="TNT 3 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 3 HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeTeUxVG9ui3N5_Fc9xetkAQ
-#EXTINF:-1 xui-id="372" tvg-id="" tvg-name="TNT 4 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 4 HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecBV9YRutP6ewmUuyDs9Gb8
-#EXTINF:-1 xui-id="5491" tvg-id="" tvg-name="TNT 5 HD" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="- UK | TNT SPORTS -",TNT 5 HD
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeakdNw9HPAJVkY8LSIVlRjM
-#EXTINF:-1 xui-id="10716" tvg-id="" tvg-name="Sky Sport 1 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 1 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeX7tSFuEKA10M0XKDcIbaAg
-#EXTINF:-1 xui-id="10717" tvg-id="" tvg-name="Sky Sport 2 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 2 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYqbCjl983-3KVvHtwbUlg8
-#EXTINF:-1 xui-id="10718" tvg-id="" tvg-name="Sky Sport 3 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 3 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWecbZ7DhTXoubuYaoYCB8Y1w
-#EXTINF:-1 xui-id="10719" tvg-id="" tvg-name="Sky Sport 4 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 4 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRLuPlG1ozPurbd1_ImnCLo
-#EXTINF:-1 xui-id="10720" tvg-id="" tvg-name="Sky Sport 5 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 5 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXhBk7hTelYJ7SDXJ-PHI08
-#EXTINF:-1 xui-id="10721" tvg-id="" tvg-name="Sky Sport 6 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 6 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeXujym-NPJfs8GuqR7sTrzg
-#EXTINF:-1 xui-id="10722" tvg-id="" tvg-name="Sky Sport 7 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 7 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaqlAiqK_3xesV7yRZqmL5I
-#EXTINF:-1 xui-id="10723" tvg-id="" tvg-name="Sky Sport 8 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 8 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeShdCV7oFLxGeVAfytvU1rc
-#EXTINF:-1 xui-id="10724" tvg-id="" tvg-name="Sky Sport 9 NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport 9 NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeSoiWcmzUlNO4q79OZy0td0
-#EXTINF:-1 xui-id="10725" tvg-id="" tvg-name="Sky Sport Select NZ" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8V03bX9NWVx5ueptMOv0mA.png" group-title="- NZ | SKY SPORTS NZ -",Sky Sport Select NZ
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeRx7TgZm0IDhXUcF_h9IteY
+
 #EXTINF:-1 xui-id="5513" tvg-id="" tvg-name="FOX 502" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkgALSOUmF0HDFlSyHJom8oylkMHWoBLRAR4AVccehWf0.png" group-title="- AU | FOX SPORTS -",FOX 502
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeT5wkpm2eFiUHR7AFj5twTo
 #EXTINF:-1 xui-id="5514" tvg-id="" tvg-name="FOX 503" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkQ4AKEgxwMXyIW1HmYpLIndW3yf8TF4eZhtjH3VWqiEw.png" group-title="- AU | FOX SPORTS -",FOX 503
@@ -2404,19 +2424,5 @@ http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQs7oiwhYLltklh4Rt9J5ig
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWebys4feBj8-Jd5zD5rfAm64
 #EXTINF:-1 xui-id="10080" tvg-id="" tvg-name="MLB NETWORK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk83Xjng6DTAHK23Cea--CEA.png" group-title="- US | SPORTS US -",MLB NETWORK
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYz7HkTsxgTfNU7HSu4iMK4
-#EXTINF:-1 xui-id="360" tvg-id="" tvg-name="ZIGGO 1" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 1
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWed704KJWb0j-BRSzXcDLi0A
-#EXTINF:-1 xui-id="361" tvg-id="" tvg-name="ZIGGO 2" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 2
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeUci9qGDmbB2wxeiphOjS_I
-#EXTINF:-1 xui-id="362" tvg-id="" tvg-name="ZIGGO 3" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 3
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWee8Af09XoVNQvkUg1RZqyFs
-#EXTINF:-1 xui-id="363" tvg-id="" tvg-name="ZIGGO 4" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 4
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQVzJkKG7IwNJA585x8I1sg
-#EXTINF:-1 xui-id="6123" tvg-id="" tvg-name="ZIGGO 5" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 5
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaUCWeaMLylsl0UK3Xuy2Uw
-#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="ZIGGO 6" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk3kMumNrKtVDa_etTZSPDjgqq3z_Q93SxnqGZHua8fhc.png" group-title="- NL | ZIGGO SPORTS -",ZIGGO 6
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeV6uCFQTDJ4RoeqOlLXbQWg
-#EXTINF:-1 xui-id="10246" tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="- UK | EUROSPORTS -",EUROSPORTS 1 UK
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeYOWe52W4v6yomJzGtrz8EA
-#EXTINF:-1 xui-id="10247" tvg-id="" tvg-name="EUROSPORTS 2 UK" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkFKJAf19J5I4Q9bDitJdrFF5WT2lLI2Gq9agZrRUC-Ow.png" group-title="- UK | EUROSPORTS -",EUROSPORTS 2 UK
-http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeQ1bw1Hyhw0VUfn4s7vRzF4
+
+

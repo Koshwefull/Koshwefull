@@ -8,6 +8,31 @@ https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
 
 #########$$$$###########################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.tvonenews.com/thumbnail/2025/05/18/68297e27776d6-volleyball-nations-league-atau-vnl-2025_665_374.jpg" group-title="VNL 2025",VBTV 2025
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest?cb=20220311023726&path-prefix=vi" group-title="VNL 2025",On Sports
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/18180911/ON_Sports_Plus.png" group-title="VNL 2025",On Sports Plus
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upload.ee/image/18180873/ON_Sports_News.png" group-title="VNL 2025",On Sports News
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest/scale-to-width-down/200?cb=20220311023800&path-prefix=vi" group-title="VNL 2025",On Golf
+https://freem3u.xyz/api/live/play.m3u8?oid=ongolf
+
+#EXTINF:-1group-title="️ช่องดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",CH3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+#EXTINF:-1group-title="️ช่องดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png",CH5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+
+#EXTINF:-1group-title="️ช่องดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",CH7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 1" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 1
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146611
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 2" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 2

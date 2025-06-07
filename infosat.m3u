@@ -394,6 +394,104 @@ http://watchindia.net:8880/40972/04523/2145
 #EXTINF:-1,tvg-id="ext" group-title="Sports",Astro Cricket
 http://watchindia.net:8880/40972/04523/2174
 
+##############################################
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8111
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT",FR: CANAL+ SPORT 360
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25959
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8008
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8006
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8298
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1 HD
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57554
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT",FR: BEIN SPORTS 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8299
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8300
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8301
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8302
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8303
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8304
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8305
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8306
+#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8307
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="FR: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_1.png" group-title="FR | SPORT",FR: EUROSPORT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8313
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="FR: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png" group-title="FR | SPORT",FR: EUROSPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8314
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8315
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_2.png" group-title="FR | SPORT",FR: EUROSPORT 360 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8316
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_3.png" group-title="FR | SPORT",FR: EUROSPORT 360 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8317
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="FR | SPORT",FR: RMC SPORT 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8338
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT",FR: RMC SPORT 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8339
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="FR: RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="FR | SPORT",FR: RMC SPORT 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8340
+#EXTINF:-1 tvg-id="RMC Sport 4" tvg-name="FR: RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="FR | SPORT",FR: RMC SPORT 4
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8341
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT",FR: RMC SPORT 5 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8342
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 6 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-6-fr.png" group-title="FR | SPORT",FR: RMC SPORT 6 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8343
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 7 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-7-fr.png" group-title="FR | SPORT",FR: RMC SPORT 7 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8344
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 8 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-8-fr.png" group-title="FR | SPORT",FR: RMC SPORT 8 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8345
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 9 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-9-fr.png" group-title="FR | SPORT",FR: RMC SPORT 9 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8346
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 10 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-10-fr.png" group-title="FR | SPORT",FR: RMC SPORT 10 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8347
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 11 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-11-fr.png" group-title="FR | SPORT",FR: RMC SPORT 11 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8348
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 12 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-12-fr.png" group-title="FR | SPORT",FR: RMC SPORT 12 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8349
+#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 13 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-13-fr.png" group-title="FR | SPORT",FR: RMC SPORT 13 LIVE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8350
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 1 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 1 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8322
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 2 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 2 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8323
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 3 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 3 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8324
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 4 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 4 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8325
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 5 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 5 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8326
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 6 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 6 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8327
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 7 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 7 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8328
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 8 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 8 (MATCH TIME)
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/29659
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="FR: 000000" tvg-logo="" group-title="FR | 000000",FR: 000000
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8215
+#EXTINF:-1 tvg-id="Infosport+" tvg-name="FR: INFOSPORT+" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/INFOSPORT.png" group-title="FR | SPORT",FR: INFOSPORT+
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8214
+#EXTINF:-1 tvg-id="EQUIDIA" tvg-name="FR: EQUIDIA" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EQUIDIA.png" group-title="FR | SPORT",FR: EQUIDIA
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8109
+#EXTINF:-1 tvg-id="la cha?ne L Equipe" tvg-name="FR: L EQUIPE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/L_EQUIPE.png" group-title="FR | SPORT",FR: L EQUIPE
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8126
+#EXTINF:-1 tvg-id="AUTOMOTO" tvg-name="FR: AUTOMOTO" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AUTOMOTO.png" group-title="FR | SPORT",FR: AUTOMOTO
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8085
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GOLF.png" group-title="FR | SPORT",FR: GOLF+
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57342
+
+
 ////////////Malayalam/////////////
 
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)

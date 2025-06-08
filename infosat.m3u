@@ -22,6 +22,13 @@ http://imediatv666.store:7777/Mads77/GTRQEDTCY/146615
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146616
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 7" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 7
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146617
+#EXTINF:-1,CANAL_SPORTS 1
+#KODIPROP:inputstream.adaptive.license_key=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd
+
+#EXTINF:-1,CANAL_SPORTS 2
+#KODIPROP:inputstream.adaptive.license_key=4b08a329872444a79640d30bc8e5d88a:577fc30892aad29ef37139cf3210a267
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
 
 #EXTINF:-1 group-title="TIM CABLE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWMyI7Vn6Aba4vLqAE5V8A_1jBJdCwA6RCA&s",ช่อง Astro SuperSport
 http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream=918986

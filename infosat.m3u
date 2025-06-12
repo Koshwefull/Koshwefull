@@ -7,6 +7,14 @@
 https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
 
 #########$$$$###########################################################
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR169:RMC SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="FR Sports",FR169:RMC SPORT 1
+http://wanicelife.com:8880/usuario_iptv/vangente_9910119/28134
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR170:RMC SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="FR Sports",FR170:RMC SPORT 2
+http://wanicelife.com:8880/usuario_iptv/vangente_9910119/28133
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR171:RMC SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="FR Sports",FR171:RMC SPORT 3
+http://wanicelife.com:8880/usuario_iptv/vangente_9910119/28132
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR172:RMC SPORT 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178Eurosport3604.png" group-title="FR Sports",FR172:RMC SPORT 4
+http://wanicelife.com:8880/usuario_iptv/vangente_9910119/28131
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 1" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 1
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146611

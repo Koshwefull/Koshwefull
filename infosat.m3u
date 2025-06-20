@@ -39,6 +39,42 @@ http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVdc36lbSwFAymUaa0XkhSbM
 #EXTINF:-1 xui-id="54476" tvg-id="" tvg-name="ESPN Deportes HD" tvg-logo="http://goldenid.online:80/images/lE2-hQWVp5OGBfPF80NALVg70uDOtBg3IycH82t3GL53X3F9WRBbRB6oUuTqsr6nKxAxnWHgQMq5iVJgqx2C-G33-0aSejmSkD2bkfaNLCI.png" group-title="SPORTS™ FHD²",ESPN Deportes HD
 http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVX4axkpuD2hi6zA68dWpbqY
 
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 1  
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 2
+http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 3
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 8
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 9
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF5Lg/1750287574941/live/Z1SD/chunklist.m3u8
+
+
 #EXTINF:-1 xui-id="51646" tvg-id="" tvg-name="Sportv 1 FHD" tvg-logo="http://goldenid.online:80/images/KmEMVVnmX6kh1H_KyN9ab1_lDcDZJMWIXCXtOAEWpqWHCTg8-KTEH7sX-dM0uC65pVarXt6ForkMZaTU5pOqqINqh2cPt6mgwyO8NfBf56awlL8dTB9cbWWTbN_ACdPP.jpg" group-title="SPORTS™ FHD²",Sportv 1 FHD
 http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVZ7FXaqSQ99BXywZl3ZTh_8
 #EXTINF:-1 xui-id="51647" tvg-id="" tvg-name="Sportv 2 FHD" tvg-logo="http://goldenid.online:80/images/KmEMVVnmX6kh1H_KyN9ab1_lDcDZJMWIXCXtOAEWpqWHCTg8-KTEH7sX-dM0uC65pVarXt6ForkMZaTU5pOqqINqh2cPt6mgwyO8NfBf56awlL8dTB9cbWWTbN_ACdPP.jpg" group-title="SPORTS™ FHD²",Sportv 2 FHD

@@ -1505,7 +1505,56 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS CHANNEL",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-###########################################
+#######################bine####################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25106
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25107
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25108
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 4
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25110
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 5
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25109
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 6
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25111
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 7
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25112
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25118
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25119
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25120
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49563
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49564
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49565
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 4
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49566
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 5" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-5-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 5
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49567
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 6
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49568
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25113
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 2
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25114
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 3
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25115
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="ARAB | BEIN",AR: BEIN SPORTS NBA
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25116
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png" group-title="ARAB | BEIN",AR: BEIN SPORTS NEWS
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25117
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="ARAB | BEIN",AR: BEIN SPORTS XTRA 1
+http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25121
+
+
+####################################################
 
 #EXTINF:-1,True Premiere Football 1
 http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/162591

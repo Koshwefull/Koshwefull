@@ -6,6 +6,11 @@
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
 ###########$#$$########################################
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",ABA SHWE 124
+https://youtu.be/wf42J-sdH0E?si=QgYfwtjtmj6ehZLG
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",👉👉👉အားပေးမှု့အတွက်အထူးကိုကျေးဇူးတင်ပါတယ်👍👍👍... 🇲🇲 မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ🙏🙏🙏...
+https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
+======================================================================================
 #EXTINF:-1 xui-id="54461" tvg-id="" tvg-name="HR: Arena Sport 1 FHD" tvg-logo="http://goldenid.online:80/images/6-dAzD3lKsnL-rwX3CZYYKZ3rQBtgWjFQaFdVd-9Qkzf6c9rtHMwoJ_uxidnCbs2ynaWDLxX5uVm4mfLF0kua4aJCVtTMt11ItwMYxBq410.png" group-title="SPORTS™ FHD²",HR: Arena Sport 1 FHD
 http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVS9n6CUopWxHzUAHrdPJKr0
 #EXTINF:-1 xui-id="54462" tvg-id="" tvg-name="HR: Arena Sport 2 FHD" tvg-logo="http://goldenid.online:80/images/6-dAzD3lKsnL-rwX3CZYYKZ3rQBtgWjFQaFdVd-9Qkzf6c9rtHMwoJ_uxidnCbs2djlzWFpXL_0RFxm3NsJi4VJ-ZBvAnghSfzpxweshcFU.png" group-title="SPORTS™ FHD²",HR: Arena Sport 2 FHD

@@ -12,34 +12,7 @@ https://youtu.be/wf42J-sdH0E?si=QgYfwtjtmj6ehZLG
 https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
 ======================================================================================
 
-#EXTINF:-1,Eleven Sports 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/48443.ts
-#EXTINF:-1,Eleven Sports 2
-http://kstv.us:8080/live/tH300gvHff/8606073792/48444.ts
-#EXTINF:-1,Eleven Sports 3 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48445.ts
-#EXTINF:-1,Eleven Sports 4
-http://kstv.us:8080/live/tH300gvHff/8606073792/48446.ts
-#EXTINF:-1,Eleven Sports 5 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48447.ts
-#EXTINF:-1,Eleven Sports 6 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48448.ts
-#EXTINF:-1,Sport TV 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/48496.ts
-#EXTINF:-1,Sport TV 2 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48497.ts
-#EXTINF:-1,Sport TV 3 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48498.ts
-#EXTINF:-1,Sport TV 4 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48499.ts
-#EXTINF:-1,Sport TV 1
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167742
-#EXTINF:-1,Sport TV 2 
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167743
-#EXTINF:-1,Sport TV 3
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167744
-#EXTINF:-1,Sport TV 4 
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
+
 
 ##########################################$$$$####################
 
@@ -202,7 +175,38 @@ http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVSWQpc-xHjiP_S0GkzLUK7o
 #EXTINF:-1 xui-id="39813" tvg-id="" tvg-name="Arena Sport 3 Premium FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr2OJplkwp8NROrHs2u1mFQ1H5fUyoyv91-GSGJ1DuZLDVoIP" group-title="SPORTS™ FHD¹",Arena Sport 3 Premium FHD
 http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVb9-VVuUW8RGmA5PVJl5PAM
 
+#########################$#####################$$$$$$#####################################
 
+#EXTINF:-1,Eleven Sports 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/48443.ts
+#EXTINF:-1,Eleven Sports 2
+http://kstv.us:8080/live/tH300gvHff/8606073792/48444.ts
+#EXTINF:-1,Eleven Sports 3 
+http://kstv.us:8080/live/tH300gvHff/8606073792/48445.ts
+#EXTINF:-1,Eleven Sports 4
+http://kstv.us:8080/live/tH300gvHff/8606073792/48446.ts
+#EXTINF:-1,Eleven Sports 5 
+http://kstv.us:8080/live/tH300gvHff/8606073792/48447.ts
+#EXTINF:-1,Eleven Sports 6 
+http://kstv.us:8080/live/tH300gvHff/8606073792/48448.ts
+#EXTINF:-1,Sport TV 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/48496.ts
+#EXTINF:-1,Sport TV 2 
+http://kstv.us:8080/live/tH300gvHff/8606073792/48497.ts
+#EXTINF:-1,Sport TV 3 
+http://kstv.us:8080/live/tH300gvHff/8606073792/48498.ts
+#EXTINF:-1,Sport TV 4 
+http://kstv.us:8080/live/tH300gvHff/8606073792/48499.ts
+#EXTINF:-1,Sport TV 1
+http://xxip25.top:8080/tamikahomecare/tamikahomecare/167742
+#EXTINF:-1,Sport TV 2 
+http://xxip25.top:8080/tamikahomecare/tamikahomecare/167743
+#EXTINF:-1,Sport TV 3
+http://xxip25.top:8080/tamikahomecare/tamikahomecare/167744
+#EXTINF:-1,Sport TV 4 
+http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
+
+#######################$#########################################
 
 #EXTINF:-1 xui-id="39946" tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg?20200324181805" group-title="SPORTS™ FHD¹",UK: Sky Sports Arena FHD
 http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVStuLcCbuR9p5CBg36cMuDg
@@ -236,6 +240,7 @@ http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVRTlE3mqIrqJCmO9-qNJPEs
 
 
 #########$$$$###########################################################
+
 #EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (1)
 http://watchindia.net:8880/40972/04523/2232
 #EXTINF:-1,tvg-id="StarSportsHD1.in" group-title="Sports",Star Sports 1 HD (2)
@@ -315,7 +320,7 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b08a329872444a79640d30bc8e5d88a:577fc30892aad29ef37139cf3210a267
 https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd
 
-##################################$$##############$$#$#$#$########
+##################################$$##############$$#$#$#$###########$#########$$$$$$$#########
 
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8111
@@ -400,6 +405,7 @@ http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8328
 #EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 8 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AMAZON_PRIME.png" group-title="FR | SPORT",FR: AMAZON PRIME 8 (MATCH TIME)
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/29659
 
+##############################$$$#####################$##$$$$####################$$#$
 
 #EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="FR: 000000" tvg-logo="" group-title="FR | 000000",FR: 000000
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8215
@@ -735,19 +741,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 ##############################################
-
-
-
-
-
-
-
-
-
-
-
-
-
 ////////////Malayalam/////////////
 
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)
@@ -1030,188 +1023,8 @@ http://watchindia.net:8880/40972/04523/842
 
 ///////////Tamil///////////////////////////
 
-#EXTM3U
-
-#EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
-http://watchindia.net:8880/40972/04523/843
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Sun Life
-http://watchindia.net:8880/40972/04523/847
-#EXTINF:0 tvg-id="SunMusic.in" group-title="Tamil",Sun Music HD
-http://watchindia.net:8880/40972/04523/844
-#EXTINF:0 tvg-id="SunNews.in" group-title="Tamil",Sun News
-http://watchindia.net:8880/40972/04523/869
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay HD
-http://watchindia.net:8880/40972/04523/846
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay Super
-http://watchindia.net:8880/40972/04523/2190
-#EXTINF:0 tvg-id="AdithyaTV.in" group-title="Tamil",Adithya TV
-http://watchindia.net:8880/40972/04523/855
-#EXTINF:0 tvg-id="ChuttiTV.in" group-title="Tamil",Chutti TV
-http://watchindia.net:8880/40972/04523/882
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Colors Tamil HD
-http://watchindia.net:8880/40972/04523/2083
-#EXTINF:0 tvg-id="DiscoveryTamil.in" group-title="Tamil",Discovery Tamil
-http://watchindia.net:8880/40972/04523/2085
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Isai Aruvi TV
-http://watchindia.net:8880/40972/04523/2149
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Jaya TV HD
-http://watchindia.net:8880/40972/04523/851
-#EXTINF:0 tvg-id="JayaMax.in" group-title="Tamil",Jaya Max
-http://watchindia.net:8880/40972/04523/852
-#EXTINF:0 tvg-id="JayaMovie.in" group-title="Tamil",Jaya Movie
-http://watchindia.net:8880/40972/04523/849
-#EXTINF:0 tvg-id="JayaPlus.in" group-title="Tamil",Jaya Plus
-http://watchindia.net:8880/40972/04523/850
-#EXTINF:0 tvg-id="KalaignarTv.in" group-title="Tamil",Kalaignar TV
-http://watchindia.net:8880/40972/04523/2148
-#EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil",KTV HD
-http://watchindia.net:8880/40972/04523/845
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Madha TV
-http://watchindia.net:8880/40972/04523/875
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Makkal TV
-http://watchindia.net:8880/40972/04523/871
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Murasu TV
-http://watchindia.net:8880/40972/04523/880
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Nambikkai TV
-http://watchindia.net:8880/40972/04523/856
-#EXTINF:0 tvg-id="News18India.uk" group-title="Tamil",News18
-http://watchindia.net:8880/40972/04523/873
-#EXTINF:0 tvg-id="News7.al" group-title="Tamil",News 7
-http://watchindia.net:8880/40972/04523/867
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Nick Tamil
-http://watchindia.net:8880/40972/04523/2181
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Peppers
-http://watchindia.net:8880/40972/04523/870
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Polimer News
-http://watchindia.net:8880/40972/04523/877
-#EXTINF:0 tvg-id="PolimerTv.in" group-title="Tamil",Polimer TV
-http://watchindia.net:8880/40972/04523/2147
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthiya Thalaimurai
-http://watchindia.net:8880/40972/04523/879
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthuyugam TV
-http://watchindia.net:8880/40972/04523/865
-#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Tamil",Raj Digital Plus
-http://watchindia.net:8880/40972/04523/857
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Raj News Tamil
-http://watchindia.net:8880/40972/04523/853
-#EXTINF:0 tvg-id="RajTv.in" group-title="Tamil",Raj TV
-http://watchindia.net:8880/40972/04523/854
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Sirippoli TV
-http://watchindia.net:8880/40972/04523/2084
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Sri Sankara TV
-http://watchindia.net:8880/40972/04523/2164
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Tamil Vision International
-http://watchindia.net:8880/40972/04523/863
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Thanthi TV
-http://watchindia.net:8880/40972/04523/860
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Travel XP Tamil
-http://watchindia.net:8880/40972/04523/872
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Vasanth TV
-http://watchindia.net:8880/40972/04523/858
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Vendhar TV
-http://watchindia.net:8880/40972/04523/2146
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Tamil
-http://watchindia.net:8880/40972/04523/887
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Thirai
-http://watchindia.net:8880/40972/04523/2142
 
 ////////////Telugu///////////////////////
-
-#EXTM3U
-
-#EXTINF:0 tvg-id="MaaTv.in" group-title="Telugu",Star Maa HD
-http://watchindia.net:8880/40972/04523/933
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Movies HD
-http://watchindia.net:8880/40972/04523/934
-#EXTINF:0 tvg-id="MaaGold.in" group-title="Telugu",Star Maa Gold
-http://watchindia.net:8880/40972/04523/935
-#EXTINF:0 tvg-id="GeminiTvHD.in" group-title="Telugu",Gemini TV HD
-http://watchindia.net:8880/40972/04523/928
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Comedy
-http://watchindia.net:8880/40972/04523/971
-#EXTINF:0 tvg-id="GeminiMovies.in" group-title="Telugu",Gemini Movies HD
-http://watchindia.net:8880/40972/04523/930
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Music HD
-http://watchindia.net:8880/40972/04523/929
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Life
-http://watchindia.net:8880/40972/04523/931
-#EXTINF:0 tvg-id="10-tv" group-title="Telugu",10 TV
-http://watchindia.net:8880/40972/04523/981
-#EXTINF:0 tvg-id="ext" group-title="Telugu",ABN News
-http://watchindia.net:8880/40972/04523/980
-#EXTINF:0 tvg-id="BhaktiTV.in" group-title="Telugu",Bhakti TV
-http://watchindia.net:8880/40972/04523/977
-#EXTINF:0 tvg-id="ext" group-title="Telugu",CVR News
-http://watchindia.net:8880/40972/04523/975
-#EXTINF:0 tvg-id="ext" group-title="Telugu",DD Saptagiri
-http://watchindia.net:8880/40972/04523/974
-#EXTINF:0 tvg-id="ETV.ee" group-title="Telugu",ETV HD
-http://watchindia.net:8880/40972/04523/936
-#EXTINF:0 tvg-id="ext" group-title="Telugu",ETV Life
-http://watchindia.net:8880/40972/04523/938
-#EXTINF:0 tvg-id="ext" group-title="Telugu",ETV Plus HD
-http://watchindia.net:8880/40972/04523/937
-#EXTINF:0 tvg-id="ext" group-title="Telugu",NTV News
-http://watchindia.net:8880/40972/04523/2193
-#EXTINF:0 tvg-id="RajMusixTelugu.in" group-title="Telugu",Raj Musix Telugu
-http://watchindia.net:8880/40972/04523/957
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Raj News Telugu
-http://watchindia.net:8880/40972/04523/956
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Sakshi TV
-http://watchindia.net:8880/40972/04523/955
-#EXTINF:0 tvg-id="ext" group-title="Telugu",T News
-http://watchindia.net:8880/40972/04523/949
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Thanthi TV
-http://watchindia.net:8880/40972/04523/947
-#EXTINF:0 tvg-id="ext" group-title="Telugu",TV9
-http://watchindia.net:8880/40972/04523/945
-#EXTINF:0 tvg-id="V6News.in" group-title="Telugu",V6 News
-http://watchindia.net:8880/40972/04523/943
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Vissa TV
-http://watchindia.net:8880/40972/04523/942
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Cinemalu HD
-http://watchindia.net:8880/40972/04523/941
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Telugu HD
-http://watchindia.net:8880/40972/04523/940
-#EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Music
-http://watchindia.net:8880/40972/04523/2192
-
-/////////Kannada///////////////////////////
-
-#EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Colors HD Kannada
-http://watchindia.net:8880/40972/04523/982
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Colors Super HD
-http://watchindia.net:8880/40972/04523/983
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Prajaa TV
-http://watchindia.net:8880/40972/04523/997
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Public TV
-http://watchindia.net:8880/40972/04523/996
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Raj Musix Kannada
-http://watchindia.net:8880/40972/04523/993
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Raj News Kannada
-http://watchindia.net:8880/40972/04523/995
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Suvarna HD
-http://watchindia.net:8880/40972/04523/985
-#EXTINF:0 tvg-id="SuvarnaNews24x7.in" group-title="Kannada",Suvarna News
-http://watchindia.net:8880/40972/04523/990
-#EXTINF:0 tvg-id="SuvarnaPlus.in" group-title="Kannada",Suvarna Plus
-http://watchindia.net:8880/40972/04523/984
-#EXTINF:0 tvg-id="ext" group-title="Kannada",TV5 News
-http://watchindia.net:8880/40972/04523/987
-#EXTINF:0 tvg-id="ext" group-title="Kannada",TV9 News
-http://watchindia.net:8880/40972/04523/986
-#EXTINF:0 tvg-id="UdayaComedy.in" group-title="Kannada",Udaya Comedy
-http://watchindia.net:8880/40972/04523/988
-#EXTINF:0 tvg-id="Udaya.in" group-title="Kannada",Udaya HD
-http://watchindia.net:8880/40972/04523/1002
-#EXTINF:0 tvg-id="UdayaMovies.in" group-title="Kannada",Udaya Movies
-http://watchindia.net:8880/40972/04523/1004
-#EXTINF:0 tvg-id="UdayaMusic.in" group-title="Kannada",Udaya Music
-http://watchindia.net:8880/40972/04523/1003
-#EXTINF:0 tvg-id="ext" group-title="Kannada",Zee Kannada HD
-http://watchindia.net:8880/40972/04523/1001
 
 
 ///////////Indo/////////////////////////
@@ -1631,7 +1444,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #######################bine####################
 
-
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 1
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25106
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 2
@@ -1677,7 +1489,6 @@ http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25117
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="ARAB | BEIN",AR: BEIN SPORTS XTRA 1
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25121
 
-
 ####################################################
 
 #EXTINF:-1,True Premiere Football 1
@@ -1698,8 +1509,62 @@ http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/304833
 http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/301871
 #EXTINF:-1,True Sport 4
 http://193.27.90.139:8080//test_acct/ohbo1veifa4AhD/285569
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png", T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
+https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png", True Premier Football HD 1
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png", True Premier Football HD 2
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png", True Premier Football HD 3
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png", True Premier Football HD 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305", beIN Sports 1
+https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png", beIN Sports 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png", TPTV
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
+https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
+https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
+https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 4
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sports 5
+https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sports 7
+https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png", True Premier Football HD 1
+https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png", True Premier Football HD 2
+https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png", True Premier Football HD 3
+https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png", True Premier Football HD 4
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png", True Premier Football HD 5
+https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", GOLF CHANNEL HD+
+https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305", beIN Sports 1
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png", beIN Sports 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-
+==================={{={================================================
 
 #EXTINF:-1,SPORTV  HD
 http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
@@ -1746,6 +1611,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47640.m3u8
 #EXTINF:-1,WWE
 http://kstv.us:8080/live/tH300gvHff/8606073792/47642.m3u8
 
+###############################$################################
 
 #EXTINF:-1,[MM] Mahar Bhawdi
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
@@ -1823,72 +1689,24 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="9XJhakaas.in" group-title="Marathi",9X Jhakaas
-http://watchindia.net:8880/40972/04523/926
-#EXTINF:0 tvg-id="ext" group-title="Marathi",ABP Majha
-http://watchindia.net:8880/40972/04523/925
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Colors HD Marathi
-http://watchindia.net:8880/40972/04523/912
-#EXTINF:0 tvg-id="ext" group-title="Marathi",DD Sahyadri
-http://watchindia.net:8880/40972/04523/927
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Fakt
-http://watchindia.net:8880/40972/04523/924
-#EXTINF:0 tvg-id="ext" group-title="Marathi",News 18 Lokmat
-http://watchindia.net:8880/40972/04523/922
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Saam
-http://watchindia.net:8880/40972/04523/921
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Sangeet
-http://watchindia.net:8880/40972/04523/920
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Sony Marathi
-http://watchindia.net:8880/40972/04523/919
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Star Pravah HD
-http://watchindia.net:8880/40972/04523/918
-#EXTINF:0 tvg-id="ext" group-title="Marathi",TV9
-http://watchindia.net:8880/40972/04523/917
-#EXTINF:0 tvg-id="Zee24Taas.in" group-title="Marathi",Zee 24 Taas
-http://watchindia.net:8880/40972/04523/916
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Zee HD Marathi
-http://watchindia.net:8880/40972/04523/913
-#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Marathi",Zee Talkies HD
-http://watchindia.net:8880/40972/04523/914
-#EXTINF:0 tvg-id="ext" group-title="Marathi",Zee Yuva
-http://watchindia.net:8880/40972/04523/915
-
-#EXTINF:0 tvg-id="ext" group-title="Bengali",Aakash Aath
+#EXTINF:-1 tvg-id="ext" group-title="Bengali",Aakash Aath
 http://watchindia.net:8880/40972/04523/2295
-#EXTINF:0 tvg-id="ext" group-title="Bengali",ABP Ananda
+#EXTINF:-1 tvg-id="ext" group-title="Bengali",ABP Ananda
 http://watchindia.net:8880/40972/04523/2285
-#EXTINF:0 tvg-id="ext" group-title="Bengali",Colors Bangla HD
+#EXTINF:-1 tvg-id="ext" group-title="Bengali",Colors Bangla HD
 http://watchindia.net:8880/40972/04523/2284
-#EXTINF:0 tvg-id="DhoomMusic.in" group-title="Bengali",Dhoom Music
+#EXTINF:-1 tvg-id="DhoomMusic.in" group-title="Bengali",Dhoom Music
 http://watchindia.net:8880/40972/04523/2289
-#EXTINF:0 tvg-id="ext" group-title="Bengali",Sony Aath
+#EXTINF:-1 tvg-id="ext" group-title="Bengali",Sony Aath
 http://watchindia.net:8880/40972/04523/2286
-#EXTINF:0 tvg-id="ext" group-title="Bengali",Star Jalsha HD
+#EXTINF:-1 tvg-id="ext" group-title="Bengali",Star Jalsha HD
 http://watchindia.net:8880/40972/04523/2281
-#EXTINF:0 tvg-id="ext" group-title="Bengali",Sun Bangla
+#EXTINF:-1 tvg-id="ext" group-title="Bengali",Sun Bangla
 http://watchindia.net:8880/40972/04523/2290
-#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Bengali",Zee Bangla HD
+#EXTINF:-1 tvg-id="ZeeBangla.in" group-title="Bengali",Zee Bangla HD
 http://watchindia.net:8880/40972/04523/2283
 
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",ABP Asmita HD
-http://watchindia.net:8880/40972/04523/1012
-#EXTINF:0 tvg-id="CNBCBajar.in" group-title="Gujurati",CNBC Bajar
-http://watchindia.net:8880/40972/04523/1919
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",Colors Gujarati
-http://watchindia.net:8880/40972/04523/1006
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",GSTV
-http://watchindia.net:8880/40972/04523/1922
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",Kartavya TV
-http://watchindia.net:8880/40972/04523/1920
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",Lakshya TV
-http://watchindia.net:8880/40972/04523/1014
-#EXTINF:0 tvg-id="SandeshNewsDNN.in" group-title="Gujurati",Sandesh News
-http://watchindia.net:8880/40972/04523/1011
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",TV9 Gujarati
-http://watchindia.net:8880/40972/04523/1007
-#EXTINF:0 tvg-id="ext" group-title="Gujurati",Zee 24 Kalak
-http://watchindia.net:8880/40972/04523/1008
+
 
 #EXTINF:0 tvg-id="92News.uk" group-title="Urdu",92 News
 http://watchindia.net:8880/40972/04523/1050
@@ -1948,36 +1766,6 @@ http://watchindia.net:8880/40972/04523/1053
 http://watchindia.net:8880/40972/04523/1059
 #EXTINF:0 tvg-id="ext" group-title="Urdu",PTV Sports
 http://watchindia.net:8880/40972/04523/2325
-
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",5AAB TV
-http://watchindia.net:8880/40972/04523/2195
-#EXTINF:0 tvg-id="9XTashan.in" group-title="Punjabi",9X Tashan
-http://watchindia.net:8880/40972/04523/1950
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",ABP Sanjha
-http://watchindia.net:8880/40972/04523/1953
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",Balle Balle
-http://watchindia.net:8880/40972/04523/1955
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",MH One Music
-http://watchindia.net:8880/40972/04523/1949
-#EXTINF:0 tvg-id="PTCChakDe.in" group-title="Punjabi",PTC Chakde
-http://watchindia.net:8880/40972/04523/1944
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC IN
-http://watchindia.net:8880/40972/04523/1941
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC Music
-http://watchindia.net:8880/40972/04523/1945
-#EXTINF:0 tvg-id="PTCNews.in" group-title="Punjabi",PTC News
-http://watchindia.net:8880/40972/04523/1943
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC Simran
-http://watchindia.net:8880/40972/04523/1946
-#EXTINF:0 tvg-id="ext" group-title="Punjabi",Zee Punjab HH
-http://watchindia.net:8880/40972/04523/1952
-#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Punjabi",Zee Punjabi
-http://watchindia.net:8880/40972/04523/1951
-
-#EXTINF:-1,Aba Shwe Full
-http://adfoc.us/815413104990377
-#EXTINF:-1,Thank(ENT)
-https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
 
 ///VIETNAM/////
 
@@ -2082,131 +1870,282 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png" group-title="VIETNAM",  HTTV HD | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
-
-///MYANMAR / LAOS/////
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", QRT (404p)(မြန်မာ)
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", 膼峄搉g Nai 1(မြန်မာ)
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", 膼峄搉g Nai 2(မြန်မာ)
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", MNTV (မြန်မာ)
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", KienGiangTV(မြန်မာ)
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Hmong Star TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Houng Fa
-https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Oh Muang Lao TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Lao SV TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", LS TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Vati Lao(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Brian TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", LAO Net TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Ning TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Hmong TV Network(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Lao-Thai US TV
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Ning TV
-https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Air TV
-https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Lao SV TV
-https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Dao Lane Xang(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Tea TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ISTV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Oh Muang Lao TV
-https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Lao-Thai TV(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", ช่อง Supreme Master TV
-https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Hmong TV Network (720p)(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", Tea TV 2(မြန်မာ)
-https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", HBTV(မြန်မာ)
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-
-####################################################################
-
-
-
-
 ############################LG#####################################
 
+#EXTINF:0 tvg-id="9XJhakaas.in" group-title="Marathi",9X Jhakaas
+http://watchindia.net:8880/40972/04523/926
+#EXTINF:0 tvg-id="ext" group-title="Marathi",ABP Majha
+http://watchindia.net:8880/40972/04523/925
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Colors HD Marathi
+http://watchindia.net:8880/40972/04523/912
+#EXTINF:0 tvg-id="ext" group-title="Marathi",DD Sahyadri
+http://watchindia.net:8880/40972/04523/927
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Fakt
+http://watchindia.net:8880/40972/04523/924
+#EXTINF:0 tvg-id="ext" group-title="Marathi",News 18 Lokmat
+http://watchindia.net:8880/40972/04523/922
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Saam
+http://watchindia.net:8880/40972/04523/921
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Sangeet
+http://watchindia.net:8880/40972/04523/920
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Sony Marathi
+http://watchindia.net:8880/40972/04523/919
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Star Pravah HD
+http://watchindia.net:8880/40972/04523/918
+#EXTINF:0 tvg-id="ext" group-title="Marathi",TV9
+http://watchindia.net:8880/40972/04523/917
+#EXTINF:0 tvg-id="Zee24Taas.in" group-title="Marathi",Zee 24 Taas
+http://watchindia.net:8880/40972/04523/916
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Zee HD Marathi
+http://watchindia.net:8880/40972/04523/913
+#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Marathi",Zee Talkies HD
+http://watchindia.net:8880/40972/04523/914
+#EXTINF:0 tvg-id="ext" group-title="Marathi",Zee Yuva
+http://watchindia.net:8880/40972/04523/915
 
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png", T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
-https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
-https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png", True Premier Football HD 1
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png", True Premier Football HD 2
-https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png", True Premier Football HD 3
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png", True Premier Football HD 4
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
-https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305", beIN Sports 1
-https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png", beIN Sports 3
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png", TPTV
-https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png", True Sports 1
-https://www.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png", True Sports 2
-https://www.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 3
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png", True Sports 4
-https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png", True Sports 5
-https://www.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png", True Sports 7
-https://www.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png", True Premier Football HD 1
-https://www.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png", True Premier Football HD 2
-https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png", True Premier Football HD 3
-https://www.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_original.png", True Premier Football HD 4
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.png", True Premier Football HD 5
-https://www.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", GOLF CHANNEL HD+
-https://www.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
-https://www.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305", beIN Sports 1
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/24/aad8f450-ab93-11ec-a97d-396d70d8e8a6_webp_320.png", beIN Sports 3
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+############$$#######################$#$#############$$$$$#
+
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",ABP Asmita HD
+http://watchindia.net:8880/40972/04523/1012
+#EXTINF:0 tvg-id="CNBCBajar.in" group-title="Gujurati",CNBC Bajar
+http://watchindia.net:8880/40972/04523/1919
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Colors Gujarati
+http://watchindia.net:8880/40972/04523/1006
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",GSTV
+http://watchindia.net:8880/40972/04523/1922
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Kartavya TV
+http://watchindia.net:8880/40972/04523/1920
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Lakshya TV
+http://watchindia.net:8880/40972/04523/1014
+#EXTINF:0 tvg-id="SandeshNewsDNN.in" group-title="Gujurati",Sandesh News
+http://watchindia.net:8880/40972/04523/1011
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",TV9 Gujarati
+http://watchindia.net:8880/40972/04523/1007
+#EXTINF:0 tvg-id="ext" group-title="Gujurati",Zee 24 Kalak
+http://watchindia.net:8880/40972/04523/1008
+
+####$$######$$$$$######################$$$$$$$$$$$$$$$$$$#####
+
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",5AAB TV
+http://watchindia.net:8880/40972/04523/2195
+#EXTINF:0 tvg-id="9XTashan.in" group-title="Punjabi",9X Tashan
+http://watchindia.net:8880/40972/04523/1950
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",ABP Sanjha
+http://watchindia.net:8880/40972/04523/1953
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",Balle Balle
+http://watchindia.net:8880/40972/04523/1955
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",MH One Music
+http://watchindia.net:8880/40972/04523/1949
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="Punjabi",PTC Chakde
+http://watchindia.net:8880/40972/04523/1944
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC IN
+http://watchindia.net:8880/40972/04523/1941
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC Music
+http://watchindia.net:8880/40972/04523/1945
+#EXTINF:0 tvg-id="PTCNews.in" group-title="Punjabi",PTC News
+http://watchindia.net:8880/40972/04523/1943
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",PTC Simran
+http://watchindia.net:8880/40972/04523/1946
+#EXTINF:0 tvg-id="ext" group-title="Punjabi",Zee Punjab HH
+http://watchindia.net:8880/40972/04523/1952
+#EXTINF:0 tvg-id="ZeePunjabi.uk" group-title="Punjabi",Zee Punjabi
+http://watchindia.net:8880/40972/04523/1951
+
+###$$#$$$#$$############################$########$$$$$$$$$##########
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Colors HD Kannada
+http://watchindia.net:8880/40972/04523/982
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Colors Super HD
+http://watchindia.net:8880/40972/04523/983
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Prajaa TV
+http://watchindia.net:8880/40972/04523/997
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Public TV
+http://watchindia.net:8880/40972/04523/996
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Raj Musix Kannada
+http://watchindia.net:8880/40972/04523/993
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Raj News Kannada
+http://watchindia.net:8880/40972/04523/995
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Suvarna HD
+http://watchindia.net:8880/40972/04523/985
+#EXTINF:0 tvg-id="SuvarnaNews24x7.in" group-title="Kannada",Suvarna News
+http://watchindia.net:8880/40972/04523/990
+#EXTINF:0 tvg-id="SuvarnaPlus.in" group-title="Kannada",Suvarna Plus
+http://watchindia.net:8880/40972/04523/984
+#EXTINF:0 tvg-id="ext" group-title="Kannada",TV5 News
+http://watchindia.net:8880/40972/04523/987
+#EXTINF:0 tvg-id="ext" group-title="Kannada",TV9 News
+http://watchindia.net:8880/40972/04523/986
+#EXTINF:0 tvg-id="UdayaComedy.in" group-title="Kannada",Udaya Comedy
+http://watchindia.net:8880/40972/04523/988
+#EXTINF:0 tvg-id="Udaya.in" group-title="Kannada",Udaya HD
+http://watchindia.net:8880/40972/04523/1002
+#EXTINF:0 tvg-id="UdayaMovies.in" group-title="Kannada",Udaya Movies
+http://watchindia.net:8880/40972/04523/1004
+#EXTINF:0 tvg-id="UdayaMusic.in" group-title="Kannada",Udaya Music
+http://watchindia.net:8880/40972/04523/1003
+#EXTINF:0 tvg-id="ext" group-title="Kannada",Zee Kannada HD
+http://watchindia.net:8880/40972/04523/1001
+
+##########$$$$#########################################################
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="MaaTv.in" group-title="Telugu",Star Maa HD
+http://watchindia.net:8880/40972/04523/933
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Movies HD
+http://watchindia.net:8880/40972/04523/934
+#EXTINF:0 tvg-id="MaaGold.in" group-title="Telugu",Star Maa Gold
+http://watchindia.net:8880/40972/04523/935
+#EXTINF:0 tvg-id="GeminiTvHD.in" group-title="Telugu",Gemini TV HD
+http://watchindia.net:8880/40972/04523/928
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Comedy
+http://watchindia.net:8880/40972/04523/971
+#EXTINF:0 tvg-id="GeminiMovies.in" group-title="Telugu",Gemini Movies HD
+http://watchindia.net:8880/40972/04523/930
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Music HD
+http://watchindia.net:8880/40972/04523/929
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Gemini Life
+http://watchindia.net:8880/40972/04523/931
+#EXTINF:0 tvg-id="10-tv" group-title="Telugu",10 TV
+http://watchindia.net:8880/40972/04523/981
+#EXTINF:0 tvg-id="ext" group-title="Telugu",ABN News
+http://watchindia.net:8880/40972/04523/980
+#EXTINF:0 tvg-id="BhaktiTV.in" group-title="Telugu",Bhakti TV
+http://watchindia.net:8880/40972/04523/977
+#EXTINF:0 tvg-id="ext" group-title="Telugu",CVR News
+http://watchindia.net:8880/40972/04523/975
+#EXTINF:0 tvg-id="ext" group-title="Telugu",DD Saptagiri
+http://watchindia.net:8880/40972/04523/974
+#EXTINF:0 tvg-id="ETV.ee" group-title="Telugu",ETV HD
+http://watchindia.net:8880/40972/04523/936
+#EXTINF:0 tvg-id="ext" group-title="Telugu",ETV Life
+http://watchindia.net:8880/40972/04523/938
+#EXTINF:0 tvg-id="ext" group-title="Telugu",ETV Plus HD
+http://watchindia.net:8880/40972/04523/937
+#EXTINF:0 tvg-id="ext" group-title="Telugu",NTV News
+http://watchindia.net:8880/40972/04523/2193
+#EXTINF:0 tvg-id="RajMusixTelugu.in" group-title="Telugu",Raj Musix Telugu
+http://watchindia.net:8880/40972/04523/957
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Raj News Telugu
+http://watchindia.net:8880/40972/04523/956
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Sakshi TV
+http://watchindia.net:8880/40972/04523/955
+#EXTINF:0 tvg-id="ext" group-title="Telugu",T News
+http://watchindia.net:8880/40972/04523/949
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Thanthi TV
+http://watchindia.net:8880/40972/04523/947
+#EXTINF:0 tvg-id="ext" group-title="Telugu",TV9
+http://watchindia.net:8880/40972/04523/945
+#EXTINF:0 tvg-id="V6News.in" group-title="Telugu",V6 News
+http://watchindia.net:8880/40972/04523/943
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Vissa TV
+http://watchindia.net:8880/40972/04523/942
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Cinemalu HD
+http://watchindia.net:8880/40972/04523/941
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Zee Telugu HD
+http://watchindia.net:8880/40972/04523/940
+#EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Music
+http://watchindia.net:8880/40972/04523/2192
+
+/////////Kannada///////////////////////////
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
+http://watchindia.net:8880/40972/04523/843
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sun Life
+http://watchindia.net:8880/40972/04523/847
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Tamil",Sun Music HD
+http://watchindia.net:8880/40972/04523/844
+#EXTINF:0 tvg-id="SunNews.in" group-title="Tamil",Sun News
+http://watchindia.net:8880/40972/04523/869
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay HD
+http://watchindia.net:8880/40972/04523/846
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Star Vijay Super
+http://watchindia.net:8880/40972/04523/2190
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="Tamil",Adithya TV
+http://watchindia.net:8880/40972/04523/855
+#EXTINF:0 tvg-id="ChuttiTV.in" group-title="Tamil",Chutti TV
+http://watchindia.net:8880/40972/04523/882
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Colors Tamil HD
+http://watchindia.net:8880/40972/04523/2083
+#EXTINF:0 tvg-id="DiscoveryTamil.in" group-title="Tamil",Discovery Tamil
+http://watchindia.net:8880/40972/04523/2085
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Isai Aruvi TV
+http://watchindia.net:8880/40972/04523/2149
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Jaya TV HD
+http://watchindia.net:8880/40972/04523/851
+#EXTINF:0 tvg-id="JayaMax.in" group-title="Tamil",Jaya Max
+http://watchindia.net:8880/40972/04523/852
+#EXTINF:0 tvg-id="JayaMovie.in" group-title="Tamil",Jaya Movie
+http://watchindia.net:8880/40972/04523/849
+#EXTINF:0 tvg-id="JayaPlus.in" group-title="Tamil",Jaya Plus
+http://watchindia.net:8880/40972/04523/850
+#EXTINF:0 tvg-id="KalaignarTv.in" group-title="Tamil",Kalaignar TV
+http://watchindia.net:8880/40972/04523/2148
+#EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil",KTV HD
+http://watchindia.net:8880/40972/04523/845
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Madha TV
+http://watchindia.net:8880/40972/04523/875
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Makkal TV
+http://watchindia.net:8880/40972/04523/871
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Murasu TV
+http://watchindia.net:8880/40972/04523/880
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Nambikkai TV
+http://watchindia.net:8880/40972/04523/856
+#EXTINF:0 tvg-id="News18India.uk" group-title="Tamil",News18
+http://watchindia.net:8880/40972/04523/873
+#EXTINF:0 tvg-id="News7.al" group-title="Tamil",News 7
+http://watchindia.net:8880/40972/04523/867
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Nick Tamil
+http://watchindia.net:8880/40972/04523/2181
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Peppers
+http://watchindia.net:8880/40972/04523/870
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Polimer News
+http://watchindia.net:8880/40972/04523/877
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="Tamil",Polimer TV
+http://watchindia.net:8880/40972/04523/2147
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthiya Thalaimurai
+http://watchindia.net:8880/40972/04523/879
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthuyugam TV
+http://watchindia.net:8880/40972/04523/865
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Tamil",Raj Digital Plus
+http://watchindia.net:8880/40972/04523/857
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Raj News Tamil
+http://watchindia.net:8880/40972/04523/853
+#EXTINF:0 tvg-id="RajTv.in" group-title="Tamil",Raj TV
+http://watchindia.net:8880/40972/04523/854
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sirippoli TV
+http://watchindia.net:8880/40972/04523/2084
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sri Sankara TV
+http://watchindia.net:8880/40972/04523/2164
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Tamil Vision International
+http://watchindia.net:8880/40972/04523/863
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Thanthi TV
+http://watchindia.net:8880/40972/04523/860
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Travel XP Tamil
+http://watchindia.net:8880/40972/04523/872
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vasanth TV
+http://watchindia.net:8880/40972/04523/858
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vendhar TV
+http://watchindia.net:8880/40972/04523/2146
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Tamil
+http://watchindia.net:8880/40972/04523/887
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Thirai
+http://watchindia.net:8880/40972/04523/2142
+
+
+############$####################$#############$###########################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="Football",XFC MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-
+#EXTINF:-1,Aba Shwe Full
+http://adfoc.us/815413104990377
+#EXTINF:-1,Thank(ENT)
+https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
 
 

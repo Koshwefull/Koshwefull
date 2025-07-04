@@ -208,6 +208,42 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 
 #######################$#########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🔴ESPN",ESPN SD
+https://metalgear.bemtv.cn/STREAM/8322/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🔴ESPN",ESPN 2 HD
+https://metalgear.bemtv.cn/STREAM/8324/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="🔴ESPN",ESPN 3 HD
+http://46.151.196.223:14444/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🔴ESPN",ESPN 4 HD
+https://metalgear.bemtv.cn/STREAM/8328/chunks.m3u8
+       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴ESPN",ESPN 5 HD
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/197136
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴ESPN",ESPN 6 HD
+https://metalgear.bemtv.cn/STREAM/8320/chunks.m3u8
+
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="🔴ESPN",DAZN 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="🔴ESPN",DAZN 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="🔴ESPN",DAZN 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="🔴ESPN",DAZN 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="🔴ESPN",DAZN 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="🔴ESPN",DAZN 6
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
+
+
+###############################№#################$$###############################################
+
+
+
 #EXTINF:-1 xui-id="39946" tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Sky-sports-main-arena.jpg?20200324181805" group-title="SPORTS™ FHD¹",UK: Sky Sports Arena FHD
 http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVStuLcCbuR9p5CBg36cMuDg
 #EXTINF:-1 xui-id="39947" tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkFnaKPRLR4Tfp50c4v_HVescVNKrnRWSijEu7l2lDA5SuKlRi" group-title="SPORTS™ FHD¹",UK: Sky Sports Football FHD
@@ -898,129 +934,6 @@ http://line.greatstar.me/play/live.php?mac=00:1A:79:C3:E0:1A&extension=ts&stream
 //////////////Hidni/////////////////////////
 #EXTM3U
 
-#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (1)
-http://watchindia.net:8880/40972/04523/801
-#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (2)
-http://watchindia.net:8880/40972/04523/2264
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Rishtey HDရ
-http://watchindia.net:8880/40972/04523/830
-#EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (1)
-http://watchindia.net:8880/40972/04523/1969
-#EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (2)
-http://watchindia.net:8880/40972/04523/2141
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Hindi",Sony TV UK
-http://watchindia.net:8880/40972/04523/2117
-#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Hindi",Sony Max 2
-http://watchindia.net:8880/40972/04523/2024
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi",Sony Max HD
-http://watchindia.net:8880/40972/04523/788
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sab HD
-http://watchindia.net:8880/40972/04523/2323
-#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Hindi",Sony Sab UK
-http://watchindia.net:8880/40972/04523/2189
-#EXTINF:0 tvg-id="SonyPal.in" group-title="Hindi",Sony Pal
-http://watchindia.net:8880/40972/04523/812
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Wah
-http://watchindia.net:8880/40972/04523/814
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Yay
-http://watchindia.net:8880/40972/04523/2104
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony BBC Earth HD
-http://watchindia.net:8880/40972/04523/789
-#EXTINF:0 tvg-id="LifeOk.in" group-title="Hindi",Star Bharat HD
-http://watchindia.net:8880/40972/04523/780
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",Star Gold HD
-http://watchindia.net:8880/40972/04523/785
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",Star Gold Select HD
-http://watchindia.net:8880/40972/04523/784
-#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi",Star Plus HD
-http://watchindia.net:8880/40972/04523/1924
-#EXTINF:0 tvg-id="StarJalsha.uk" group-title="Hindi",Star Utsav
-http://watchindia.net:8880/40972/04523/2493
-#EXTINF:0 tvg-id="ext" group-title="Hindi",& Pictures HD
-http://watchindia.net:8880/40972/04523/783
-#EXTINF:0 tvg-id="ext" group-title="Hindi",& TV HD
-http://watchindia.net:8880/40972/04523/782
-#EXTINF:0 tvg-id="9XJalwa.in" group-title="Hindi",9X Jalwa
-http://watchindia.net:8880/40972/04523/828
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Aaj Tak HD
-http://watchindia.net:8880/40972/04523/807
-#EXTINF:0 tvg-id="AAJTAK.uk" group-title="Hindi",Aaj Tak
-http://watchindia.net:8880/40972/04523/836
-#EXTINF:0 tvg-id="ABPNews.uk" group-title="Hindi",ABP News
-http://watchindia.net:8880/40972/04523/833
-#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Hindi",B4U Music
-http://watchindia.net:8880/40972/04523/2113
-#EXTINF:0 tvg-id="ext" group-title="Hindi",B4U Plus
-http://watchindia.net:8880/40972/04523/823
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Cineplex HD
-http://watchindia.net:8880/40972/04523/803
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Discovery Channel Hindi
-http://watchindia.net:8880/40972/04523/841
-#EXTINF:0 tvg-id="E24.in" group-title="Hindi",E24
-http://watchindia.net:8880/40972/04523/829
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Epic TV
-http://watchindia.net:8880/40972/04523/794
-#EXTINF:0 tvg-id="HistoryTv18.in" group-title="Hindi",History TV18 HD
-http://watchindia.net:8880/40972/04523/791
-#EXTINF:0 tvg-id="ext" group-title="Hindi",India Today
-http://watchindia.net:8880/40972/04523/835
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Kadak Hits HD
-http://watchindia.net:8880/40972/04523/79
-#EXTINF:0 tvg-id="Mastiii.in" group-title="Hindi",Mastiii
-http://watchindia.net:8880/40972/04523/826
-#EXTINF:0 tvg-id="ext" group-title="Hindi",MTV Beats HD
-http://watchindia.net:8880/40972/04523/786
-#EXTINF:0 tvg-id="ext" group-title="Hindi",MTV India HD
-http://watchindia.net:8880/40972/04523/825
-#EXTINF:0 tvg-id="MusicIndia.uk" group-title="Hindi",Music India
-http://watchindia.net:8880/40972/04523/2293
-#EXTINF:0 tvg-id="NDTV.uk" group-title="Hindi",NDTV News
-http://watchindia.net:8880/40972/04523/831
-#EXTINF:0 tvg-id="NDTVProfit.in" group-title="Hindi",NDTV Profit
-http://watchindia.net:8880/40972/04523/837
-#EXTINF:0 tvg-id="ext" group-title="Hindi",News Nation
-http://watchindia.net:8880/40972/04523/838
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Nick Hindi
-http://watchindia.net:8880/40972/04523/2182
-#EXTINF:0 tvg-id="cartoon" group-title="Hindi",Cartoon Network HD+
-http://watchindia.net:8880/40972/04523/2718
-#EXTINF:0 tvg-id="RepublicBharat.uk" group-title="Hindi",Republic Bharat
-http://watchindia.net:8880/40972/04523/817
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Republic TV News
-http://watchindia.net:8880/40972/04523/815
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sanskar TV
-http://watchindia.net:8880/40972/04523/2151
-#EXTINF:0 tvg-id="TimesNow.uk" group-title="Hindi",Times Now
-http://watchindia.net:8880/40972/04523/839
-#EXTINF:0 tvg-id="ext" group-title="Hindi",TLC Hindi
-http://watchindia.net:8880/40972/04523/840
-#EXTINF:0 tvg-id="Travelxp.pl" group-title="Hindi",TravelXP HD
-http://watchindia.net:8880/40972/04523/792
-#EXTINF:0 tvg-id="ext" group-title="Hindi",TV9 News
-http://watchindia.net:8880/40972/04523/834
-#EXTINF:0 tvg-id="ext" group-title="Hindi",WION News
-http://watchindia.net:8880/40972/04523/816
-#EXTINF:0 tvg-id="ZeeAction.in" group-title="Hindi",Zee Action
-http://watchindia.net:8880/40972/04523/821
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Anmol
-http://watchindia.net:8880/40972/04523/813
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Anmol Cinema
-http://watchindia.net:8880/40972/04523/820
-#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Hindi",Zee Bollywood
-http://watchindia.net:8880/40972/04523/822
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi",Zee Cinema HD
-http://watchindia.net:8880/40972/04523/787
-#EXTINF:0 tvg-id="ZeeClassic.in" group-title="Hindi",Zee Classic
-http://watchindia.net:8880/40972/04523/802
-#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Hindi",Zee News
-http://watchindia.net:8880/40972/04523/832
-#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi",Zee TV HD
-http://watchindia.net:8880/40972/04523/1970
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Zest HD
-http://watchindia.net:8880/40972/04523/2359
-#EXTINF:0 tvg-id="zoom" group-title="Hindi",Zoom
-http://watchindia.net:8880/40972/04523/842
-
 ///////////Tamil///////////////////////////
 
 
@@ -1028,419 +941,6 @@ http://watchindia.net:8880/40972/04523/842
 
 
 ///////////Indo/////////////////////////
-
-#EXTM3U
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/UszChgD.png", SPOTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/5ldyWEj.png", SPOTV2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTS CHANNEL", OPTUS SPORT 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS CHANNEL", BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar2.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="SPORTS CHANNEL", BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", BEIN SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title="SPORTS CHANNEL", BEIN SPORTS 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar6.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PLx51rL.png" group-title="SPORTS CHANNEL", BEIN SPORTS 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="SPORTS CHANNEL", BEIN SPORTS 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS CHANNEL", BEIN SPORTS 9
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=xplayer168
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=mc400fe4ba3479&ct=11609365013&tsum=de807d1a2b488d6d174989bc2846844b
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-http://50.7.234.10:8278/Assp2/playlist.m3u8?tid=mcd8ecee22318d&ct=11619809460&tsum=5ff64d41128bfbd3605874da3b9467bf
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%201.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/FR%20BEIN%20SPORTS%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA 1
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA 1
-https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW PREMIER SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20premier%20sports%201.m3u8
-#http://mag.greatott.me/play/live.php?mac=00:1A:79:11:ED:45&stream=1110622&extension=ts&play_token=pxPZDdOTre
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="SPORTS CHANNEL", HUB PREMIER 1
-http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="SPORTS CHANNEL", MOTORVISION+
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%204.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", ARENA SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%201.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%203.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%204.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC NEWS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", LFC TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-https://phdown.serv00.net/Smartv.php?id=cctv5plus
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
-https://phdown.serv00.net/Smartv.php?id=cctv16
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork%202.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS CHANNEL", IMPACT WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/kPB5ml2.png", FIGHT SPORTS
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-id="truesports1.th" tvg-logo="https://i.imgur.com/1HLO0Hj.png", TRUE SPORTS 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-id="truesports3.th" tvg-logo="https://i.imgur.com/U5Mjlca.png", TRUE SPORTS 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS CHANNEL", TVRI SPORT
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS CHANNEL", TVRI SPORT
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTS CHANNEL", ASTRO CRICKET
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS CHANNEL", UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-chno="YOGAM" group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GGTIi2q.png", EUROSPORT
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 11) ExoPlayerLib/2.11.4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sc9kDp4.jpeg" group-title="SPORTS CHANNEL", W SPORT
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pj6zyon.png",STRONGMAN CHAMPIONS LEAGUE
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS CHANNEL",SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #######################bine####################
 
@@ -1708,6 +1208,9 @@ http://watchindia.net:8880/40972/04523/2283
 
 
 
+############################LG#####################################
+
+
 #EXTINF:0 tvg-id="92News.uk" group-title="Urdu",92 News
 http://watchindia.net:8880/40972/04523/1050
 #EXTINF:0 tvg-id="ext" group-title="Urdu",A Plus
@@ -1767,110 +1270,9 @@ http://watchindia.net:8880/40972/04523/1059
 #EXTINF:0 tvg-id="ext" group-title="Urdu",PTV Sports
 http://watchindia.net:8880/40972/04523/2325
 
-///VIETNAM/////
 
-#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-logo="https://i.imgur.com/IoIXiw9.png" group-title="VIETNAM",Đồng Nai 1
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-logo="https://i.imgur.com/Qsz0RHH.png" group-title="VIETNAM",Đồng Nai 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HaGiangTV.vn" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM",Ha Giang TV
-http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 tvg-id="HBTV.vn" tvg-logo="https://i.imgur.com/nyfysP7.png" group-title="VIETNAM",HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qlDA5N.png" group-title="VIETNAM", Dong Nai 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="VIETNAM", BAc Ninh
-http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="VIETNAM", Lai ChAu
-http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="VIETNAM", LAm Dong
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="VIETNAM", PhU YEn
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kETe9LN.png" group-title="VIETNAM", Cao BAng
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM", HA Giang
-http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png" group-title="VIETNAM",  THTG HD | TH Tiền Giang
-http://123.25.238.45:1935/live/thtg/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/127.png" group-title="VIETNAM",  CRTV HD | TH Cao Bằng
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png" group-title="VIETNAM",  LTV HD | TH Lâm Đồng
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ui0sjEz.png" group-title="VIETNAM", HAi PhOng+
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="VIETNAM", HAi PhOng
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JAglyuT.png" group-title="VIETNAM", HUng YEn
-https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="VIETNAM", Dak LAk
-https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NgcSFah.png" group-title="VIETNAM", HA Nam
-https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="VIETNAM", BAc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png" group-title="VIETNAM", ช่อง BGTV HD | TH Bắc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="VIETNAM", LAng SOn
-https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="VIETNAM", Ninh BInh
-https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="VIETNAM", KhAnh HOa
-https://tv.ktv.org.vn/hls/ktv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TUUW6qB.png" group-title="VIETNAM", KiAn Giang 1
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YkEommU.png" group-title="VIETNAM", CA Mau
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="VIETNAM", BInh Dinh
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/114.png" group-title="VIETNAM",  BTV HD | TH Bình Định
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GeOj5K5.png" group-title="VIETNAM", KiAn Giang
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="VIETNAM",  TVK
-https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="VIETNAM", Kon Tum
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="VIETNAM", Ninh ThuAn
-https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="VIETNAM", BInh PhUoc 2
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/123.png" group-title="VIETNAM",  BPTV2 HD | TH Bình Phước
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="VIETNAM", LAo Cai
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="VIETNAM", HAi DUong
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png" group-title="VIETNAM", ช่อง WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8ufYjD.png" group-title="VIETNAM", HOa BInh.
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="VIETNAM", DiEn BiEn
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="VIETNAM", BAc KAn
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0fGI8cJ.png" group-title="VIETNAM", CAn ThO
-https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="VIETNAM", BInh ThuAn
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/130.png" group-title="VIETNAM",  DRT HD | TH Đắk Lắk
-https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRpyJmO.png" group-title="VIETNAM", Quang Nam
-https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png" group-title="VIETNAM",  THTPCT HD | TH Cần Thơ
-https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png" group-title="VIETNAM",  THHN HD | TH Hà Nam
-https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png" group-title="VIETNAM",  BTV HD | TH Bình Thuận
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png" group-title="VIETNAM",  BLTV HD | TH Bạc Liêu
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="VIETNAM", BAc  LiAu
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png" group-title="VIETNAM",  HTTV HD | TH Hà Tĩnh
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+#######$###################
 
-############################LG#####################################
 
 #EXTINF:0 tvg-id="9XJhakaas.in" group-title="Marathi",9X Jhakaas
 http://watchindia.net:8880/40972/04523/926
@@ -2050,10 +1452,10 @@ http://watchindia.net:8880/40972/04523/940
 #EXTINF:0 tvg-id="ext" group-title="Telugu",Star Maa Music
 http://watchindia.net:8880/40972/04523/2192
 
+
 /////////Kannada///////////////////////////
 
 
-#EXTM3U
 
 #EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
 http://watchindia.net:8880/40972/04523/843
@@ -2126,17 +1528,133 @@ http://watchindia.net:8880/40972/04523/2164
 #EXTINF:0 tvg-id="ext" group-title="Tamil",Tamil Vision International
 http://watchindia.net:8880/40972/04523/863
 #EXTINF:0 tvg-id="ext" group-title="Tamil",Thanthi TV
-http://watchindia.net:8880/40972/04523/860
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Travel XP Tamil
-http://watchindia.net:8880/40972/04523/872
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Vasanth TV
-http://watchindia.net:8880/40972/04523/858
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Vendhar TV
-http://watchindia.net:8880/40972/04523/2146
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Tamil
-http://watchindia.net:8880/40972/04523/887
-#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Thirai
-http://watchindia.net:8880/40972/04523/2142
+
+######№##########################$$$$$$$$#$
+
+
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (1)
+http://watchindia.net:8880/40972/04523/801
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi",Colors TV HD (2)
+http://watchindia.net:8880/40972/04523/2264
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Rishtey HDရ
+http://watchindia.net:8880/40972/04523/830
+#EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (1)
+http://watchindia.net:8880/40972/04523/1969
+#EXTINF:0 tvg-id="set" group-title="Hindi",Sony TV HD (2)
+http://watchindia.net:8880/40972/04523/2141
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Hindi",Sony TV UK
+http://watchindia.net:8880/40972/04523/2117
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title="Hindi",Sony Max 2
+http://watchindia.net:8880/40972/04523/2024
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Hindi",Sony Max HD
+http://watchindia.net:8880/40972/04523/788
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sab HD
+http://watchindia.net:8880/40972/04523/2323
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Hindi",Sony Sab UK
+http://watchindia.net:8880/40972/04523/2189
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Hindi",Sony Pal
+http://watchindia.net:8880/40972/04523/812
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Wah
+http://watchindia.net:8880/40972/04523/814
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Yay
+http://watchindia.net:8880/40972/04523/2104
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony BBC Earth HD
+http://watchindia.net:8880/40972/04523/789
+#EXTINF:0 tvg-id="LifeOk.in" group-title="Hindi",Star Bharat HD
+http://watchindia.net:8880/40972/04523/780
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",Star Gold HD
+http://watchindia.net:8880/40972/04523/785
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi",Star Gold Select HD
+http://watchindia.net:8880/40972/04523/784
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi",Star Plus HD
+http://watchindia.net:8880/40972/04523/1924
+#EXTINF:0 tvg-id="StarJalsha.uk" group-title="Hindi",Star Utsav
+http://watchindia.net:8880/40972/04523/2493
+#EXTINF:0 tvg-id="ext" group-title="Hindi",& Pictures HD
+http://watchindia.net:8880/40972/04523/783
+#EXTINF:0 tvg-id="ext" group-title="Hindi",& TV HD
+http://watchindia.net:8880/40972/04523/782
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Hindi",9X Jalwa
+http://watchindia.net:8880/40972/04523/828
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Aaj Tak HD
+http://watchindia.net:8880/40972/04523/807
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="Hindi",Aaj Tak
+http://watchindia.net:8880/40972/04523/836
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="Hindi",ABP News
+http://watchindia.net:8880/40972/04523/833
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Hindi",B4U Music
+http://watchindia.net:8880/40972/04523/2113
+#EXTINF:0 tvg-id="ext" group-title="Hindi",B4U Plus
+http://watchindia.net:8880/40972/04523/823
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors Cineplex HD
+http://watchindia.net:8880/40972/04523/803
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Discovery Channel Hindi
+http://watchindia.net:8880/40972/04523/841
+#EXTINF:0 tvg-id="E24.in" group-title="Hindi",E24
+http://watchindia.net:8880/40972/04523/829
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Epic TV
+http://watchindia.net:8880/40972/04523/794
+#EXTINF:0 tvg-id="HistoryTv18.in" group-title="Hindi",History TV18 HD
+http://watchindia.net:8880/40972/04523/791
+#EXTINF:0 tvg-id="ext" group-title="Hindi",India Today
+http://watchindia.net:8880/40972/04523/835
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Kadak Hits HD
+http://watchindia.net:8880/40972/04523/79
+#EXTINF:0 tvg-id="Mastiii.in" group-title="Hindi",Mastiii
+http://watchindia.net:8880/40972/04523/826
+#EXTINF:0 tvg-id="ext" group-title="Hindi",MTV Beats HD
+http://watchindia.net:8880/40972/04523/786
+#EXTINF:0 tvg-id="ext" group-title="Hindi",MTV India HD
+http://watchindia.net:8880/40972/04523/825
+#EXTINF:0 tvg-id="MusicIndia.uk" group-title="Hindi",Music India
+http://watchindia.net:8880/40972/04523/2293
+#EXTINF:0 tvg-id="NDTV.uk" group-title="Hindi",NDTV News
+http://watchindia.net:8880/40972/04523/831
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="Hindi",NDTV Profit
+http://watchindia.net:8880/40972/04523/837
+#EXTINF:0 tvg-id="ext" group-title="Hindi",News Nation
+http://watchindia.net:8880/40972/04523/838
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Nick Hindi
+http://watchindia.net:8880/40972/04523/2182
+#EXTINF:0 tvg-id="cartoon" group-title="Hindi",Cartoon Network HD+
+http://watchindia.net:8880/40972/04523/2718
+#EXTINF:0 tvg-id="RepublicBharat.uk" group-title="Hindi",Republic Bharat
+http://watchindia.net:8880/40972/04523/817
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Republic TV News
+http://watchindia.net:8880/40972/04523/815
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sanskar TV
+http://watchindia.net:8880/40972/04523/2151
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="Hindi",Times Now
+http://watchindia.net:8880/40972/04523/839
+#EXTINF:0 tvg-id="ext" group-title="Hindi",TLC Hindi
+http://watchindia.net:8880/40972/04523/840
+#EXTINF:0 tvg-id="Travelxp.pl" group-title="Hindi",TravelXP HD
+http://watchindia.net:8880/40972/04523/792
+#EXTINF:0 tvg-id="ext" group-title="Hindi",TV9 News
+http://watchindia.net:8880/40972/04523/834
+#EXTINF:0 tvg-id="ext" group-title="Hindi",WION News
+http://watchindia.net:8880/40972/04523/816
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Hindi",Zee Action
+http://watchindia.net:8880/40972/04523/821
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Anmol
+http://watchindia.net:8880/40972/04523/813
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Anmol Cinema
+http://watchindia.net:8880/40972/04523/820
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Hindi",Zee Bollywood
+http://watchindia.net:8880/40972/04523/822
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi",Zee Cinema HD
+http://watchindia.net:8880/40972/04523/787
+#EXTINF:0 tvg-id="ZeeClassic.in" group-title="Hindi",Zee Classic
+http://watchindia.net:8880/40972/04523/802
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Hindi",Zee News
+http://watchindia.net:8880/40972/04523/832
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi",Zee TV HD
+http://watchindia.net:8880/40972/04523/1970
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Zest HD
+http://watchindia.net:8880/40972/04523/2359
+#EXTINF:0 tvg-id="zoom" group-title="Hindi",Zoom
+http://watchindia.net:8880/40972/04523/842
+
 
 
 ############$####################$#############$###########################

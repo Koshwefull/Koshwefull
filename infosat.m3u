@@ -292,13 +292,27 @@ http://imediatv666.store:7777/Mads77/GTRQEDTCY/146615
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146616
 #EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 7" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/ssc.jpg" group-title="SSC Sports (Saudi League)",AR: SSC SPORT 7
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/146617
-#EXTINF:-1,CANAL_SPORTS 1
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd&b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
 
-#EXTINF:-1,CANAL_SPORTS 2
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_HAHA/output2/index.mpd&4b08a329872444a79640d30bc8e5d88a:577fc30892aad29ef37139cf3210a267
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="🔴SONY(OTT)",SONY TEN 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="🔴SONY(OTT)",SONY TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="🔴SONY(OTT)", SONY TEN 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+
+
+
+
 
 ##################################$$##############$$#$#$#$###########$#########$$$$$$$#########
+
+
 
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8111

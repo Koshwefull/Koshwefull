@@ -698,20 +698,19 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 
-#EXTVLCOPT:http-user-agent:OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270945.ts
 
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 2
-#EXTVLCOPT:http-user-agent:OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270950.ts
 
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 3
-#EXTVLCOPT:http-user-agent:OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270954.ts
 
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 4
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
 http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/220.ts
+
+#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 5
+http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/50872.ts
 
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 5
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1

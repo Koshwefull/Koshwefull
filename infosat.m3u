@@ -588,6 +588,17 @@ https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
 #EXTINF:-1,[MM] MRTV Hluttaw
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 ,CANAL_SPORTS 1
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd=?|drmScheme=clearkey&drmLicense=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
+
+#EXTINF:-1 ,THUKHUMA_1
+https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_1/output2/index.mpd?|drmScheme=clearkey&drmLicense=0752eeedc9c04d278e6cf2d477f3a3ed:9769ab0b2b0b4f0e3ee7316ae78b1689
+
+#EXTINF:-1 ,THUKHUMA_2
+https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_2/output2/index.mpd?|drmScheme=clearkey&drmLicense=464fb15007cd4620b19ed473f679c2bf:72f0b1a3c2d6003173644940c6a83831
+
 #EXTINF:-1 tvg-id="5Plus.mm",5 Plus (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.mm",Channel 7 (720p)

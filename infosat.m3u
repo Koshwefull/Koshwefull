@@ -2478,6 +2478,90 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 ,True Sports 3
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="⚽ Sports", Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="⚽ Sports", Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="⚽ Sports", Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="⚽ Sports", Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
+
+#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1 fw4free
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="⚽ Sports" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2 fw4free
+https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="⚽ Sports",Star Sports Select 1 HD
+http://watchindia.net:8880/live/32612/55103/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="⚽ Sports",Star Sports Select 2 HD
+http://watchindia.net:8880/live/32612/55103/1071.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="SPORTS", SportStars1
+https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="SPORTS",SportStars2
+https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="SPORTS",BeinSports1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORTS" ,BeinSports2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS" ,BeinSports3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="SPORTS",AstroArena1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="SPORTS",AstroArena2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="SPORTS",AstroArenaBola1
+https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="SPORTS",AstroArenaBola2
+https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="SPORTS",AsrtoPremierLeague1
+https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="SPORTS",AsrtoPremierLeague2
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="SPORTS",AstroGrandstand
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="SPORTS",AstroFootball
+https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="SPORTS",AstroSportPlus1
+https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus2.png" group-title="SPORTS",AstroSportPlus2
+https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS",AstroBadminton1
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="SPORTS",AstroBadminton2
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="SPORTS",SkySportMotoGP
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="SPORTS",079. Sport.TV1
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="SPORTS",080. Sport.TV2
+https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png" group-title="SPORTS",081. Sport.TV3
+https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="SPORTS",082. Sport.TV4
+https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV5.png" group-title="SPORTS",083. Sport.TV5
+https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="SPORTS",084. Sport.TV6
+https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rtmsport.png" group-title="SPORTS",RTM SPORT
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/.
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/unifisports1.png" group-title="SPORTS",UNIFI SPORTS 1
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/redbulltv.png" group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19538643_ico.png?ts=1662016488" group-title="SPORTS",MOTORVISION
+http://210.210.155.37/uq2663/h/h09/01.m3u8|User-Agent=Lavf/56.15.102
+EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+
+
 #EXTINF:-1 ,Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 

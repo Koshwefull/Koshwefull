@@ -2466,44 +2466,20 @@ http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
 #############################$################################
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s",Real Madrid TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-
-
 #EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="Sports" tvg-id="trueSports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="trueSports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="trueSports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 

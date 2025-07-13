@@ -2493,10 +2493,7 @@ https://7pal.short.gy/astross3
 #EXTINF:-1,Astro_Supersport4_MY-FHD
 https://7pal.short.gy/astross4
 
-#EXTINF:-1,EPL-1 fw4free
-https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-#EXTINF:-1,EPL-2 fw4free
-https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="⚽ Sports",Star Sports Select 1 HD
 http://watchindia.net:8880/live/32612/55103/1070.ts

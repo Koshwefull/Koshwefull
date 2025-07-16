@@ -3327,6 +3327,49 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 
 <================================================>
 
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 1 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142519
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 2 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142520
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 3 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142521
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 4 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142522
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 5 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142523
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 6 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142524
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 7 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142525
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 8 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142526
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 9 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142527
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 10 ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142528
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND ACTION
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/149599
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| FOX Movies ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/254336
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN|  Bein ANIMAL PLANET ᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/77012
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN|BEIN STAR WORLD HD
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/120308
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN|BEIN STAR MOVIES HD
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/623499
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|BEIN| Star Action ᵁᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/31713
+
+#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| National Geographic Wild ᴴᴰ
+http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/15064
+
+########$$$$$####################################
+
+
+
 
 <======================== Malaysia ==========================>
 
@@ -3597,6 +3640,8 @@ http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/48991
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/288542
 #EXTINF:-1 tvg-ID="islamchurdu.uk" tvg-name="|UK| ISLAM CHANNEL URDU" tvg-logo="http://138.199.27.237:8080/UK/ISLAMCHANNELURUDU.png" group-title="|UK| ASIA HD",|UK| ISLAM CHANNEL URDU
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/288543
+
+
 
 
 ############$####################$#############$###########################

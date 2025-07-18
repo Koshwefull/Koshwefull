@@ -2482,6 +2482,19 @@ http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 
+#EXTINF:-1 tvg-id="Astro Cricket HD" tvg-name="Astro  Cricket" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-cricket-my.png" group-title="Astro Super Sports",Astro  Cricket
+http://imediatv666.store:7777/Mads77/GTRQEDTCY/112014
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro Supersport 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="Astro Super Sports",Astro Supersport 1
+http://imediatv666.store:7777/Mads77/GTRQEDTCY/110466
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro Supersport 2 " tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="Astro Super Sports",Astro Supersport 2 
+http://imediatv666.store:7777/Mads77/GTRQEDTCY/110467
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro Supersport 3 " tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="Astro Super Sports",Astro Supersport 3 
+http://imediatv666.store:7777/Mads77/GTRQEDTCY/110468
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro Supersport 4 " tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="Astro Super Sports",Astro Supersport 4 
+http://imediatv666.store:7777/Mads77/GTRQEDTCY/110469
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="Astro Supersport 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="Astro Super Sports",Astro Supersport 5
+http://imediatv666.store:7777/Mads77/GTRQEDTCY/123792
+
 #EXTINF:-1,Astro_Supersport1_MY-FHD
 https://7pal.short.gy/astross1
 #EXTINF:-1,Astro_Supersport2_MY-FHD

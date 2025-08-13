@@ -2475,62 +2475,6 @@ http://imediatv666.store:7777/Mads77/GTRQEDTCY/110469
 #EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="Astro Supersport 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="Astro Super Sports",Astro Supersport 5
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/123792
 
-#EXTINF:-1,Astro_Supersport1_MY-FHD
-https://7pal.short.gy/astross1
-#EXTINF:-1,Astro_Supersport2_MY-FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1,Astro_Supersport3_MY-FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1,Astro_Supersport4_MY-FHD
-https://7pal.short.gy/astross4
-
-
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="⚽ Sports",Star Sports Select 1 HD
-http://watchindia.net:8880/live/32612/55103/1070.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="⚽ Sports",Star Sports Select 2 HD
-http://watchindia.net:8880/live/32612/55103/1071.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="SPORTS", SportStars1
-https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="SPORTS",SportStars2
-https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="SPORTS",BeinSports1
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORTS" ,BeinSports2
-https://wahyu1ptv.pages.dev/AstroBein2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS" ,BeinSports3
-https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekLE94-vp9uJJrNEyoAYrWQ5hvvq49C1eRJwmGu0V_wn-cwT9-st6VX51&s=10", group-title="SPORT", TRT SPOR
-https://test.dreamboxserver.net/trtspor/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORT", TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="1.SE" tvg-name="PPV| SETANTA EVENT 01 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/setan.png" group-title="SPORT",SETANTA EVENT 01 [EVENT ONLY]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/31690
-
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="2.SE" tvg-name="PPV| SETANTA EVENT 02 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/setan.png" group-title="SPORT",SETANTA EVENT 02 [EVENT ONLY]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/31691
-
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="3.SE" tvg-name="PPV| SETANTA EVENT 03 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/setan.png" group-title="SPORT",SETANTA EVENT 03 [EVENT ONLY]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/31692
-
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="4.SE" tvg-name="PPV| SETANTA EVENT 04 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/setan.png" group-title="SPORT",SETANTA EVENT 04 [EVENT ONLY]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/31693
-
-
-#REFRESH="1"
-#EXTINF:-10.0 tvg-id="5.SE" tvg-name="PPV| SETANTA EVENT 05 [EVENT ONLY]" tvg-logo="https://lo1.in/uk/setan.png" group-title="SPORT",SETANTA EVENT 05 [EVENT ONLY]
-http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/31694
 
 #EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
@@ -2568,26 +2512,6 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #########################$#####################$$$$$$#####################################
 
-#EXTINF:-1,Eleven Sports 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/48443.ts
-#EXTINF:-1,Eleven Sports 2
-http://kstv.us:8080/live/tH300gvHff/8606073792/48444.ts
-#EXTINF:-1,Eleven Sports 3 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48445.ts
-#EXTINF:-1,Eleven Sports 4
-http://kstv.us:8080/live/tH300gvHff/8606073792/48446.ts
-#EXTINF:-1,Eleven Sports 5 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48447.ts
-#EXTINF:-1,Eleven Sports 6 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48448.ts
-#EXTINF:-1,Sport TV 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/48496.ts
-#EXTINF:-1,Sport TV 2 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48497.ts
-#EXTINF:-1,Sport TV 3 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48498.ts
-#EXTINF:-1,Sport TV 4 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48499.ts
 #EXTINF:-1,Sport TV 1
 http://xxip25.top:8080/tamikahomecare/tamikahomecare/167742
 #EXTINF:-1,Sport TV 2 
@@ -2599,23 +2523,12 @@ http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 
 #######################$#########################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🔴ESPN",ESPN SD
-https://metalgear.bemtv.cn/STREAM/8322/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🔴ESPN",ESPN 2 HD
-https://metalgear.bemtv.cn/STREAM/8324/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="🔴ESPN",ESPN 3 HD
 http://46.151.196.223:14444/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🔴ESPN",ESPN 4 HD
-https://metalgear.bemtv.cn/STREAM/8328/chunks.m3u8
-       
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴ESPN",ESPN 5 HD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/197136
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴ESPN",ESPN 6 HD
-https://metalgear.bemtv.cn/STREAM/8320/chunks.m3u8
 
 #EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="🔴ESPN",DAZN 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
@@ -2664,94 +2577,26 @@ http://imediatv666.store:7777/Mads77/GTRQEDTCY/146617
 
 
 
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="FR | SPORT",FR: CANAL+ FOOT
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8111
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="FR | SPORT",FR: CANAL+ SPORT 360
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25959
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT.png" group-title="FR | SPORT",FR: CANAL+ SPORT
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8008
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_PREMIER_LEAGUE.png" group-title="FR | SPORT",FR: CANAL+ PREMIER LEAGUE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8006
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8298
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="FR | SPORT",FR: BEIN SPORTS 1 HD
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57554
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="FR | SPORT",FR: BEIN SPORTS 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8299
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="FR | SPORT",FR: BEIN SPORTS 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8300
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 4
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8301
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 5
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8302
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 6
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8303
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 7" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_7.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 7
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8304
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 8" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_8.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 8
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8305
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 9" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_9.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 9
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8306
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 10" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_10.png" group-title="FR | SPORT",FR: BEIN SPORT MAX 10
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8307
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="FR: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_1.png" group-title="FR | SPORT",FR: EUROSPORT 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8313
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="FR: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_2.png" group-title="FR | SPORT",FR: EUROSPORT 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8314
-#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360.png" group-title="FR | SPORT",FR: EUROSPORT 360 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8315
-#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_2.png" group-title="FR | SPORT",FR: EUROSPORT 360 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8316
-#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 360 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EUROSPORT_360_3.png" group-title="FR | SPORT",FR: EUROSPORT 360 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8317
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport1.png" group-title="FR | SPORT",FR: RMC SPORT 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8338
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmcsport2.png" group-title="FR | SPORT",FR: RMC SPORT 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8339
-#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="FR: RMC SPORT 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-3-fr.png" group-title="FR | SPORT",FR: RMC SPORT 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8340
-#EXTINF:-1 tvg-id="RMC Sport 4" tvg-name="FR: RMC SPORT 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-4-fr.png" group-title="FR | SPORT",FR: RMC SPORT 4
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8341
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 5 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-5-fr.png" group-title="FR | SPORT",FR: RMC SPORT 5 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8342
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 6 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-6-fr.png" group-title="FR | SPORT",FR: RMC SPORT 6 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8343
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 7 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-7-fr.png" group-title="FR | SPORT",FR: RMC SPORT 7 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8344
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 8 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-8-fr.png" group-title="FR | SPORT",FR: RMC SPORT 8 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8345
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 9 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-9-fr.png" group-title="FR | SPORT",FR: RMC SPORT 9 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8346
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 10 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-10-fr.png" group-title="FR | SPORT",FR: RMC SPORT 10 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8347
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 11 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-11-fr.png" group-title="FR | SPORT",FR: RMC SPORT 11 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8348
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 12 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-12-fr.png" group-title="FR | SPORT",FR: RMC SPORT 12 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8349
-#EXTINF:-1 tvg-id="TF1" tvg-name="FR: RMC SPORT 13 LIVE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/rmc-sport-live-13-fr.png" group-title="FR | SPORT",FR: RMC SPORT 13 LIVE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8350
+
 
 
 ##############################$$$#####################$##$$$$####################$$#$
 
-#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="FR: 000000" tvg-logo="" group-title="FR | 000000",FR: 000000
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8215
-#EXTINF:-1 tvg-id="Infosport+" tvg-name="FR: INFOSPORT+" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/INFOSPORT.png" group-title="FR | SPORT",FR: INFOSPORT+
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8214
-#EXTINF:-1 tvg-id="EQUIDIA" tvg-name="FR: EQUIDIA" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/EQUIDIA.png" group-title="FR | SPORT",FR: EQUIDIA
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8109
-#EXTINF:-1 tvg-id="la cha?ne L Equipe" tvg-name="FR: L EQUIPE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/L_EQUIPE.png" group-title="FR | SPORT",FR: L EQUIPE
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8126
-#EXTINF:-1 tvg-id="AUTOMOTO" tvg-name="FR: AUTOMOTO" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/AUTOMOTO.png" group-title="FR | SPORT",FR: AUTOMOTO
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/8085
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GOLF.png" group-title="FR | SPORT",FR: GOLF+
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/57342
+
+
+
 
 
 ##########################################################################################
 
 
+
+
+
+
 #########################################################UK####################$#$#
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="NZ TVNZ  DUKE" tvg-logo="" group-title="|NZ| NEW ZEALAND",NZ TVNZ  DUKE
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/1057819
 #EXTINF:-1 tvg-ID="" tvg-name="NZ TVNZ 1" tvg-logo="" group-title="|NZ| NEW ZEALAND",NZ TVNZ 1
@@ -2803,50 +2648,8 @@ http://watchindia.net:8880/40972/04523/2662
 
 #######################bine####################
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25106
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25107
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25108
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 4
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25110
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 5
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25109
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 6
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25111
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://docdog.top/logo/countries/bein/beinsports7.png" group-title="ARAB | BEIN",AR: BEIN SPORTS 7
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25112
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25118
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25119
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSPREMIUM3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS PREMIUM 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25120
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 1" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-1-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49563
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 2" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-2-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49564
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 3" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-3-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49565
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 4" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-4-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 4
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49566
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 5" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-5-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 5
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49567
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS MAX 6" tvg-logo="https://docdog.top/logo/countries/bein/bein-sports-6-max-mea.png" group-title="ARAB | BEIN",AR: BEIN SPORTS MAX 6
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/49568
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25113
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 2
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25114
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="ARAB | BEIN",AR: BEIN SPORTS ENG 3
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25115
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://docdog.top/logo/countries/bein/beinsports-nba.jpg" group-title="ARAB | BEIN",AR: BEIN SPORTS NBA
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25116
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/bein/BEINSPORTSNEWS.png" group-title="ARAB | BEIN",AR: BEIN SPORTS NEWS
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25117
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="ARAB | BEIN",AR: BEIN SPORTS XTRA 1
-http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25121
+
+
 
 ####################################################
 
@@ -2854,50 +2657,8 @@ http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25121
 
 ==================={{={================================================
 
-#EXTINF:-1,SPORTV  HD
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-#EXTINF:-1,SPORTV 2  HD
-http://kstv.us:8080/live/tH300gvHff/8606073792/46507.m3u8
-#EXTINF:-1,BRASIL | SPORTV 3  HD
-http://kstv.us:8080/live/tH300gvHff/8606073792/46508.m3u8
-#EXTINF:-1,SPORT TV 1 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48496.m3u8
-#EXTINF:-1,SPORT TV 2 
-http://kstv.us:8080/live/tH300gvHff/8606073792/48497.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://kstv.us:8080/live/tH300gvHff/8606073792/48498.m3u8
-#EXTINF:-1,SPORT TV 4 FHD
-http://kstv.us:8080/live/tH300gvHff/8606073792/48499.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
-#EXTINF:-1,SUPERSPORTS VARIETY 01
-http://kstv.us:8080/live/tH300gvHff/8606073792/47628.m3u8
-#EXTINF:-1,SUPERSPORTS VARIETY 02
-http://kstv.us:8080/live/tH300gvHff/8606073792/47629.m3u8
-#EXTINF:-1,SUPERSPORTS VARIETY 03
-http://kstv.us:8080/live/tH300gvHff/8606073792/47630.m3u8
-#EXTINF:-1,SUPERSPORTS VARIETY 04
-http://kstv.us:8080/live/tH300gvHff/8606073792/47631.m3u8
-#EXTINF:-1,SUPERSPORTS Blitz
-http://kstv.us:8080/live/tH300gvHff/8606073792/47632.m3u8
-#EXTINF:-1,SUPERSPORTS Premier League
-http://kstv.us:8080/live/tH300gvHff/8606073792/47633.m3u8
-#EXTINF:-1,SUPERSPORTS Cricket
-http://kstv.us:8080/live/tH300gvHff/8606073792/47634.m3u8
-#EXTINF:-1,SUPERSPORTS Rugby
-http://kstv.us:8080/live/tH300gvHff/8606073792/47635.m3u8
-#EXTINF:-1,SUPERSPORTS Football
-http://kstv.us:8080/live/tH300gvHff/8606073792/47636.m3u8
-#EXTINF:-1,SUPERSPORTS Action
-http://kstv.us:8080/live/tH300gvHff/8606073792/47637.m3u8
-#EXTINF:-1,SUPERSPORTS La Lagia
-http://kstv.us:8080/live/tH300gvHff/8606073792/47638.m3u8
-#EXTINF:-1,SUPERSPORTS PSL
-http://kstv.us:8080/live/tH300gvHff/8606073792/47639.m3u8
-#EXTINF:-1,SUPERSPORTS MaXimo
-http://kstv.us:8080/live/tH300gvHff/8606073792/47640.m3u8
-#EXTINF:-1,WWE
-http://kstv.us:8080/live/tH300gvHff/8606073792/47642.m3u8
+
+
 
 ###############################$################################
 
@@ -3214,16 +2975,6 @@ https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
 #EXTINF:-1,[MM] MRTV Hluttaw
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w347202258.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 ,CANAL_SPORTS 1
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd=?|drmScheme=clearkey&drmLicense=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac
-
-#EXTINF:-1 ,THUKHUMA_1
-https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_1/output2/index.mpd?|drmScheme=clearkey&drmLicense=0752eeedc9c04d278e6cf2d477f3a3ed:9769ab0b2b0b4f0e3ee7316ae78b1689
-
-#EXTINF:-1 ,THUKHUMA_2
-https://ott2.canalplus-myanmar.com/bpk-tv/THUKHUMA_2/output2/index.mpd?|drmScheme=clearkey&drmLicense=464fb15007cd4620b19ed473f679c2bf:72f0b1a3c2d6003173644940c6a83831
 
 #EXTINF:-1 tvg-id="5Plus.mm",5 Plus (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
@@ -3315,24 +3066,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270945.ts
-
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 2
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270950.ts
-
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 3
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270954.ts
-
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 4
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/220.ts
-
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 5
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/50872.ts
-
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 5
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/50872.ts
 
 #EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png",Sportv 1
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
@@ -3347,44 +3080,7 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 
 <================================================>
 
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 1 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142519
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 2 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142520
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 3 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142521
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 4 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142522
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 5 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142523
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 6 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142524
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 7 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142525
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 8 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142526
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 9 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142527
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND 10 ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/142528
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| ON DEMAND ACTION
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/149599
 
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| FOX Movies ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/254336
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN|  Bein ANIMAL PLANET ᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/77012
-
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN|BEIN STAR WORLD HD
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/120308
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN|BEIN STAR MOVIES HD
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/623499
-
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|BEIN| Star Action ᵁᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/31713
-
-#EXTINF:-1 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",|beIN| National Geographic Wild ᴴᴰ
-http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/15064
 
 ########$$$$$####################################
 
@@ -3392,6 +3088,7 @@ http://mh.smpy24.live:80/yasdrm_723418/b7dgaaou/15064
 
 
 <======================== Malaysia ==========================>
+
 
 #EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL+ ???" tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="|FR| CINEMA",|FR| CANAL+ ???
 http://top102856-4k.org:80/abderahimkangoo201/pk6o5g2s9o/148474

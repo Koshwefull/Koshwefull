@@ -997,7 +997,40 @@ z-index:100
 
 #EXTM3U
 
-#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/htVCr69X/images-1719001317102.jpg",Star Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 1
+http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 2
+http://filex.tv:8080/live/Home329/Sohailhome/52085.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Sony Ten 3
+http://filex.tv:8080/live/Home329/Sohailhome/52086.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket
+http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/55.png",willow cricket extra
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401242182.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph&s=10",Sky Nz 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401242196.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/12.gif",TNT Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338313.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Premium 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338317.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Premium 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338316.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Dazan 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Dazan 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338284.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/112551.m3u8
 #EXTINF:-1,&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
 #EXTINF:-1,&pictures HD - Rs 19.00

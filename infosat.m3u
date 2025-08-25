@@ -984,400 +984,7 @@ flex:1 1 auto
 .dim-overlay{
 background-color:rgba(0,0,0,.54);
 z-index:100
-}
-body.sidebar-visible{
-overflow-y:hidden
-}
-@media screen and (max-width:1439px){
-.sidebar-container{
-bottom:0;
-position:fixed;
-top:0;
-left:0;
-right:auto
-}
-.sidebar-container.sidebar-invisible{
--webkit-transition-timing-function:cubic-bezier(.4,0,.6,1);
-transition-timing-function:cubic-bezier(.4,0,.6,1)
-}
-html[dir=ltr] .sidebar-container.sidebar-invisible{
--webkit-transform:translateX(-284px);
--ms-transform:translateX(-284px);
-transform:translateX(-284px)
-}
-html[dir=rtl] .sidebar-container.sidebar-invisible{
--webkit-transform:translateX(284px);
--ms-transform:translateX(284px);
-transform:translateX(284px)
-}
-}
-@media screen and (min-width:1440px){
-.sidebar-container{
-position:absolute;
-top:0;
-left:0;
-right:auto
-}
-.sidebar-container .navigation{
-display:none
-}
-}
-.dialog{
-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
-background:#01050c;
-box-sizing:border-box;
-color:#ffffff;
-padding:30px;
-position:fixed;
-text-align:center;
-width:calc(100% - 24px);
-z-index:101
-}
-.dialog input[type=email],.dialog input[type=text]{
-background-color:transparent;
-border:0;
-border-bottom:solid 1px rgba(255,255,255,.12);
-color:#ffffff;
-display:block;
-font-family:Lato, sans-serif;
-font-size:16px;
-line-height:24px;
-margin:auto;
-padding-bottom:7px;
-outline:0;
-text-align:center;
-width:100%
-}
-.dialog input[type=email]::-webkit-input-placeholder,.dialog input[type=text]::-webkit-input-placeholder{
-color:#ffffff
-}
-.dialog input[type=email]::-moz-placeholder,.dialog input[type=text]::-moz-placeholder{
-color:#ffffff
-}
-.dialog input[type=email]:-ms-input-placeholder,.dialog input[type=text]:-ms-input-placeholder{
-color:#ffffff
-}
-.dialog input[type=email]::-ms-input-placeholder,.dialog input[type=text]::-ms-input-placeholder{
-color:#ffffff
-}
-.dialog input[type=email]::placeholder,.dialog input[type=text]::placeholder{
-color:#ffffff
-}
-.dialog input[type=email]:focus,.dialog input[type=text]:focus{
-border-bottom:solid 2px #77e4ff;
-padding-bottom:6px
-}
-.dialog input.no-cursor{
-color:transparent;
-text-shadow:0 0 0 #ffffff
-}
-.dialog input.no-cursor:focus{
-outline:0
-}
-.dialog input.no-cursor:focus{
-outline:0
-}
-.dialog input[type=submit]{
-font-family:Lato, sans-serif
-}
-.dialog .goog-buttonset-default{
-color:#77e4ff
-}
-.subscribe-popup{
-max-width:364px
-}
-.subscribe-popup h3{
-color:#ffffff;
-font-size:1.8em;
-margin-top:0
-}
-.subscribe-popup .FollowByEmail h3{
-display:none
-}
-.subscribe-popup .FollowByEmail .follow-by-email-submit{
-color:#77e4ff;
-display:inline-block;
-margin:0 auto;
-margin-top:24px;
-width:auto;
-white-space:normal
-}
-.subscribe-popup .FollowByEmail .follow-by-email-submit:disabled{
-cursor:default;
-opacity:.3
-}
-@media (max-width:800px){
-.blog-name div.widget.Subscribe{
-margin-bottom:16px
-}
-body.item-view .blog-name div.widget.Subscribe{
-margin:8px auto 16px auto;
-width:100%
-}
-}
-body#layout .bg-photo,body#layout .bg-photo-overlay{
-display:none
-}
-body#layout .page_body{
-padding:0;
-position:relative;
-top:0
-}
-body#layout .page{
-display:inline-block;
-left:inherit;
-position:relative;
-vertical-align:top;
-width:540px
-}
-body#layout .centered{
-max-width:954px
-}
-body#layout .navigation{
-display:none
-}
-body#layout .sidebar-container{
-display:inline-block;
-width:40%
-}
-body#layout .hamburger-menu,body#layout .search{
-display:none
-}
-body{
-background-color:#01050c;
-color:#ffffff;
-font:normal 400 20px Lato, sans-serif;
-height:100%;
-margin:0;
-min-height:100vh
-}
-h1,h2,h3,h4,h5,h6{
-font-weight:400
-}
-a{
-color:#77e4ff;
-text-decoration:none
-}
-.dim-overlay{
-z-index:100
-}
-body.sidebar-visible .page_body{
-overflow-y:scroll
-}
-.widget .title{
-color:rgba(255, 255, 255, 0.54);
-font:normal 700 12px Lato, sans-serif
-}
-.extendable .show-less,.extendable .show-more{
-color:#77e4ff;
-font:normal 700 12px Lato, sans-serif;
-margin:12px -8px 0 -8px;
-text-transform:uppercase
-}
-.footer .widget,.main .widget{
-margin:50px 0
-}
-.main .widget .title{
-text-transform:uppercase
-}
-.inline-ad{
-display:block;
-margin-top:50px
-}
-.adsbygoogle{
-text-align:center
-}
-.page_body{
-display:-webkit-box;
-display:-webkit-flex;
-display:-ms-flexbox;
-display:flex;
--webkit-box-orient:vertical;
--webkit-box-direction:normal;
--webkit-flex-direction:column;
--ms-flex-direction:column;
-flex-direction:column;
-min-height:100vh;
-position:relative;
-z-index:20
-}
-.page_body>*{
--webkit-box-flex:0;
--webkit-flex:0 0 auto;
--ms-flex:0 0 auto;
-flex:0 0 auto
-}
-.page_body>#footer{
-margin-top:auto
-}
-.centered-bottom,.centered-top{
-margin:0 32px;
-max-width:100%
-}
-.centered-top{
-padding-bottom:12px;
-padding-top:12px
-}
-.sticky .centered-top{
-padding-bottom:0;
-padding-top:0
-}
-.centered-top-container,.centered-top-placeholder{
-background:#01050c
-}
-.centered-top{
-display:-webkit-box;
-display:-webkit-flex;
-display:-ms-flexbox;
-display:flex;
--webkit-flex-wrap:wrap;
--ms-flex-wrap:wrap;
-flex-wrap:wrap;
--webkit-box-pack:justify;
--webkit-justify-content:space-between;
--ms-flex-pack:justify;
-justify-content:space-between;
-position:relative
-}
-.sticky .centered-top{
--webkit-flex-wrap:nowrap;
--ms-flex-wrap:nowrap;
-flex-wrap:nowrap
-}
-.centered-top-container .svg-icon-24,.centered-top-placeholder .svg-icon-24{
-fill:rgba(255, 255, 255, 0.54)
-}
-.back-button-container,.hamburger-menu-container{
--webkit-box-flex:0;
--webkit-flex:0 0 auto;
--ms-flex:0 0 auto;
-flex:0 0 auto;
-height:48px;
--webkit-box-ordinal-group:2;
--webkit-order:1;
--ms-flex-order:1;
-order:1
-}
-.sticky .back-button-container,.sticky .hamburger-menu-container{
--webkit-box-ordinal-group:2;
--webkit-order:1;
--ms-flex-order:1;
-order:1
-}
-.back-button,.hamburger-menu,.search-expand-icon{
-cursor:pointer;
-margin-top:0
-}
-.search{
--webkit-box-align:start;
--webkit-align-items:flex-start;
--ms-flex-align:start;
-align-items:flex-start;
--webkit-box-flex:0;
--webkit-flex:0 0 auto;
--ms-flex:0 0 auto;
-flex:0 0 auto;
-height:48px;
-margin-left:24px;
--webkit-box-ordinal-group:4;
--webkit-order:3;
--ms-flex-order:3;
-order:3
-}
-.search,.search.focused{
-width:auto
-}
-.search.focused{
-position:static
-}
-.sticky .search{
-display:none;
--webkit-box-ordinal-group:5;
--webkit-order:4;
--ms-flex-order:4;
-order:4
-}
-.search .section{
-right:0;
-margin-top:12px;
-position:absolute;
-top:12px;
-width:0
-}
-.sticky .search .section{
-top:0
-}
-.search-expand{
-background:0 0;
-border:0;
-margin:0;
-outline:0;
-padding:0;
-color:#77e4ff;
-cursor:pointer;
--webkit-box-flex:0;
--webkit-flex:0 0 auto;
--ms-flex:0 0 auto;
-flex:0 0 auto;
-font:normal 700 12px Lato, sans-serif;
-text-transform:uppercase;
-word-break:normal
-}
-.search.focused .search-expand{
-visibility:hidden
-}
-.search .dim-overlay{
-background:0 0
-}
-.search.focused .section{
-max-width:400px
-}
-.search.focused form{
-border-color:rgba(255, 255, 255, 0.54);
-height:24px
-}
-.search.focused .search-input{
-display:-webkit-box;
-display:-webkit-flex;
-display:-ms-flexbox;
-display:flex;
--webkit-box-flex:1;
--webkit-flex:1 1 auto;
--ms-flex:1 1 auto;
-flex:1 1 auto
-}
-.search-input input{
--webkit-box-flex:1;
--webkit-flex:1 1 auto;
--ms-flex:1 1 auto;
-flex:1 1 auto;
-font:normal 700 16px Lato, sans-serif
-}
-.search input[type=submit]{
-display:none
-}
-.subscribe-section-container{
--webkit-box-flex:1;
--webkit-flex:1 0 auto;
--ms-flex:1 0 auto;
-flex:1 0 auto;
-margin-left:24px;
--webkit-box-ordinal-group:3;
--webkit-order:2;
--ms-flex-order:2;
-order:2;
-text-align:right
-}
-.sticky .subscribe-section-container{
--webkit-box-flex:0;
--webkit-flex:0 0 auto;
--ms-flex:0 0 auto;
-flex:0 0 auto;
--webkit-box-ordinal-group:4;
--webkit-order:3;
--ms-flex-order:3;
-order:3
-}
+
 
 
 
@@ -1390,67 +997,388 @@ order:3
 
 #EXTM3U
 
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-https://github.com/Koshwefull/Koshwefull/edit/main/infosat.m3u
-###########$#$$########################################
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",ABA SHWE 124
-https://youtu.be/wf42J-sdH0E?si=QgYfwtjtmj6ehZLG
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",👉👉👉အားပေးမှု့အတွက်အထူးကိုကျေးဇူးတင်ပါတယ်👍👍👍... 🇲🇲 မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ🙏🙏🙏...
-https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
-======================================================================================
+#EXTM3U
+#EXTINF:-1,&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022/index.m3u8
+#EXTINF:-1,&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1,&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u/index.m3u8
+#EXTINF:-1,24 News HD
+http://66.102.120.18:8000/play/a04v/index.m3u8
+#EXTINF:-1,24B HD
+http://66.102.120.18:8000/play/a044/index.m3u8
+#EXTINF:-1,365 NEWS
+http://66.102.120.18:8000/play/a039/index.m3u8
+#EXTINF:-1,8XM HD
+http://66.102.120.18:8000/play/a050/index.m3u8
+#EXTINF:-1,92 Entertainment
+http://66.102.120.18:8000/play/a06m/index.m3u8
+#EXTINF:-1,92 News HD
+http://66.102.120.18:8000/play/a04y/index.m3u8
+#EXTINF:-1,A SportsHD
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1,A1 TV
+http://66.102.120.18:8000/play/a04q/index.m3u8
+#EXTINF:-1,AAJ ENTERTANMENT
+http://66.102.120.18:8000/play/a05b/index.m3u8
+#EXTINF:-1,AAJ NEWS
+http://66.102.120.18:8000/play/a05a/index.m3u8
+#EXTINF:-1,AAN TV - HD
+http://66.102.120.18:8000/play/a05j/index.m3u8
+#EXTINF:-1,ABBTAKK HD
+http://66.102.120.18:8000/play/a051/index.m3u8
+#EXTINF:-1,AIK NEWS
+http://66.102.120.18:8000/play/a03d/index.m3u8
+#EXTINF:-1,APNA CHANNEL HD
+http://66.102.120.18:8000/play/a04z/index.m3u8
+#EXTINF:-1,APlus Pakistan
+http://66.102.120.18:8000/play/a03c/index.m3u8
+#EXTINF:-1,ARYDigitalAsia HD
+http://66.102.120.18:8000/play/a030/index.m3u8
+#EXTINF:-1,ARYMusik
+http://66.102.120.18:8000/play/a036/index.m3u8
+#EXTINF:-1,ARYNewsAsia
+http://66.102.120.18:8000/play/a02z/index.m3u8
+#EXTINF:-1,ARYQTV
+http://66.102.120.18:8000/play/a033/index.m3u8
+#EXTINF:-1,ARYZindagi
+http://66.102.120.18:8000/play/a031/index.m3u8
+#EXTINF:-1,ATV ENT HD
+http://66.102.120.18:8000/play/a03t/index.m3u8
+#EXTINF:-1,AUR_Life HD
+http://66.102.120.18:8000/play/a05k/index.m3u8
+#EXTINF:-1,AXN 
+http://66.102.120.18:8000/play/a06i/index.m3u8
+#EXTINF:-1,Al Jazeera English HD
+http://66.102.120.18:8000/play/a03j/index.m3u8
+#EXTINF:-1,Animal Planet - Rs 2.00
+http://66.102.120.18:8000/play/a010/index.m3u8
+#EXTINF:-1,B4U Movies - Free
+http://66.102.120.18:8000/play/a01w/index.m3u8
+#EXTINF:-1,BBC CEBEEBIES HD
+http://66.102.120.18:8000/play/a06g/index.m3u8
+#EXTINF:-1,BBC LIFESTYLE HD
+http://66.102.120.18:8000/play/a06h/index.m3u8
+#EXTINF:-1,BBC News 
+http://66.102.120.18:8000/play/a074/index.m3u8
+#EXTINF:-1,BOL News Urdu
+http://66.102.120.18:8000/play/a038/index.m3u8
+#EXTINF:-1,CITY-21
+http://66.102.120.18:8000/play/a05z/index.m3u8
+#EXTINF:-1,CITY-42 HD
+http://66.102.120.18:8000/play/a05x/index.m3u8
+#EXTINF:-1,CNN International
+http://66.102.120.18:8000/play/a03h/index.m3u8
+#EXTINF:-1,COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z/index.m3u8
+#EXTINF:-1,Capital TV
+http://66.102.120.18:8000/play/a02y/index.m3u8
+#EXTINF:-1,Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t/index.m3u8
+#EXTINF:-1,Cartoon Network HD+ 
+http://66.102.120.18:8000/play/a07d/index.m3u8
+#EXTINF:-1,Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a/index.m3u8
+#EXTINF:-1,Colors HD - Rs 19.00
+http://66.102.120.18:8000/play/a00a/index.m3u8
+#EXTINF:-1,DW English HD
+http://66.102.120.18:8000/play/a03i/index.m3u8
+#EXTINF:-1,Discover Pakistan
+http://66.102.120.18:8000/play/a06r/index.m3u8
+#EXTINF:-1,Discover Pakistan
+http://66.102.120.18:8000/play/a03v/index.m3u8
+#EXTINF:-1,Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k/index.m3u8
+#EXTINF:-1,Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k/index.m3u8
+#EXTINF:-1,Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l/index.m3u8
+#EXTINF:-1,Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016/index.m3u8
+#EXTINF:-1,Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1,Disney Junior - Rs 4.00
+http://66.102.120.18:8000/play/a004/index.m3u8
+#EXTINF:-1,Disny 
+http://66.102.120.18:8000/play/a070/index.m3u8
+#EXTINF:-1,Dunya News HD
+http://66.102.120.18:8000/play/a04u/index.m3u8
+#EXTINF:-1,EXP ENTERTAINMENT
+http://66.102.120.18:8000/play/a054/index.m3u8
+#EXTINF:-1,EXPRESS NEWS
+http://66.102.120.18:8000/play/a053/index.m3u8
+#EXTINF:-1,Eurosport HD - Rs 6.00
+http://66.102.120.18:8000/play/a01g/index.m3u8
+#EXTINF:-1,FAST SPORTS HD
+http://66.102.120.18:8000/play/a05f/index.m3u8
+#EXTINF:-1,FILMAX
+http://66.102.120.18:8000/play/a04c/index.m3u8
+#EXTINF:-1,FILMAZIA
+http://66.102.120.18:8000/play/a04d/index.m3u8
+#EXTINF:-1,FILMAZIA PUNJABI
+http://66.102.120.18:8000/play/a04n/index.m3u8
+#EXTINF:-1,FIX&FOXI
+http://66.102.120.18:8000/play/a04b/index.m3u8
+#EXTINF:-1,FN MOVIES HD
+http://66.102.120.18:8000/play/a06e/index.m3u8
+#EXTINF:-1,GEM COMEDY
+http://66.102.120.18:8000/play/a049/index.m3u8
+#EXTINF:-1,GEM TV HD
+http://66.102.120.18:8000/play/a045/index.m3u8
+#EXTINF:-1,GEO HD
+http://66.102.120.18:8000/play/a062/index.m3u8
+#EXTINF:-1,GEO KAHANI HD
+http://66.102.120.18:8000/play/a064/index.m3u8
+#EXTINF:-1,GEO NEWS
+http://66.102.120.18:8000/play/a05w/index.m3u8
+#EXTINF:-1,GEO SUPER HD
+http://66.102.120.18:8000/play/a063/index.m3u8
+#EXTINF:-1,GNNHD
+http://66.102.120.18:8000/play/a06p/index.m3u8
+#EXTINF:-1,GTV NEWS HD
+http://66.102.120.18:8000/play/a05m/index.m3u8
+#EXTINF:-1,GTV NEWS HD
+http://66.102.120.18:8000/play/a05l/index.m3u8
+#EXTINF:-1,Geo Tez
+http://66.102.120.18:8000/play/a05o/index.m3u8
+#EXTINF:-1,HUM HD
+http://66.102.120.18:8000/play/a06c/index.m3u8
+#EXTINF:-1,HUM NEWS HD
+http://66.102.120.18:8000/play/a05e/index.m3u8
+#EXTINF:-1,HUM SITARAY
+http://66.102.120.18:8000/play/a05i/index.m3u8
+#EXTINF:-1,Hidayat TV
+http://66.102.120.18:8000/play/a04p/index.m3u8
+#EXTINF:-1,History TV18 HD - Rs 7.00 
+http://66.102.120.18:8000/play/a01q/index.m3u8
+#EXTINF:-1,Hoora TV
+http://66.102.120.18:8000/play/a040/index.m3u8
+#EXTINF:-1,INPLUS Pakistan
+http://66.102.120.18:8000/play/a02x/index.m3u8
+#EXTINF:-1,Investigation Discovery - Rs 1.00
+http://66.102.120.18:8000/play/a01h/index.m3u8
+#EXTINF:-1,Isaac TV
+http://66.102.120.18:8000/play/a04j/index.m3u8
+#EXTINF:-1,JALWA HD
+http://66.102.120.18:8000/play/a052/index.m3u8
+#EXTINF:-1,KSA SPORT1 HD
+http://66.102.120.18:8000/play/a03o/index.m3u8
+#EXTINF:-1,KSA SPORT2 HD
+http://66.102.120.18:8000/play/a03p/index.m3u8
+#EXTINF:-1,Khyber News HD
+http://66.102.120.18:8000/play/a058/index.m3u8
+#EXTINF:-1,Kidzone Pakistan
+http://66.102.120.18:8000/play/a02l/index.m3u8
+#EXTINF:-1,LTN FAMILY
+http://66.102.120.18:8000/play/a04a/index.m3u8
+#EXTINF:-1,Lahore News HD
+http://66.102.120.18:8000/play/a04x/index.m3u8
+#EXTINF:-1,Lahore Rang HD
+http://66.102.120.18:8000/play/a05h/index.m3u8
+#EXTINF:-1,LotusTV
+http://66.102.120.18:8000/play/a03b/index.m3u8
+#EXTINF:-1,MASALA TV
+http://66.102.120.18:8000/play/a059/index.m3u8
+#EXTINF:-1,MIFA + HD
+http://66.102.120.18:8000/play/a048/index.m3u8
+#EXTINF:-1,MIFA + HD
+http://66.102.120.18:8000/play/a047/index.m3u8
+#EXTINF:-1,MIFA MUSIC HD
+http://66.102.120.18:8000/play/a046/index.m3u8
+#EXTINF:-1,MINIMAX 2
+http://66.102.120.18:8000/play/a04o/index.m3u8
+#EXTINF:-1,MTCL 1HD
+http://66.102.120.18:8000/play/a07m/index.m3u8
+#EXTINF:-1,MTCL 2HD
+http://66.102.120.18:8000/play/a07j/index.m3u8
+#EXTINF:-1,MTCL 3HD
+http://66.102.120.18:8000/play/a07k/index.m3u8
+#EXTINF:-1,MTCL 4HD
+http://66.102.120.18:8000/play/a07l/index.m3u8
+#EXTINF:-1,MTCL 5HD
+http://66.102.120.18:8000/play/a07i/index.m3u8
+#EXTINF:-1,MTCL 6HD
+http://66.102.120.18:8000/play/a07h/index.m3u8
+#EXTINF:-1,MTCL 8HD
+http://66.102.120.18:8000/play/a07g/index.m3u8
+#EXTINF:-1,MTCL7HD
+http://66.102.120.18:8000/play/a07f/index.m3u8
+#EXTINF:-1,MUN TV
+http://66.102.120.18:8000/play/a02j/index.m3u8
+#EXTINF:-1,Mastiii - Free
+http://66.102.120.18:8000/play/a073/index.m3u8
+#EXTINF:-1,Metro 1
+http://66.102.120.18:8000/play/a034/index.m3u8
+#EXTINF:-1,Movies Now HD - Rs 14.00
+http://66.102.120.18:8000/play/a019/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://66.102.120.18:8000/play/a01f/index.m3u8
+#EXTINF:-1,NEO NEWS HD
+http://66.102.120.18:8000/play/a05g/index.m3u8
+#EXTINF:-1,NEWS ONE
+http://66.102.120.18:8000/play/a057/index.m3u8
+#EXTINF:-1,NHK WORLD-JPN
+http://66.102.120.18:8000/play/a03k/index.m3u8
+#EXTINF:-1,NOOR TV PK
+http://66.102.120.18:8000/play/a04m/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD - Rs 8.00
+http://66.102.120.18:8000/play/a01d/index.m3u8
+#EXTINF:-1,Nick  - Rs 6.00
+http://66.102.120.18:8000/play/a00w/index.m3u8
+#EXTINF:-1,Nick HD+ 
+http://66.102.120.18:8000/play/a07a/index.m3u8
+#EXTINF:-1,Nick Jr. - Rs 1.00
+http://66.102.120.18:8000/play/a00m/index.m3u8
+#EXTINF:-1,ONYX HD
+http://66.102.120.18:8000/play/a041/index.m3u8
+#EXTINF:-1,PTV HOME HD
+http://66.102.120.18:8000/play/a04r/index.m3u8
+#EXTINF:-1,PTV NATIONAL
+http://66.102.120.18:8000/play/a03s/index.m3u8
+#EXTINF:-1,PTV NEWS HD
+http://66.102.120.18:8000/play/a04s/index.m3u8
+#EXTINF:-1,PTV WORLD HD
+http://66.102.120.18:8000/play/a04t/index.m3u8
+#EXTINF:-1,PTV-SPORTS-HD
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1,Paigham Pashto
+http://66.102.120.18:8000/play/a04g/index.m3u8
+#EXTINF:-1,Paigham Urdu
+http://66.102.120.18:8000/play/a04k/index.m3u8
+#EXTINF:-1,Paigham Urdu
+http://66.102.120.18:8000/play/a03e/index.m3u8
+#EXTINF:-1,Peace TV English  HD
+http://66.102.120.18:8000/play/a05q/index.m3u8
+#EXTINF:-1,Peace TV Urdu  HD
+http://66.102.120.18:8000/play/a05p/index.m3u8
+#EXTINF:-1,Planet Fun HD
+http://66.102.120.18:8000/play/a02k/index.m3u8
+#EXTINF:-1,Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l/index.m3u8
+#EXTINF:-1,Public News
+http://66.102.120.18:8000/play/a03u/index.m3u8
+#EXTINF:-1,QURAN TV
+http://66.102.120.18:8000/play/a04h/index.m3u8
+#EXTINF:-1,RIVER HD
+http://66.102.120.18:8000/play/a043/index.m3u8
+#EXTINF:-1,ROHI TV
+http://66.102.120.18:8000/play/a05y/index.m3u8
+#EXTINF:-1,RUBIX HD
+http://66.102.120.18:8000/play/a042/index.m3u8
+#EXTINF:-1,Romedy Now - Rs 5.00
+http://66.102.120.18:8000/play/a01j/index.m3u8
+#EXTINF:-1,SAMAA
+http://66.102.120.18:8000/play/a06o/index.m3u8
+#EXTINF:-1,SAUDI CH For Quran HD
+http://66.102.120.18:8000/play/a03m/index.m3u8
+#EXTINF:-1,SAUDI CH For Sunnah HD
+http://66.102.120.18:8000/play/a03n/index.m3u8
+#EXTINF:-1,SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005/index.m3u8
+#EXTINF:-1,SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r/index.m3u8
+#EXTINF:-1,SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://66.102.120.18:8000/play/a071/index.m3u8
+#EXTINF:-1,SONY PAL - Rs 0.50
+http://66.102.120.18:8000/play/a00j/index.m3u8
+#EXTINF:-1,SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z/index.m3u8
+#EXTINF:-1,SONY SAB HD - Rs 19.00
+http://66.102.120.18:8000/play/a00d/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 3 HD - Rs 19.00
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 4 - Rs 17.00
+http://66.102.120.18:8000/play/a014/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 5 HD 
+http://66.102.120.18:8000/play/a07b/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN4 HD 
+http://66.102.120.18:8000/play/a07n/index.m3u8
+#EXTINF:-1,SONY WAH - Rs 0.10
+http://66.102.120.18:8000/play/a007/index.m3u8
+#EXTINF:-1,SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s/index.m3u8
+#EXTINF:-1,STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f/index.m3u8
+#EXTINF:-1,STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021/index.m3u8
+#EXTINF:-1,STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020/index.m3u8
+#EXTINF:-1,STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008/index.m3u8
+#EXTINF:-1,STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1,STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1,STAR Sports 1 Hindi HD 
+http://66.102.120.18:8000/play/a072/index.m3u8
+#EXTINF:-1,STAR Sports2 Hindi HD 
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1,SUNO NEWS HD
+http://66.102.120.18:8000/play/a05n/index.m3u8
+#EXTINF:-1,Sab TV
+http://66.102.120.18:8000/play/a035/index.m3u8
+#EXTINF:-1,See TV
+http://66.102.120.18:8000/play/a03y/index.m3u8
+#EXTINF:-1,Set Entertainment
+http://66.102.120.18:8000/play/a05r/index.m3u8
+#EXTINF:-1,Showbox - Rs 0.10
+http://66.102.120.18:8000/play/a018/index.m3u8
+#EXTINF:-1,Sindh News
+http://66.102.120.18:8000/play/a03x/index.m3u8
+#EXTINF:-1,Sindh TV
+http://66.102.120.18:8000/play/a03w/index.m3u8
+#EXTINF:-1,Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p/index.m3u8
+#EXTINF:-1,Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g/index.m3u8
+#EXTINF:-1,Star Gold 2 HD
+http://66.102.120.18:8000/play/a077/index.m3u8
+#EXTINF:-1,Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r/index.m3u8
+#EXTINF:-1,Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s/index.m3u8
+#EXTINF:-1,Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c/index.m3u8
+#EXTINF:-1,Star News Asia
+http://66.102.120.18:8000/play/a03z/index.m3u8
+#EXTINF:-1,Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i/index.m3u8
+#EXTINF:-1,TLC HD - Rs 3.00
+http://66.102.120.18:8000/play/a01c/index.m3u8
+#EXTINF:-1,TRT World HD
+http://66.102.120.18:8000/play/a03l/index.m3u8
+#EXTINF:-1,TV ONE
+http://66.102.120.18:8000/play/a055/index.m3u8
+#EXTINF:-1,Travelxp HD
+http://66.102.120.18:8000/play/a075/index.m3u8
+#EXTINF:-1,WASEB TV
+http://66.102.120.18:8000/play/a056/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1,Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1,Zee Cinema HD 
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1,Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1,Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y/index.m3u8
+#EXTINF:-1,iFilm English
+http://66.102.120.18:8000/play/a06n/index.m3u8
 
-
-#############################$################################
-#EXTINF:-1 ,True Premier 1
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 ,True Premier 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 ,True Premier 3
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 ,True Premier 4
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 1
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 ,True Sports 3
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-http://103.120.172.74:4700
-
-#EXTINF:-1 tvg-id="Astro Cricket HD" tvg-name="Astro  Cricket" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-cricket-my.png" group-title="Astro Super Sports",Astro  Cricket
-http://imediatv666.store:7777/Mads77/GTRQEDTCY/112014
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro Supersport 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="Astro Super Sports",Astro Supersport 1
-http://imediatv666.store:7777/Mads77/GTRQEDTCY/110466
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro Supersport 2 " tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="Astro Super Sports",Astro Supersport 2 
-http://imediatv666.store:7777/Mads77/GTRQEDTCY/110467
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro Supersport 3 " tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="Astro Super Sports",Astro Supersport 3 
-http://imediatv666.store:7777/Mads77/GTRQEDTCY/110468
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro Supersport 4 " tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="Astro Super Sports",Astro Supersport 4 
-http://imediatv666.store:7777/Mads77/GTRQEDTCY/110469
-#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="Astro Supersport 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="Astro Super Sports",Astro Supersport 5
-http://imediatv666.store:7777/Mads77/GTRQEDTCY/123792
-
-
-#EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="trueSports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="trueSports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="trueSports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
 
 #################$$$$$####
@@ -1471,21 +1399,11 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #########################$#####################$$$$$$#####################################
 
-#EXTINF:-1,Sport TV 1
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167742
-#EXTINF:-1,Sport TV 2 
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167743
-#EXTINF:-1,Sport TV 3
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167744
-#EXTINF:-1,Sport TV 4 
-http://xxip25.top:8080/tamikahomecare/tamikahomecare/167745
 
 #######################$#########################################
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="🔴ESPN",ESPN 3 HD
-http://46.151.196.223:14444/
 
 
 

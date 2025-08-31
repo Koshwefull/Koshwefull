@@ -158,7 +158,105 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
+############$$$$$#############################$$$
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportaction.za" tvg-name="DSTV | SS Action FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="DSTV | Sports",DSTV | SS Action FHD
+http://b1g.ooo:80/Arun/123456/678484
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportaction.za" tvg-name="DSTV | SS Action HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="DSTV | Sports",DSTV | SS Action HD
+http://b1g.ooo:80/Arun/123456/299951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportblitz.za" tvg-name="DSTV | SS Blitz FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png" group-title="DSTV | Sports",DSTV | SS Blitz FHD
+http://b1g.ooo:80/Arun/123456/678483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportblitz.za" tvg-name="DSTV | SS Blitz HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png" group-title="DSTV | Sports",DSTV | SS Blitz HD
+http://b1g.ooo:80/Arun/123456/299955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportcricket.za" tvg-name="DSTV | SS Cricket FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="DSTV | Sports",DSTV | SS Cricket FHD
+http://b1g.ooo:80/Arun/123456/678482
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportcricket.za" tvg-name="DSTV | SS Cricket HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="DSTV | Sports",DSTV | SS Cricket HD
+http://b1g.ooo:80/Arun/123456/299944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportpsl.za" tvg-name="DSTV | SS PSL FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png" group-title="DSTV | Sports",DSTV | SS PSL FHD
+http://b1g.ooo:80/Arun/123456/678475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportpsl.za" tvg-name="DSTV | SS PSL HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png" group-title="DSTV | Sports",DSTV | SS PSL HD
+http://b1g.ooo:80/Arun/123456/299945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportlaliga.za" tvg-name="DSTV | SS La Liga FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png" group-title="DSTV | Sports",DSTV | SS La Liga FHD
+http://b1g.ooo:80/Arun/123456/678478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportlaliga.za" tvg-name="DSTV | SS La Liga HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png" group-title="DSTV | Sports",DSTV | SS La Liga HD
+http://b1g.ooo:80/Arun/123456/299946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportpremierleague.za" tvg-name="DSTV | SS Premier League FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png" group-title="DSTV | Sports",DSTV | SS Premier League FHD
+http://b1g.ooo:80/Arun/123456/678476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportpremierleague.za" tvg-name="DSTV | SS Premier League HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png" group-title="DSTV | Sports",DSTV | SS Premier League HD
+http://b1g.ooo:80/Arun/123456/299947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportfootball.za" tvg-name="DSTV | SS Football FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png" group-title="DSTV | Sports",DSTV | SS Football FHD
+http://b1g.ooo:80/Arun/123456/678481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportfootball.za" tvg-name="DSTV | SS Football HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png" group-title="DSTV | Sports",DSTV | SS Football HD
+http://b1g.ooo:80/Arun/123456/299948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportgrandstand.za" tvg-name="DSTV | SS Grandstand FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="DSTV | Sports",DSTV | SS Grandstand FHD
+http://b1g.ooo:80/Arun/123456/678479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportgrandstand.za" tvg-name="DSTV | SS Grandstand HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="DSTV | Sports",DSTV | SS Grandstand HD
+http://b1g.ooo:80/Arun/123456/299949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportmotorsport.za" tvg-name="DSTV | SS Motorsport FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="DSTV | Sports",DSTV | SS Motorsport FHD
+http://b1g.ooo:80/Arun/123456/678477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportmotorsport.za" tvg-name="DSTV | SS Motorsport HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="DSTV | Sports",DSTV | SS Motorsport HD
+http://b1g.ooo:80/Arun/123456/299954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportrugby.za" tvg-name="DSTV | SS Rugby FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png" group-title="DSTV | Sports",DSTV | SS Rugby FHD
+http://b1g.ooo:80/Arun/123456/678474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportrugby.za" tvg-name="DSTV | SS Rugby HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png" group-title="DSTV | Sports",DSTV | SS Rugby HD
+http://b1g.ooo:80/Arun/123456/299950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportgolf.za" tvg-name="DSTV | SS Golf FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EDH.png" group-title="DSTV | Sports",DSTV | SS Golf FHD
+http://b1g.ooo:80/Arun/123456/678480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportgolf.za" tvg-name="DSTV | SS Golf HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EDH.png" group-title="DSTV | Sports",DSTV | SS Golf HD
+http://b1g.ooo:80/Arun/123456/299952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportmaximo1.za" tvg-name="DSTV | SS MaXimo 1 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Maximo-1.png" group-title="DSTV | Sports",DSTV | SS MaXimo 1 HD
+http://b1g.ooo:80/Arun/123456/299953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersporttennis.za" tvg-name="DSTV | SS Tennis FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" group-title="DSTV | Sports",DSTV | SS Tennis FHD
+http://b1g.ooo:80/Arun/123456/678473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersporttennis.za" tvg-name="DSTV | SS Tennis HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" group-title="DSTV | Sports",DSTV | SS Tennis HD
+http://b1g.ooo:80/Arun/123456/299956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SupersportPlay.za" tvg-name="DSTV | SS Play HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Play.png" group-title="DSTV | Sports",DSTV | SS Play HD
+http://b1g.ooo:80/Arun/123456/299957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety1.za" tvg-name="DSTV | SS Variety 1 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png" group-title="DSTV | Sports",DSTV | SS Variety 1 FHD
+http://b1g.ooo:80/Arun/123456/678472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety1.za" tvg-name="DSTV | SS Variety 1 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png" group-title="DSTV | Sports",DSTV | SS Variety 1 HD
+http://b1g.ooo:80/Arun/123456/299958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety2.za" tvg-name="DSTV | SS Variety 2 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png" group-title="DSTV | Sports",DSTV | SS Variety 2 FHD
+http://b1g.ooo:80/Arun/123456/678471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety2.za" tvg-name="DSTV | SS Variety 2 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png" group-title="DSTV | Sports",DSTV | SS Variety 2 HD
+http://b1g.ooo:80/Arun/123456/299959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety3.za" tvg-name="DSTV | SS Variety 3 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png" group-title="DSTV | Sports",DSTV | SS Variety 3 HD
+http://b1g.ooo:80/Arun/123456/299960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety4.za" tvg-name="DSTV | SS Variety 4 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png" group-title="DSTV | Sports",DSTV | SS Variety 4 FHD
+http://b1g.ooo:80/Arun/123456/678469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety4.za" tvg-name="DSTV | SS Variety 4 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png" group-title="DSTV | Sports",DSTV | SS Variety 4 HD
+http://b1g.ooo:80/Arun/123456/299961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DSTV | Racing 240" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SKY.png" group-title="DSTV | Sports",DSTV | Racing 240
+http://b1g.ooo:80/Arun/123456/399883
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportMaximo2.za" tvg-name="DSTV | SS MaXimo 2 Liga Inglesa" tvg-logo="https://www.sahracing.com/index/img/photo%20(1).jpg" group-title="DSTV | Sports",DSTV | SS MaXimo 2 Liga Inglesa
+http://b1g.ooo:80/Arun/123456/300053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn.za" tvg-name="DSTV | ESPN HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-ESPN.png" group-title="DSTV | Sports",DSTV | ESPN HD
+http://b1g.ooo:80/Arun/123456/299962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.za" tvg-name="DSTV | ESPN 2 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="DSTV | Sports",DSTV | ESPN 2 HD
+http://b1g.ooo:80/Arun/123456/299963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GinxeSportsTV.za" tvg-name="DSTV | Ginx eSports TV HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png" group-title="DSTV | Sports",DSTV | Ginx eSports TV HD
+http://b1g.ooo:80/Arun/123456/299964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportwwe.za" tvg-name="DSTV | WWE Channel HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SSWWE.png" group-title="DSTV | Sports",DSTV | WWE Channel HD
+http://b1g.ooo:80/Arun/123456/299965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT.za" tvg-name="DSTV | SS OTT 1 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/m1tnc4h4/supersport-ott-1.png" group-title="DSTV | Sports",DSTV | SS OTT 1 HD
+http://b1g.ooo:80/Arun/123456/299966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT2.za" tvg-name="DSTV | SS OTT 2 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/ofwjhfg4/supersport-ott-2.png" group-title="DSTV | Sports",DSTV | SS OTT 2 HD
+http://b1g.ooo:80/Arun/123456/299967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT3.za" tvg-name="DSTV | SS OTT 3 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/j4zgc2cs/supersport-ott-3.png" group-title="DSTV | Sports",DSTV | SS OTT 3 HD
+http://b1g.ooo:80/Arun/123456/299968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT4.za" tvg-name="DSTV | SS OTT 4 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/scofujew/supersport-ott-4.png" group-title="DSTV | Sports",DSTV | SS OTT 4 HD
+http://b1g.ooo:80/Arun/123456/299969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT5.za" tvg-name="DSTV | SS OTT 5 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/qwlihdeu/supersport-ott-5.png" group-title="DSTV | Sports",DSTV | SS OTT 5 HD
+http://b1g.ooo:80/Arun/123456/299970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT6.za" tvg-name="DSTV | SS OTT 6 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/upgdtlsi/supersport-ott-6.png" group-title="DSTV | Sports",DSTV | SS OTT 6 HD
+http://b1g.ooo:80/Arun/123456/299971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportOTT7.za" tvg-name="DSTV | SS OTT 7 HD" tvg-logo="https://supersport-cms-prod.azureedge.net/media/q24jrjac/supersport-ott-7.png" group-title="DSTV | Sports",DSTV | SS OTT 7 HD
+http://b1g.ooo:80/Arun/123456/299972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DSTV | SuperSports School" tvg-logo="https://supersport-cms-prod.azureedge.net/media/1rydpzl5/supersport-ott-8.png" group-title="DSTV | Sports",DSTV | SuperSports School
+http://b1g.ooo:80/Arun/123456/299973
+
+
+#####################################$$$$$###########
 #EXTINF:-1,&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
 #EXTINF:-1,&pictures HD - Rs 19.00
